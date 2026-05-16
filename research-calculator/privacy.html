@@ -12,7 +12,7 @@
 
     <header>
       <h1>Privacy Policy</h1>
-      <p class="meta">ResearchCalc / Last updated: May 4, 2026</p>
+      <p class="meta">ResearchCalc / Last updated: May 16, 2026</p>
     </header>
 
     <p>
@@ -60,9 +60,27 @@
       <li>Diagnostics — Other diagnostic data: device type, OS version, and technical SDK diagnostics</li>
     </ul>
     <p>
-      If ATT permission is not granted, or if you have purchased the Pro
-      version, IDFA is not used and only contextual (non-personalized) ads
-      are served. At present, only non-personalized ads are requested for all users.
+      Whether an ad is personalized or non-personalized depends on two
+      independent layers of consent:
+    </p>
+    <ul>
+      <li><strong>UMP (GDPR / IAB TCF) consent</strong> — if the user is
+        in a regulated region (EEA, UK, regulated US states, etc.), a
+        Google-rendered consent form is shown on first launch. If the
+        user declines the "Store and access information on the device"
+        purpose, only non-personalized ads are requested.</li>
+      <li><strong>iOS App Tracking Transparency (ATT)</strong> — on iOS,
+        if the user denies tracking (or never grants it), IDFA is
+        unavailable; only non-personalized ads are requested.</li>
+    </ul>
+    <p>
+      Personalized ads are served only when both layers allow it: the
+      user consented to TCF purpose 1 <em>and</em> ATT is granted on
+      iOS (or the user is on Android, where ATT does not apply). In
+      every other case — non-EEA / non-regulated regions where consent
+      is unnecessary but ATT was denied, EEA users who declined
+      purpose 1, etc. — the app requests non-personalized ads only.
+      Pro users see no ads at all.
     </p>
     <p>
       <strong>Cross-border transfer:</strong>
