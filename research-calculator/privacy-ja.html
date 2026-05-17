@@ -12,7 +12,7 @@
 
     <header>
       <h1>プライバシーポリシー</h1>
-      <p class="meta">ResearchCalc / 最終更新日: 2026 年 5 月 16 日</p>
+      <p class="meta">ResearchCalc / 最終更新日: 2026 年 5 月 17 日</p>
     </header>
 
     <p>
@@ -23,7 +23,9 @@
     <h2>事業者情報</h2>
     <ul>
       <li>事業者 (個人開発者): Akira Sugiyama (運営ブランド名: CedarLab)</li>
-      <li>所在地: 日本</li>
+      <li>所在地: 日本国内 (個人事業主のため、詳細な住所は法令上必要な
+        場合または合理的なご要請に応じて、お問い合わせメール経由で
+        遅滞なく開示いたします)</li>
       <li>アプリ名: ResearchCalc</li>
       <li>お問い合わせ: <a href="mailto:legal@cedarlab.dev">legal@cedarlab.dev</a></li>
     </ul>
@@ -67,17 +69,25 @@
       <li><strong>UMP (GDPR / IAB TCF) の同意</strong> —
         EEA・英国・規制対象の米国州など対象地域のユーザーには初回起動時に
         Google が用意した同意フォームが表示されます。「端末への情報保存および
-        アクセス」目的を拒否した場合、内容ベースの広告のみがリクエストされます。</li>
+        アクセス」目的 (TCF purpose 1) は、Google Mobile Ads SDK が広告を
+        配信するための基礎となる同意です。purpose 1 を拒否した場合、
+        SDK は Google の設定が許可する範囲で「限定広告」(内容ベース・端末
+        ストレージへのアクセスなし) のみを配信、または地域によっては広告を
+        一切配信しない場合があります。いずれの場合も、purpose 1 が許可
+        されていない限りパーソナライズ広告は配信されません。</li>
       <li><strong>iOS App Tracking Transparency (ATT)</strong> —
         iOS で「許可しない」を選択 (または許可を取得していない) 場合、
-        IDFA は利用できず、内容ベースの広告のみがリクエストされます。</li>
+        IDFA は利用できません。たとえ TCF purpose 1 に同意していても、
+        ATT が拒否されていれば SDK の非パーソナライズ (NPA) 経路で
+        リクエストされます。</li>
     </ul>
     <p>
       パーソナライズ広告が配信されるのは、両レイヤーが許可した場合のみ
       (TCF purpose 1 への同意 <em>かつ</em> iOS では ATT 許可、もしくは
-      ATT が該当しない Android) です。それ以外のケース、たとえば「対象地域外
-      で ATT を拒否」「EEA で purpose 1 を拒否」などでは、内容ベースの広告
-      のみが配信されます。Pro 版のユーザーには広告は一切表示されません。
+      ATT が該当しない Android) です。いずれかのレイヤーが許可されない
+      場合、SDK はその地域における Google の当時のルールに従い、
+      非パーソナライズ広告・限定広告・広告非配信のいずれかにフォールバック
+      します。Pro 版のユーザーには広告は一切表示されません。
     </p>
     <p>
       <strong>外国にある第三者への提供:</strong>
@@ -95,6 +105,14 @@
       <strong>第三者サービス:</strong>
       本アプリに統合されている第三者サービス (Google AdMob、Apple StoreKit) における
       情報の取り扱いは、各社自身のプライバシーポリシーに基づき管理されます。
+      当該サービスは、それぞれの公開規約 (Google Ads Data Processing
+      Terms、Apple Developer Program License Agreement) のもとで
+      統合されており、これらの契約により、二次利用の制限、データ
+      セキュリティ、国際移転に関する safeguard を含め、本ポリシーに
+      記載される保護と同等の措置を当該プロバイダが講じることが
+      契約上義務付けられています。Apple App Store Review Guideline
+      5.1.1 に基づき、本ポリシーに記載するユーザーデータの保護と
+      同等の保護をこれら第三者が提供することを表明します。
     </p>
     <p>
       Google のプライバシーポリシー: <a href="https://policies.google.com/privacy">https://policies.google.com/privacy</a>
@@ -114,7 +132,8 @@
     <h2>3. 本アプリ自体が収集しない情報</h2>
     <p>
       本アプリ自体は、以下の情報を収集しません
-      (※ 第 2.1 項に記載した Google AdMob 経由の取り扱いは除きます):
+      (※ 第 2.1 項に記載した Google AdMob 経由の取り扱い、および
+      第 3.1 項に記載したお問い合わせメールによる任意提供分は除きます):
     </p>
     <ul>
       <li>氏名、メールアドレス、電話番号</li>
@@ -122,6 +141,36 @@
       <li>連絡先、写真、カレンダー</li>
       <li>アカウント情報 (アカウント登録機能はありません)</li>
     </ul>
+
+    <h3>3.1 メールでのお問い合わせを通じて任意に提供される情報</h3>
+    <p>
+      <a href="mailto:legal@cedarlab.dev">legal@cedarlab.dev</a> または
+      <a href="mailto:support@cedarlab.dev">support@cedarlab.dev</a>
+      宛にお問い合わせいただいた場合、以下を取得・処理します:
+    </p>
+    <ul>
+      <li>送信元メールアドレス</li>
+      <li>署名や差出人欄に含まれる氏名・組織等</li>
+      <li>メール本文と添付ファイル (不具合報告のスクリーンショット等)</li>
+    </ul>
+    <p>
+      <strong>利用目的:</strong> お問い合わせへの返答、不具合の調査、
+      およびプライバシー権利に関するご要望への対応など、法令上の
+      義務履行のため。
+    </p>
+    <p>
+      <strong>保存期間:</strong> サポート/プライバシーのやりとりは、
+      お問い合わせ解決後 12 か月を上限として保存し、以後削除します。
+      この期間中であっても、当該スレッドへの返信または
+      <a href="mailto:legal@cedarlab.dev">legal@cedarlab.dev</a>
+      への連絡により、削除をいつでもご請求いただけます。
+    </p>
+    <p>
+      <strong>13 歳未満のお子様:</strong> メール内容から差出人が 13 歳
+      未満であると判明した場合、児童のオンラインの安全のため必要な
+      範囲 (例: 保護者への案内) でのみ当該の問い合わせに対応し、
+      その後メールおよび関連する個人データを削除します。
+    </p>
 
     <h2>4. 子どものプライバシー</h2>
     <p>
@@ -152,7 +201,20 @@
 
     <h2>7. EEA / UK 居住者の権利 (GDPR)</h2>
     <p>
-      本アプリのデータ管理者 (controller) は日本在住の個人開発者 Akira Sugiyama (運営ブランド名: CedarLab) です。本アプリは無料版で広告配信のため Google AdMob を統合しており、Google は広告関連処理について別個のデータ管理者 (構成によっては共同管理者) として動作します。詳細は Google のポリシーをご参照ください。
+      本アプリのデータ管理者 (controller) は日本在住の個人開発者
+      Akira Sugiyama (運営ブランド名: CedarLab) です。本アプリは
+      無料版で広告配信のため Google AdMob を統合しており、Google が
+      公表する AdMob 管理者責任 (controller responsibilities) に
+      基づき、Google は当該統合における広告関連処理について
+      <strong>独立したデータ管理者 (independent controller)</strong>
+      として動作します。詳細は Google のポリシーをご参照ください。
+    </p>
+    <p>
+      開発者は日本に所在し、EEA / UK の App Store では本アプリを
+      配信しないため (Apple Developer ダッシュボードで DSA Non-Trader
+      宣言)、GDPR 第 27 条上の代理人を EEA / UK に設置していません。
+      ただし EEA / UK にお住まいの方も、適用ある権利を行使される場合は
+      第 11 項のメールアドレスまで直接お問い合わせいただけます。
     </p>
     <p><strong>AdMob 経由の処理に関する法的根拠:</strong></p>
     <ul>
@@ -164,15 +226,46 @@
       </li>
     </ul>
     <p>
-      GDPR または UK GDPR が適用される範囲において、ご自身の個人データの処理に対するアクセス・訂正・消去・制限・異議申立ての権利、および同意撤回の権利を有します。これらの権利を行使される場合は、第 11 項のメールアドレスまでご連絡ください。
+      GDPR または UK GDPR が適用される範囲において、ご自身の個人
+      データの処理に対する以下の権利を有します:
+    </p>
+    <ul>
+      <li><strong>アクセス権</strong> — 当方がご自身のデータを保有
+        しているかの確認、およびその写しの取得</li>
+      <li><strong>訂正の権利</strong> — 不正確なデータの訂正</li>
+      <li><strong>消去の権利</strong>「忘れられる権利」</li>
+      <li><strong>処理の制限</strong></li>
+      <li><strong>異議申立ての権利</strong> — 正当な利益に基づく
+        処理 (プロファイリングを含む) への異議</li>
+      <li><strong>データポータビリティの権利</strong> — 構造化・
+        一般的・機械可読な形式でご自身のデータを受け取る権利
+        (注: 本アプリの計算データは端末内のみに保存されるため、
+        当方への請求なしにアプリの CSV エクスポート機能で
+        エクスポート可能です)</li>
+      <li><strong>同意の撤回</strong> — 同意に基づく処理について
+        いつでも撤回可能</li>
+      <li><strong>監督機関への苦情申立ての権利</strong> — EEA に
+        お住まいの方は居住国のデータ保護当局、英国にお住まいの方
+        は Information Commissioner's Office (ICO,
+        <a href="https://ico.org.uk/">https://ico.org.uk/</a>)</li>
+    </ul>
+    <p>
+      これらの権利を行使される場合は、第 11 項のメールアドレスまで
+      ご連絡ください。
     </p>
     <p>
       個人データは Google AdMob により EEA / UK 域外 (米国) に移転される場合があり、Google のポリシーに記載される保護措置のもとで処理されます。
     </p>
 
-    <h2>8. カリフォルニア州居住者の権利 (CCPA / CPRA)</h2>
+    <h2>8. カリフォルニア州居住者の権利 (CCPA / CPRA) — 個人情報の販売・共有のオプトアウト (Do Not Sell or Share My Personal Information / Your Privacy Choices)</h2>
     <p>
-      開発者は個人情報を金銭的対価のため販売することはありません。ただし、本アプリの無料版に統合された Google AdMob は、CPRA に定義される cross-context behavioral advertising (異なる事業者にまたがる行動ターゲティング広告) の目的で第三者と情報 (ATT 許可時の IDFA、おおまかな位置情報等) を共有する場合があります。cross-context advertising はいつでも以下の方法でオプトアウトできます:
+      開発者は個人情報を金銭的対価のため販売することはありません。
+      ただし、本アプリの無料版に統合された Google AdMob は、CPRA に
+      定義される cross-context behavioral advertising (異なる事業者に
+      またがる行動ターゲティング広告) の目的で第三者と情報 (ATT 許可時
+      の IDFA、おおまかな位置情報等) を共有する場合があります。
+      cross-context advertising (「販売・共有のオプトアウト」権利の
+      行使) はいつでも以下の方法で実施できます:
     </p>
     <ul>
       <li>iOS 設定で ATT 許可を拒否または撤回する (第 2.1 項参照)</li>

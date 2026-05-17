@@ -12,7 +12,7 @@
 
     <header>
       <h1>Privacy Policy</h1>
-      <p class="meta">ResearchCalc / Last updated: May 16, 2026</p>
+      <p class="meta">ResearchCalc / Last updated: May 17, 2026</p>
     </header>
 
     <p>
@@ -66,21 +66,29 @@
     <ul>
       <li><strong>UMP (GDPR / IAB TCF) consent</strong> — if the user is
         in a regulated region (EEA, UK, regulated US states, etc.), a
-        Google-rendered consent form is shown on first launch. If the
-        user declines the "Store and access information on the device"
-        purpose, only non-personalized ads are requested.</li>
+        Google-rendered consent form is shown on first launch. The
+        "Store and access information on the device" purpose
+        (TCF purpose 1) is the foundational consent on which the
+        Google Mobile Ads SDK can serve ads at all. If purpose 1 is
+        declined, the SDK may serve only "limited ads" (non-
+        personalized, no device-storage access) where Google's
+        configuration permits, or in some regions may not serve any
+        ads at all. In no case will personalized ads be served when
+        purpose 1 has not been granted.</li>
       <li><strong>iOS App Tracking Transparency (ATT)</strong> — on iOS,
-        if the user denies tracking (or never grants it), IDFA is
-        unavailable; only non-personalized ads are requested.</li>
+        if the user denies tracking (or never grants it), the IDFA is
+        unavailable. Even if TCF purpose 1 was consented to, denied
+        ATT routes the request through the SDK's non-personalized
+        (NPA) path.</li>
     </ul>
     <p>
       Personalized ads are served only when both layers allow it: the
       user consented to TCF purpose 1 <em>and</em> ATT is granted on
-      iOS (or the user is on Android, where ATT does not apply). In
-      every other case — non-EEA / non-regulated regions where consent
-      is unnecessary but ATT was denied, EEA users who declined
-      purpose 1, etc. — the app requests non-personalized ads only.
-      Pro users see no ads at all.
+      iOS (or the user is on Android, where ATT does not apply).
+      When either layer is unavailable, the SDK falls back to
+      non-personalized / limited / no-ad serving according to
+      Google's then-current rules for that region. Pro users see no
+      ads at all.
     </p>
     <p>
       <strong>Cross-border transfer:</strong>
@@ -97,9 +105,18 @@
     </p>
     <p>
       <strong>Third-party services:</strong>
-      Information handled by the third-party services integrated into the
-      App (Google AdMob, Apple StoreKit) is governed by each provider's
-      own privacy policy.
+      Information handled by the third-party services integrated into
+      the App (Google AdMob, Apple StoreKit) is governed by each
+      provider's own privacy policy. We integrate these services
+      under their published terms (Google Ads Data Processing Terms,
+      Apple Developer Program License Agreement), which contractually
+      require the providers to apply protections to user data that
+      are equivalent to those described in this policy, including
+      restrictions on secondary use, data security, and
+      international-transfer safeguards. Per Apple App Store Review
+      Guideline 5.1.1, we represent that these third parties provide
+      the same or equal protection of user data as stated in this
+      policy.
     </p>
     <p>
       Google's privacy policy:
@@ -123,7 +140,8 @@
     <h2>3. Information the App Itself Does NOT Collect</h2>
     <p>
       The App itself does not collect the following
-      (other than the AdMob handling described in Section 2.1):
+      (other than the AdMob handling described in Section 2.1, and
+      the voluntary inquiry email described in Section 3.1):
     </p>
     <ul>
       <li>Names, email addresses, phone numbers</li>
@@ -131,6 +149,39 @@
       <li>Contacts, photos, calendar data</li>
       <li>Account information (no account registration is offered)</li>
     </ul>
+
+    <h3>3.1 Information Submitted Voluntarily by Email</h3>
+    <p>
+      When you contact us by email (e.g.,
+      <a href="mailto:legal@cedarlab.dev">legal@cedarlab.dev</a> or
+      <a href="mailto:support@cedarlab.dev">support@cedarlab.dev</a>),
+      we receive and process:
+    </p>
+    <ul>
+      <li>The email address from which you write</li>
+      <li>Any name, organization, or signature you include</li>
+      <li>The message body and any attachments you send (e.g.,
+        screenshots for bug reports)</li>
+    </ul>
+    <p>
+      <strong>Purpose:</strong> to respond to your inquiry, diagnose
+      bugs, and meet legal obligations such as responding to privacy
+      rights requests.
+    </p>
+    <p>
+      <strong>Retention:</strong> support and privacy correspondence
+      is kept for up to 12 months after the inquiry is resolved,
+      then deleted. You may request earlier deletion at any time by
+      replying to the conversation or writing to
+      <a href="mailto:legal@cedarlab.dev">legal@cedarlab.dev</a>.
+    </p>
+    <p>
+      <strong>Children under 13:</strong> If we learn from the
+      message contents that the sender is under 13, we will respond
+      to the immediate inquiry only as needed for the child's online
+      safety (e.g., directing them to a parent or guardian), and
+      then delete the message and any associated personal data.
+    </p>
 
     <h2>4. Children's Privacy</h2>
     <p>
@@ -168,12 +219,22 @@
 
     <h2>7. Rights of Users in the EEA / UK (GDPR)</h2>
     <p>
-      The data controller for the App is Akira Sugiyama (operating under
-      the &quot;CedarLab&quot; brand), an individual developer based in Japan. The
-      App integrates Google AdMob for ad delivery in the free tier;
-      Google acts as a separate data controller (or joint controller,
-      depending on configuration) for ad-related processing. Refer to
-      Google's policies for details.
+      The data controller for the App is Akira Sugiyama (operating
+      under the &quot;CedarLab&quot; brand), an individual developer based in
+      Japan. The App integrates Google AdMob for ad delivery in the
+      free tier; per Google's published controller responsibilities
+      for AdMob, Google acts as an <strong>independent data
+      controller</strong> for ad-related processing under that
+      integration. Refer to Google's policies for details.
+    </p>
+    <p>
+      Because the developer is established in Japan and does not
+      offer the App for distribution in the EEA / UK App Store (see
+      DSA non-Trader declaration in Apple Developer dashboard), the
+      developer has not appointed an Article 27 representative in
+      the EEA / UK. EEA / UK individuals may nonetheless contact the
+      developer at the address in Section 11 to exercise any
+      applicable rights.
     </p>
     <p><strong>Legal bases for processing via AdMob:</strong></p>
     <ul>
@@ -194,11 +255,34 @@
       </li>
     </ul>
     <p>
-      Where applicable under the GDPR or UK GDPR, you have the right to
-      access, rectify, erase, restrict, or object to the processing of
-      your personal data, and the right to withdraw consent at any time.
-      To exercise these rights, please contact us via the email address in
-      Section 11.
+      Where applicable under the GDPR or UK GDPR, you have the
+      following rights with respect to the processing of your
+      personal data:
+    </p>
+    <ul>
+      <li><strong>Access</strong> — to confirm whether we hold your
+        data and obtain a copy</li>
+      <li><strong>Rectification</strong> — to correct inaccurate data</li>
+      <li><strong>Erasure</strong> ("right to be forgotten")</li>
+      <li><strong>Restriction</strong> of processing</li>
+      <li><strong>Objection</strong> to processing based on
+        legitimate interest, including objection to profiling</li>
+      <li><strong>Data portability</strong> — to receive your data
+        in a structured, commonly used, machine-readable format
+        (note: the App holds your calculation data only on your
+        device; you can export it via the App's CSV export feature
+        without contacting us)</li>
+      <li><strong>Withdrawal of consent</strong> at any time, where
+        processing is based on consent</li>
+      <li><strong>Right to lodge a complaint</strong> with a
+        supervisory authority — for EEA users, the data protection
+        authority of your country of residence; for UK users, the
+        Information Commissioner's Office (ICO,
+        <a href="https://ico.org.uk/">https://ico.org.uk/</a>)</li>
+    </ul>
+    <p>
+      To exercise any of these rights, please contact us via the
+      email address in Section 11.
     </p>
     <p>
       Personal data may be transferred outside the EEA / UK to the United
@@ -206,14 +290,15 @@
       Google's policies.
     </p>
 
-    <h2>8. Rights of California Residents (CCPA / CPRA)</h2>
+    <h2>8. Rights of California Residents (CCPA / CPRA) — Do Not Sell or Share My Personal Information / Your Privacy Choices</h2>
     <p>
       The developer does not sell personal information for monetary
       consideration. However, the App's free tier integrates Google
       AdMob, which may share information (such as IDFA when ATT is
       granted, and approximate location) with third parties for
       cross-context behavioral advertising purposes as defined by the
-      CPRA. You can opt out of cross-context advertising at any time by:
+      CPRA. You can opt out of cross-context advertising (exercise
+      your "Do Not Sell or Share" right) at any time by:
     </p>
     <ul>
       <li>Declining or revoking ATT permission via iOS Settings (see Section 2.1)</li>
