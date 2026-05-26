@@ -8,11 +8,11 @@
 </head>
 <body>
   <main>
-    <p class="lang-switch"><a href="./support.html">日本語</a></p>
+    <p class="lang-switch"><a href="./support-ja.html">日本語</a></p>
 
     <header>
       <h1>Support</h1>
-      <p class="meta">Experiment Timer / Last updated: May 14, 2026</p>
+      <p class="meta">Experiment Timer / Last updated: May 26, 2026</p>
     </header>
 
     <h2>Contact</h2>
@@ -41,7 +41,7 @@
       in the free tier, advertisements served by Google AdMob may collect
       device identifiers (such as IDFA), usage data, diagnostics, and
       approximate location data on the AdMob side; see the
-      <a href="./privacy.html">Privacy Policy</a> for details.)
+      <a href="./privacy-en.html">Privacy Policy</a> for details.)
     </p>
 
     <h3>Q. Can I migrate my data to a new device?</h3>
@@ -54,7 +54,7 @@
     <h3>Q. I purchased Pro but I still see ads</h3>
     <p>
       If your purchase has not been applied immediately, please tap
-      "Restore Purchase" on the Settings screen. If that does not resolve
+      "Restore purchase" on the Settings screen. If that does not resolve
       the issue, please contact us via the support email above.
     </p>
 
@@ -141,13 +141,28 @@
       what happened). Including the App version and iOS version is helpful too.
     </p>
 
+    <h3>Q. How do I change my advertising / privacy consent?</h3>
+    <p>
+      You can revoke or re-grant App Tracking Transparency (ATT)
+      permission at any time via iOS
+      <code>Settings &gt; Privacy &amp; Security &gt; Tracking</code>.
+      Because the App in v1.0 always requests non-personalized ads only
+      (<code>requestNonPersonalizedAdsOnly: true</code>), no IDFA-driven
+      tracking ads are served regardless of your ATT choice. Pro users
+      see no ads at all (the AdMob SDK is not loaded).
+    </p>
+
     <h2>Related</h2>
     <ul>
-      <li><a href="./privacy.html">Privacy Policy</a></li>
+      <li><a href="./privacy-en.html">Privacy Policy</a></li>
     </ul>
 
     <footer>
       &copy; Cedarlab / Experiment Timer
+      <br>
+      <small>
+        Experiment Timer is developed and published by Akira Sugiyama (Cedarlab) as an individual developer.
+      </small>
     </footer>
   </main>
 </body>
