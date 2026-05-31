@@ -12,7 +12,7 @@
 
     <header>
       <h1>Privacy Policy</h1>
-      <p class="meta">Experiment Timer / Last updated: May 26, 2026</p>
+      <p class="meta">Experiment Timer / Last updated: May 31, 2026</p>
     </header>
 
     <p>
@@ -79,7 +79,8 @@
       You can revoke ATT permission at any time via
       <code>Settings &gt; Privacy &amp; Security &gt; Tracking</code> on iOS.
       After revocation, only contextual (non-IDFA-based) ads will be served.
-      Purchasing Pro removes ads entirely and unloads the AdMob SDK.
+      Purchasing Pro removes ads entirely and stops any further ad requests;
+      on launches where Pro is already active, the AdMob SDK is not initialized.
     </p>
     <p>
       <strong>Third-party services:</strong>
@@ -287,12 +288,19 @@
     <h2>9. Rights of California Residents (CCPA / CPRA) — Do Not Sell or Share My Personal Information / Your Privacy Choices</h2>
     <p>
       The developer does not sell personal information for monetary
-      consideration. However, the App's free tier integrates Google
-      AdMob, which may share information (such as IDFA when ATT is
-      granted, and approximate location) with third parties for
-      cross-context behavioral advertising purposes as defined by the
-      CPRA. You can opt out of cross-context advertising (exercise
-      your "Do Not Sell or Share" right) at any time by:
+      consideration. In addition, because the App in v1.0 always requests
+      non-personalized ads only
+      (<code>requestNonPersonalizedAdsOnly: true</code>), it does not
+      "share" personal information for cross-context behavioral advertising
+      as defined by the CPRA. The free-tier Google AdMob integration handles
+      some device information (such as IDFA when ATT is granted, and
+      approximate location) for the ad-delivery and related purposes
+      described in Section 2.1 (contextual ads, frequency capping, aggregate
+      measurement, and SDK diagnostics / quality), but not for behavioral
+      targeting. To the extent any such handling is nonetheless deemed a
+      "sale" or "share" under applicable law, and if you wish to control how
+      your IDFA is handled, you may exercise the following privacy choices at
+      any time:
     </p>
     <ul>
       <li>Declining or revoking ATT permission via iOS Settings (see Section 2.1)</li>
