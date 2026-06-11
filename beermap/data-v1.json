@@ -1,7 +1,7 @@
 {
  "format_version": 1,
- "data_version": 3,
- "generated_at": "2026-06-11T20:36:33.901Z",
+ "data_version": 4,
+ "generated_at": "2026-06-11T20:46:50.081Z",
  "shops": [
   {
    "id": "shop-001",
@@ -3093,6 +3093,1493 @@
      "price": 650,
      "size": "Regular",
      "notes": "チェーン共通（キリンシティ）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r029",
+   "name": "YEBISU BAR 銀座コリドー街店",
+   "address": "東京都中央区銀座8-2先 コリドー街1F",
+   "area": "銀座/中央区",
+   "nearest_station": null,
+   "latitude": 35.669827,
+   "longitude": 139.759583,
+   "offerings": [
+    {
+     "id": "off-r029-1",
+     "maker": "sapporo",
+     "product_name": "ヱビス",
+     "serving_type": "draft",
+     "price": null,
+     "size": null,
+     "notes": "チェーン共通（YEBISU BAR）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r030",
+   "name": "YEBISU BAR グランスタ八重北店",
+   "address": "東京都千代田区丸の内1-９-1",
+   "area": "千代田区",
+   "nearest_station": null,
+   "latitude": 35.681252,
+   "longitude": 139.767242,
+   "offerings": [
+    {
+     "id": "off-r030-1",
+     "maker": "sapporo",
+     "product_name": "ヱビス",
+     "serving_type": "draft",
+     "price": null,
+     "size": null,
+     "notes": "チェーン共通（YEBISU BAR）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r031",
+   "name": "YEBISU BAR 上野の森さくらテラス店",
+   "address": "東京都台東区上野公園1－54 上野の森さくらテラス",
+   "area": "上野",
+   "nearest_station": null,
+   "latitude": 35.712082,
+   "longitude": 139.774704,
+   "offerings": [
+    {
+     "id": "off-r031-1",
+     "maker": "sapporo",
+     "product_name": "ヱビス",
+     "serving_type": "draft",
+     "price": null,
+     "size": null,
+     "notes": "チェーン共通（YEBISU BAR）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r032",
+   "name": "YEBISU BAR 大崎店",
+   "address": "東京都品川区大崎1-6-5 大崎ニューシティ5号館2F",
+   "area": "大崎",
+   "nearest_station": null,
+   "latitude": 35.620804,
+   "longitude": 139.729477,
+   "offerings": [
+    {
+     "id": "off-r032-1",
+     "maker": "sapporo",
+     "product_name": "ヱビス",
+     "serving_type": "draft",
+     "price": null,
+     "size": null,
+     "notes": "チェーン共通（YEBISU BAR）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r033",
+   "name": "YEBISU BAR 調布サウスゲートビル店",
+   "address": "東京都調布市小島町2-48-26",
+   "area": "調布",
+   "nearest_station": null,
+   "latitude": 35.65181,
+   "longitude": 139.54277,
+   "offerings": [
+    {
+     "id": "off-r033-1",
+     "maker": "sapporo",
+     "product_name": "ヱビス",
+     "serving_type": "draft",
+     "price": null,
+     "size": null,
+     "notes": "チェーン共通（YEBISU BAR）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r034",
+   "name": "YEBISU BAR 新宿店",
+   "address": "東京都新宿区新宿3－28－9 新宿ライオン会館2F",
+   "area": "新宿",
+   "nearest_station": null,
+   "latitude": 35.691151,
+   "longitude": 139.702454,
+   "offerings": [
+    {
+     "id": "off-r034-1",
+     "maker": "sapporo",
+     "product_name": "ヱビス",
+     "serving_type": "draft",
+     "price": null,
+     "size": null,
+     "notes": "チェーン共通（YEBISU BAR）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r035",
+   "name": "YEBISU BAR エミオ石神井公園店",
+   "address": "東京都練馬区石神井町3-23-10 South-1F",
+   "area": "石神井公園",
+   "nearest_station": null,
+   "latitude": 35.743301,
+   "longitude": 139.605988,
+   "offerings": [
+    {
+     "id": "off-r035-1",
+     "maker": "sapporo",
+     "product_name": "ヱビス",
+     "serving_type": "draft",
+     "price": null,
+     "size": null,
+     "notes": "チェーン共通（YEBISU BAR）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r036",
+   "name": "YEBISU BAR 御茶ノ水店",
+   "address": "東京都千代田区神田駿河台4-6 御茶ノ水ソラシティB1F",
+   "area": "千代田区",
+   "nearest_station": null,
+   "latitude": 35.698673,
+   "longitude": 139.766403,
+   "offerings": [
+    {
+     "id": "off-r036-1",
+     "maker": "sapporo",
+     "product_name": "ヱビス",
+     "serving_type": "draft",
+     "price": null,
+     "size": null,
+     "notes": "チェーン共通（YEBISU BAR）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r037",
+   "name": "YEBISU BAR 神楽坂店",
+   "address": "東京都新宿区神楽坂2－6 PORTA神楽坂2F",
+   "area": "新宿",
+   "nearest_station": null,
+   "latitude": 35.700745,
+   "longitude": 139.741287,
+   "offerings": [
+    {
+     "id": "off-r037-1",
+     "maker": "sapporo",
+     "product_name": "ヱビス",
+     "serving_type": "draft",
+     "price": null,
+     "size": null,
+     "notes": "チェーン共通（YEBISU BAR）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r038",
+   "name": "YEBISU BAR ekismさいたま新都心店",
+   "address": "埼玉県さいたま市大宮区吉敷町四丁目262番18",
+   "area": "さいたま",
+   "nearest_station": null,
+   "latitude": 35.895111,
+   "longitude": 139.63324,
+   "offerings": [
+    {
+     "id": "off-r038-1",
+     "maker": "sapporo",
+     "product_name": "ヱビス",
+     "serving_type": "draft",
+     "price": null,
+     "size": null,
+     "notes": "チェーン共通（YEBISU BAR）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r039",
+   "name": "YEBISU BAR グランエミオ所沢店",
+   "address": "埼玉県所沢市くすのき台一丁目14番地5 グランエミオ所沢3F",
+   "area": "所沢",
+   "nearest_station": null,
+   "latitude": 35.78746,
+   "longitude": 139.473984,
+   "offerings": [
+    {
+     "id": "off-r039-1",
+     "maker": "sapporo",
+     "product_name": "ヱビス",
+     "serving_type": "draft",
+     "price": null,
+     "size": null,
+     "notes": "チェーン共通（YEBISU BAR）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r040",
+   "name": "YEBISU BAR キュービックプラザ新横浜店",
+   "address": "神奈川県横浜市港北区篠原町2937 キュービックプラザ新横浜",
+   "area": "横浜",
+   "nearest_station": null,
+   "latitude": 35.506004,
+   "longitude": 139.616486,
+   "offerings": [
+    {
+     "id": "off-r040-1",
+     "maker": "sapporo",
+     "product_name": "ヱビス",
+     "serving_type": "draft",
+     "price": null,
+     "size": null,
+     "notes": "チェーン共通（YEBISU BAR）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r041",
+   "name": "YEBISU BAR 川崎アゼリア店",
+   "address": "神奈川県川崎市川崎区駅前本町26-2-2016 川崎アゼリア",
+   "area": "川崎",
+   "nearest_station": null,
+   "latitude": 35.530125,
+   "longitude": 139.697968,
+   "offerings": [
+    {
+     "id": "off-r041-1",
+     "maker": "sapporo",
+     "product_name": "ヱビス",
+     "serving_type": "draft",
+     "price": null,
+     "size": null,
+     "notes": "チェーン共通（YEBISU BAR）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r042",
+   "name": "YEBISU BAR 本厚木ミロード店",
+   "address": "神奈川県厚木市泉町1-1",
+   "area": "本厚木",
+   "nearest_station": null,
+   "latitude": 35.439743,
+   "longitude": 139.364975,
+   "offerings": [
+    {
+     "id": "off-r042-1",
+     "maker": "sapporo",
+     "product_name": "ヱビス",
+     "serving_type": "draft",
+     "price": null,
+     "size": null,
+     "notes": "チェーン共通（YEBISU BAR）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r043",
+   "name": "YEBISU BAR サカエチカ店",
+   "address": "愛知県名古屋市中区栄3－4－6",
+   "area": "名古屋・栄",
+   "nearest_station": null,
+   "latitude": 35.168667,
+   "longitude": 136.906448,
+   "offerings": [
+    {
+     "id": "off-r043-1",
+     "maker": "sapporo",
+     "product_name": "ヱビス",
+     "serving_type": "draft",
+     "price": null,
+     "size": null,
+     "notes": "チェーン共通（YEBISU BAR）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r044",
+   "name": "YEBISU BAR 京都ヨドバシ店",
+   "address": "京都府京都市下京区烏丸通七条下ル東塩小路町590-2京都ヨドバシ1F",
+   "area": "府京都市",
+   "nearest_station": null,
+   "latitude": 34.992943,
+   "longitude": 135.759583,
+   "offerings": [
+    {
+     "id": "off-r044-1",
+     "maker": "sapporo",
+     "product_name": "ヱビス",
+     "serving_type": "draft",
+     "price": null,
+     "size": null,
+     "notes": "チェーン共通（YEBISU BAR）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r045",
+   "name": "YEBISU BAR The Grill なんばCITY店",
+   "address": "大阪府大阪市中央区難波五丁目1番60号 なんばCITY南館1F",
+   "area": "大阪",
+   "nearest_station": null,
+   "latitude": 34.664921,
+   "longitude": 135.501114,
+   "offerings": [
+    {
+     "id": "off-r045-1",
+     "maker": "sapporo",
+     "product_name": "ヱビス",
+     "serving_type": "draft",
+     "price": null,
+     "size": null,
+     "notes": "チェーン共通（YEBISU BAR）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r046",
+   "name": "YEBISU BAR ホワイティうめだ店",
+   "address": "大阪府大阪市北区堂山町 梅田地下街3-4号 イーストモール「NOMOKA」内",
+   "area": "大阪",
+   "nearest_station": null,
+   "latitude": 34.703705,
+   "longitude": 135.503204,
+   "offerings": [
+    {
+     "id": "off-r046-1",
+     "maker": "sapporo",
+     "product_name": "ヱビス",
+     "serving_type": "draft",
+     "price": null,
+     "size": null,
+     "notes": "チェーン共通（YEBISU BAR）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r047",
+   "name": "YEBISU BAR Kぶらっと京橋店",
+   "address": "大阪府大阪市都島区東野田町1-6-1",
+   "area": "大阪",
+   "nearest_station": null,
+   "latitude": 34.696045,
+   "longitude": 135.529922,
+   "offerings": [
+    {
+     "id": "off-r047-1",
+     "maker": "sapporo",
+     "product_name": "ヱビス",
+     "serving_type": "draft",
+     "price": null,
+     "size": null,
+     "notes": "チェーン共通（YEBISU BAR）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r048",
+   "name": "YEBISU BAR 西宮ガーデンズ ゲート館店",
+   "address": "兵庫県西宮市高松町5-22",
+   "area": "西宮",
+   "nearest_station": null,
+   "latitude": 34.745598,
+   "longitude": 135.357574,
+   "offerings": [
+    {
+     "id": "off-r048-1",
+     "maker": "sapporo",
+     "product_name": "ヱビス",
+     "serving_type": "draft",
+     "price": null,
+     "size": null,
+     "notes": "チェーン共通（YEBISU BAR）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r049",
+   "name": "YEBISU BAR エキシティ広島店",
+   "address": "広島県広島市南区松原町3-1 EKICITY",
+   "area": "広島",
+   "nearest_station": null,
+   "latitude": 34.395535,
+   "longitude": 132.47731,
+   "offerings": [
+    {
+     "id": "off-r049-1",
+     "maker": "sapporo",
+     "product_name": "ヱビス",
+     "serving_type": "draft",
+     "price": null,
+     "size": null,
+     "notes": "チェーン共通（YEBISU BAR）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r050",
+   "name": "YEBISU BAR ワンビル店",
+   "address": "福岡県福岡市中央区天神一丁目11番1号",
+   "area": "福岡",
+   "nearest_station": null,
+   "latitude": 33.590576,
+   "longitude": 130.40036,
+   "offerings": [
+    {
+     "id": "off-r050-1",
+     "maker": "sapporo",
+     "product_name": "ヱビス",
+     "serving_type": "draft",
+     "price": null,
+     "size": null,
+     "notes": "チェーン共通（YEBISU BAR）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r051",
+   "name": "YEBISU BAR 博多1番街店",
+   "address": "福岡県福岡市博多区博多駅中央街1-1 博多ステーションビル博多一番街",
+   "area": "福岡",
+   "nearest_station": null,
+   "latitude": 33.589912,
+   "longitude": 130.420395,
+   "offerings": [
+    {
+     "id": "off-r051-1",
+     "maker": "sapporo",
+     "product_name": "ヱビス",
+     "serving_type": "draft",
+     "price": null,
+     "size": null,
+     "notes": "チェーン共通（YEBISU BAR）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r052",
+   "name": "ビヤホールライオン 銀座七丁目店",
+   "address": "東京都中央区銀座7－9－20 銀座ライオンビル",
+   "area": "銀座/中央区",
+   "nearest_station": null,
+   "latitude": 35.669258,
+   "longitude": 139.763153,
+   "offerings": [
+    {
+     "id": "off-r052-1",
+     "maker": "sapporo",
+     "product_name": "サッポロ黒ラベル",
+     "serving_type": "draft",
+     "price": null,
+     "size": null,
+     "notes": "チェーン共通（銀座ライオン）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    },
+    {
+     "id": "off-r052-2",
+     "maker": "sapporo",
+     "product_name": "ヱビス",
+     "serving_type": "draft",
+     "price": null,
+     "size": null,
+     "notes": "チェーン共通（銀座ライオン）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    },
+    {
+     "id": "off-r052-3",
+     "maker": "sapporo",
+     "product_name": "ヱビス プレミアムブラック",
+     "serving_type": "draft",
+     "price": null,
+     "size": null,
+     "notes": "銀座七丁目店公式ページ確認",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    },
+    {
+     "id": "off-r052-4",
+     "maker": "sapporo",
+     "product_name": "琥珀ヱビス",
+     "serving_type": "draft",
+     "price": null,
+     "size": null,
+     "notes": "銀座七丁目店公式ページ確認",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    },
+    {
+     "id": "off-r052-5",
+     "maker": "sapporo",
+     "product_name": "エーデルピルス",
+     "serving_type": "draft",
+     "price": null,
+     "size": null,
+     "notes": "銀座七丁目店公式ページ確認",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    },
+    {
+     "id": "off-r052-6",
+     "maker": "sapporo",
+     "product_name": "白穂乃香",
+     "serving_type": "draft",
+     "price": null,
+     "size": null,
+     "notes": "銀座七丁目店公式ページ確認",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r053",
+   "name": "ビヤレストラン ライオン 銀座七丁目店",
+   "address": "東京都中央区銀座7－9－20 銀座ライオンビル",
+   "area": "銀座/中央区",
+   "nearest_station": null,
+   "latitude": 35.669258,
+   "longitude": 139.763153,
+   "offerings": [
+    {
+     "id": "off-r053-1",
+     "maker": "sapporo",
+     "product_name": "サッポロ黒ラベル",
+     "serving_type": "draft",
+     "price": null,
+     "size": null,
+     "notes": "チェーン共通（銀座ライオン）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    },
+    {
+     "id": "off-r053-2",
+     "maker": "sapporo",
+     "product_name": "ヱビス",
+     "serving_type": "draft",
+     "price": null,
+     "size": null,
+     "notes": "チェーン共通（銀座ライオン）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r054",
+   "name": "ライオン 銀座五丁目店",
+   "address": "東京都中央区銀座5-8-1",
+   "area": "銀座/中央区",
+   "nearest_station": null,
+   "latitude": 35.670975,
+   "longitude": 139.76503,
+   "offerings": [
+    {
+     "id": "off-r054-1",
+     "maker": "sapporo",
+     "product_name": "サッポロ黒ラベル",
+     "serving_type": "draft",
+     "price": null,
+     "size": null,
+     "notes": "チェーン共通（銀座ライオン）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    },
+    {
+     "id": "off-r054-2",
+     "maker": "sapporo",
+     "product_name": "ヱビス",
+     "serving_type": "draft",
+     "price": null,
+     "size": null,
+     "notes": "チェーン共通（銀座ライオン）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r055",
+   "name": "銀座ライオン 新橋店",
+   "address": "東京都港区新橋1－15－5",
+   "area": "新橋/港区",
+   "nearest_station": null,
+   "latitude": 35.668022,
+   "longitude": 139.757233,
+   "offerings": [
+    {
+     "id": "off-r055-1",
+     "maker": "sapporo",
+     "product_name": "サッポロ黒ラベル",
+     "serving_type": "draft",
+     "price": null,
+     "size": null,
+     "notes": "チェーン共通（銀座ライオン）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    },
+    {
+     "id": "off-r055-2",
+     "maker": "sapporo",
+     "product_name": "ヱビス",
+     "serving_type": "draft",
+     "price": null,
+     "size": null,
+     "notes": "チェーン共通（銀座ライオン）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r056",
+   "name": "銀座ライオン 大手町ビル店",
+   "address": "東京都千代田区大手町1－6－1 大手町ビル",
+   "area": "千代田区",
+   "nearest_station": null,
+   "latitude": 35.68644,
+   "longitude": 139.764771,
+   "offerings": [
+    {
+     "id": "off-r056-1",
+     "maker": "sapporo",
+     "product_name": "サッポロ黒ラベル",
+     "serving_type": "draft",
+     "price": null,
+     "size": null,
+     "notes": "チェーン共通（銀座ライオン）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    },
+    {
+     "id": "off-r056-2",
+     "maker": "sapporo",
+     "product_name": "ヱビス",
+     "serving_type": "draft",
+     "price": null,
+     "size": null,
+     "notes": "チェーン共通（銀座ライオン）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r057",
+   "name": "銀座ライオン 秋葉原ラジオ会館店",
+   "address": "東京都千代田区外神田1－15－16 秋葉原ラジオ会館",
+   "area": "千代田区",
+   "nearest_station": null,
+   "latitude": 35.697674,
+   "longitude": 139.771881,
+   "offerings": [
+    {
+     "id": "off-r057-1",
+     "maker": "sapporo",
+     "product_name": "サッポロ黒ラベル",
+     "serving_type": "draft",
+     "price": null,
+     "size": null,
+     "notes": "チェーン共通（銀座ライオン）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    },
+    {
+     "id": "off-r057-2",
+     "maker": "sapporo",
+     "product_name": "ヱビス",
+     "serving_type": "draft",
+     "price": null,
+     "size": null,
+     "notes": "チェーン共通（銀座ライオン）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r058",
+   "name": "銀座ライオン 上野西郷会館店",
+   "address": "東京都台東区上野公園1－57 上野公園西郷会館B1F",
+   "area": "上野",
+   "nearest_station": null,
+   "latitude": 35.711739,
+   "longitude": 139.77449,
+   "offerings": [
+    {
+     "id": "off-r058-1",
+     "maker": "sapporo",
+     "product_name": "サッポロ黒ラベル",
+     "serving_type": "draft",
+     "price": null,
+     "size": null,
+     "notes": "チェーン共通（銀座ライオン）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    },
+    {
+     "id": "off-r058-2",
+     "maker": "sapporo",
+     "product_name": "ヱビス",
+     "serving_type": "draft",
+     "price": null,
+     "size": null,
+     "notes": "チェーン共通（銀座ライオン）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r059",
+   "name": "銀座ライオン 羽田マーケットプレイス店",
+   "address": "東京都大田区羽田空港3－3－2 第一旅客ターミナルビル",
+   "area": "羽田",
+   "nearest_station": null,
+   "latitude": 35.549461,
+   "longitude": 139.78389,
+   "offerings": [
+    {
+     "id": "off-r059-1",
+     "maker": "sapporo",
+     "product_name": "サッポロ黒ラベル",
+     "serving_type": "draft",
+     "price": null,
+     "size": null,
+     "notes": "チェーン共通（銀座ライオン）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    },
+    {
+     "id": "off-r059-2",
+     "maker": "sapporo",
+     "product_name": "ヱビス",
+     "serving_type": "draft",
+     "price": null,
+     "size": null,
+     "notes": "チェーン共通（銀座ライオン）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r060",
+   "name": "銀座ライオン 羽田空港店",
+   "address": "東京都大田区羽田空港3－3－2 第一旅客ターミナルビル",
+   "area": "羽田",
+   "nearest_station": null,
+   "latitude": 35.549461,
+   "longitude": 139.78389,
+   "offerings": [
+    {
+     "id": "off-r060-1",
+     "maker": "sapporo",
+     "product_name": "サッポロ黒ラベル",
+     "serving_type": "draft",
+     "price": null,
+     "size": null,
+     "notes": "チェーン共通（銀座ライオン）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    },
+    {
+     "id": "off-r060-2",
+     "maker": "sapporo",
+     "product_name": "ヱビス",
+     "serving_type": "draft",
+     "price": null,
+     "size": null,
+     "notes": "チェーン共通（銀座ライオン）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r061",
+   "name": "銀座ライオン 渋谷マークシティ店",
+   "address": "東京都渋谷区道玄坂1－12－5",
+   "area": "渋谷/恵比寿",
+   "nearest_station": null,
+   "latitude": 35.657936,
+   "longitude": 139.698624,
+   "offerings": [
+    {
+     "id": "off-r061-1",
+     "maker": "sapporo",
+     "product_name": "サッポロ黒ラベル",
+     "serving_type": "draft",
+     "price": null,
+     "size": null,
+     "notes": "チェーン共通（銀座ライオン）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    },
+    {
+     "id": "off-r061-2",
+     "maker": "sapporo",
+     "product_name": "ヱビス",
+     "serving_type": "draft",
+     "price": null,
+     "size": null,
+     "notes": "チェーン共通（銀座ライオン）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r062",
+   "name": "銀座ライオン 青山一丁目店",
+   "address": "東京都港区南青山1－1－1 新青山ビルヂング西館",
+   "area": "新橋/港区",
+   "nearest_station": null,
+   "latitude": 35.672642,
+   "longitude": 139.724991,
+   "offerings": [
+    {
+     "id": "off-r062-1",
+     "maker": "sapporo",
+     "product_name": "サッポロ黒ラベル",
+     "serving_type": "draft",
+     "price": null,
+     "size": null,
+     "notes": "チェーン共通（銀座ライオン）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    },
+    {
+     "id": "off-r062-2",
+     "maker": "sapporo",
+     "product_name": "ヱビス",
+     "serving_type": "draft",
+     "price": null,
+     "size": null,
+     "notes": "チェーン共通（銀座ライオン）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r063",
+   "name": "銀座ライオン アトレ恵比寿店",
+   "address": "東京都渋谷区恵比寿南1－5－5",
+   "area": "渋谷/恵比寿",
+   "nearest_station": null,
+   "latitude": 35.647175,
+   "longitude": 139.709305,
+   "offerings": [
+    {
+     "id": "off-r063-1",
+     "maker": "sapporo",
+     "product_name": "サッポロ黒ラベル",
+     "serving_type": "draft",
+     "price": null,
+     "size": null,
+     "notes": "チェーン共通（銀座ライオン）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    },
+    {
+     "id": "off-r063-2",
+     "maker": "sapporo",
+     "product_name": "ヱビス",
+     "serving_type": "draft",
+     "price": null,
+     "size": null,
+     "notes": "チェーン共通（銀座ライオン）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r064",
+   "name": "ビヤホールライオン 新宿店",
+   "address": "東京都新宿区新宿3－28－9 新宿ライオン会館B1・1F",
+   "area": "新宿",
+   "nearest_station": null,
+   "latitude": 35.691151,
+   "longitude": 139.702454,
+   "offerings": [
+    {
+     "id": "off-r064-1",
+     "maker": "sapporo",
+     "product_name": "サッポロ黒ラベル",
+     "serving_type": "draft",
+     "price": null,
+     "size": null,
+     "notes": "チェーン共通（銀座ライオン）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    },
+    {
+     "id": "off-r064-2",
+     "maker": "sapporo",
+     "product_name": "ヱビス",
+     "serving_type": "draft",
+     "price": null,
+     "size": null,
+     "notes": "チェーン共通（銀座ライオン）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r065",
+   "name": "銀座ライオン 新宿エルタワー店",
+   "address": "東京都新宿区西新宿1－6－1 新宿エルタワー",
+   "area": "新宿",
+   "nearest_station": null,
+   "latitude": 35.692799,
+   "longitude": 139.697296,
+   "offerings": [
+    {
+     "id": "off-r065-1",
+     "maker": "sapporo",
+     "product_name": "サッポロ黒ラベル",
+     "serving_type": "draft",
+     "price": null,
+     "size": null,
+     "notes": "チェーン共通（銀座ライオン）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    },
+    {
+     "id": "off-r065-2",
+     "maker": "sapporo",
+     "product_name": "ヱビス",
+     "serving_type": "draft",
+     "price": null,
+     "size": null,
+     "notes": "チェーン共通（銀座ライオン）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r066",
+   "name": "ビヤホールライオン 池袋西口店",
+   "address": "東京都豊島区西池袋1－10－8 サン・グロウビル",
+   "area": "池袋",
+   "nearest_station": null,
+   "latitude": 35.729759,
+   "longitude": 139.708694,
+   "offerings": [
+    {
+     "id": "off-r066-1",
+     "maker": "sapporo",
+     "product_name": "サッポロ黒ラベル",
+     "serving_type": "draft",
+     "price": null,
+     "size": null,
+     "notes": "チェーン共通（銀座ライオン）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    },
+    {
+     "id": "off-r066-2",
+     "maker": "sapporo",
+     "product_name": "ヱビス",
+     "serving_type": "draft",
+     "price": null,
+     "size": null,
+     "notes": "チェーン共通（銀座ライオン）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r067",
+   "name": "銀座ライオン さいたま新都心店",
+   "address": "埼玉県さいたま市中央区新都心10番地 けやきひろば1F",
+   "area": "さいたま",
+   "nearest_station": null,
+   "latitude": 35.892948,
+   "longitude": 139.631271,
+   "offerings": [
+    {
+     "id": "off-r067-1",
+     "maker": "sapporo",
+     "product_name": "サッポロ黒ラベル",
+     "serving_type": "draft",
+     "price": null,
+     "size": null,
+     "notes": "チェーン共通（銀座ライオン）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    },
+    {
+     "id": "off-r067-2",
+     "maker": "sapporo",
+     "product_name": "ヱビス",
+     "serving_type": "draft",
+     "price": null,
+     "size": null,
+     "notes": "チェーン共通（銀座ライオン）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r068",
+   "name": "ビヤレストラン 銀座ライオン 川崎駅前店",
+   "address": "神奈川県川崎市川崎区駅前本町4-24",
+   "area": "川崎",
+   "nearest_station": null,
+   "latitude": 35.530075,
+   "longitude": 139.699417,
+   "offerings": [
+    {
+     "id": "off-r068-1",
+     "maker": "sapporo",
+     "product_name": "サッポロ黒ラベル",
+     "serving_type": "draft",
+     "price": null,
+     "size": null,
+     "notes": "チェーン共通（銀座ライオン）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    },
+    {
+     "id": "off-r068-2",
+     "maker": "sapporo",
+     "product_name": "ヱビス",
+     "serving_type": "draft",
+     "price": null,
+     "size": null,
+     "notes": "チェーン共通（銀座ライオン）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r069",
+   "name": "ビヤホールライオン 相鉄店",
+   "address": "神奈川県横浜市西区南幸1－5－1 相鉄ジョイナス",
+   "area": "横浜",
+   "nearest_station": null,
+   "latitude": 35.464867,
+   "longitude": 139.620514,
+   "offerings": [
+    {
+     "id": "off-r069-1",
+     "maker": "sapporo",
+     "product_name": "サッポロ黒ラベル",
+     "serving_type": "draft",
+     "price": null,
+     "size": null,
+     "notes": "チェーン共通（銀座ライオン）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    },
+    {
+     "id": "off-r069-2",
+     "maker": "sapporo",
+     "product_name": "ヱビス",
+     "serving_type": "draft",
+     "price": null,
+     "size": null,
+     "notes": "チェーン共通（銀座ライオン）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r070",
+   "name": "銀座ライオン 小田原トザンイースト店",
+   "address": "神奈川県小田原市栄町2-1-2 トザンイースト2F",
+   "area": "小田原",
+   "nearest_station": null,
+   "latitude": 35.255714,
+   "longitude": 139.156906,
+   "offerings": [
+    {
+     "id": "off-r070-1",
+     "maker": "sapporo",
+     "product_name": "サッポロ黒ラベル",
+     "serving_type": "draft",
+     "price": null,
+     "size": null,
+     "notes": "チェーン共通（銀座ライオン）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    },
+    {
+     "id": "off-r070-2",
+     "maker": "sapporo",
+     "product_name": "ヱビス",
+     "serving_type": "draft",
+     "price": null,
+     "size": null,
+     "notes": "チェーン共通（銀座ライオン）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r071",
+   "name": "THE KITCHEN 銀座ライオン 東武宇都宮店",
+   "address": "栃木県宇都宮市宮園町5-4 東武宇都宮百貨店8F",
+   "area": "宇都宮",
+   "nearest_station": null,
+   "latitude": 36.560291,
+   "longitude": 139.880524,
+   "offerings": [
+    {
+     "id": "off-r071-1",
+     "maker": "sapporo",
+     "product_name": "サッポロ黒ラベル",
+     "serving_type": "draft",
+     "price": null,
+     "size": null,
+     "notes": "チェーン共通（銀座ライオン）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    },
+    {
+     "id": "off-r071-2",
+     "maker": "sapporo",
+     "product_name": "ヱビス",
+     "serving_type": "draft",
+     "price": null,
+     "size": null,
+     "notes": "チェーン共通（銀座ライオン）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r072",
+   "name": "銀座ライオン 浜松店",
+   "address": "静岡県浜松市中区肴町322－20 浜松松竹ビル",
+   "area": "浜松",
+   "nearest_station": null,
+   "latitude": 34.710808,
+   "longitude": 137.726303,
+   "offerings": [
+    {
+     "id": "off-r072-1",
+     "maker": "sapporo",
+     "product_name": "サッポロ黒ラベル",
+     "serving_type": "draft",
+     "price": null,
+     "size": null,
+     "notes": "チェーン共通（銀座ライオン）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    },
+    {
+     "id": "off-r072-2",
+     "maker": "sapporo",
+     "product_name": "ヱビス",
+     "serving_type": "draft",
+     "price": null,
+     "size": null,
+     "notes": "チェーン共通（銀座ライオン）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r073",
+   "name": "銀座ライオン 京都アバンティ店",
+   "address": "京都府京都市南区東九条西山王町31 アバンティB1F",
+   "area": "府京都市",
+   "nearest_station": null,
+   "latitude": 34.983669,
+   "longitude": 135.760468,
+   "offerings": [
+    {
+     "id": "off-r073-1",
+     "maker": "sapporo",
+     "product_name": "サッポロ黒ラベル",
+     "serving_type": "draft",
+     "price": null,
+     "size": null,
+     "notes": "チェーン共通（銀座ライオン）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    },
+    {
+     "id": "off-r073-2",
+     "maker": "sapporo",
+     "product_name": "ヱビス",
+     "serving_type": "draft",
+     "price": null,
+     "size": null,
+     "notes": "チェーン共通（銀座ライオン）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r074",
+   "name": "銀座ライオン 京都四条烏丸店",
+   "address": "京都府京都市下京区四条通室町東入函谷鉾町88烏丸四条南西角K．I．四条ビル B1F",
+   "area": "府京都市",
+   "nearest_station": null,
+   "latitude": 35.00351,
+   "longitude": 135.758728,
+   "offerings": [
+    {
+     "id": "off-r074-1",
+     "maker": "sapporo",
+     "product_name": "サッポロ黒ラベル",
+     "serving_type": "draft",
+     "price": null,
+     "size": null,
+     "notes": "チェーン共通（銀座ライオン）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    },
+    {
+     "id": "off-r074-2",
+     "maker": "sapporo",
+     "product_name": "ヱビス",
+     "serving_type": "draft",
+     "price": null,
+     "size": null,
+     "notes": "チェーン共通（銀座ライオン）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r075",
+   "name": "GARDEN TERRACE LION 立命館いばらきフューチャープラザ店",
+   "address": "大阪府茨木市岩倉町2-150 立命館いばらきフューチャープラザ1F",
+   "area": "茨木",
+   "nearest_station": null,
+   "latitude": 34.80991,
+   "longitude": 135.56163,
+   "offerings": [
+    {
+     "id": "off-r075-1",
+     "maker": "sapporo",
+     "product_name": "サッポロ黒ラベル",
+     "serving_type": "draft",
+     "price": null,
+     "size": null,
+     "notes": "チェーン共通（銀座ライオン）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    },
+    {
+     "id": "off-r075-2",
+     "maker": "sapporo",
+     "product_name": "ヱビス",
+     "serving_type": "draft",
+     "price": null,
+     "size": null,
+     "notes": "チェーン共通（銀座ライオン）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r076",
+   "name": "銀座ライオン ekie広島店",
+   "address": "広島県広島市南区松原町1-2",
+   "area": "広島",
+   "nearest_station": null,
+   "latitude": 34.398319,
+   "longitude": 132.475952,
+   "offerings": [
+    {
+     "id": "off-r076-1",
+     "maker": "sapporo",
+     "product_name": "サッポロ黒ラベル",
+     "serving_type": "draft",
+     "price": null,
+     "size": null,
+     "notes": "チェーン共通（銀座ライオン）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    },
+    {
+     "id": "off-r076-2",
+     "maker": "sapporo",
+     "product_name": "ヱビス",
+     "serving_type": "draft",
+     "price": null,
+     "size": null,
+     "notes": "チェーン共通（銀座ライオン）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r077",
+   "name": "銀座ライオン KITTE博多店",
+   "address": "福岡県福岡市博多区博多駅中央街9-1 KITTE博多9F",
+   "area": "福岡",
+   "nearest_station": null,
+   "latitude": 33.58884,
+   "longitude": 130.419357,
+   "offerings": [
+    {
+     "id": "off-r077-1",
+     "maker": "sapporo",
+     "product_name": "サッポロ黒ラベル",
+     "serving_type": "draft",
+     "price": null,
+     "size": null,
+     "notes": "チェーン共通（銀座ライオン）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    },
+    {
+     "id": "off-r077-2",
+     "maker": "sapporo",
+     "product_name": "ヱビス",
+     "serving_type": "draft",
+     "price": null,
+     "size": null,
+     "notes": "チェーン共通（銀座ライオン）",
      "verified_at": "2026-06-12",
      "source_type": "official",
      "corroboration_count": 1
