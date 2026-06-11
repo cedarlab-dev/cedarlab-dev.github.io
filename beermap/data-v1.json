@@ -1,7 +1,7 @@
 {
  "format_version": 1,
- "data_version": 8,
- "generated_at": "2026-06-11T22:16:15.681Z",
+ "data_version": 9,
+ "generated_at": "2026-06-11T23:13:04.076Z",
  "shops": [
   {
    "id": "shop-001",
@@ -71717,29 +71717,6 @@
    ]
   },
   {
-   "id": "shop-r2284",
-   "name": "PRONTO 九段下店",
-   "address": "東京都千代田区神田神保町3-7 ニュー九段ビル",
-   "area": "神保町",
-   "nearest_station": null,
-   "latitude": 35.69545,
-   "longitude": 139.753296,
-   "offerings": [
-    {
-     "id": "off-r2284-1",
-     "maker": "suntory",
-     "product_name": "ザ・プレミアム・モルツ",
-     "serving_type": "draft",
-     "price": null,
-     "size": null,
-     "notes": "神泡達人店掲載",
-     "verified_at": "2026-06-12",
-     "source_type": "official",
-     "corroboration_count": 1
-    }
-   ]
-  },
-  {
    "id": "shop-r2285",
    "name": "神保町魚金 弐 すずらん通り店",
    "address": "東京都千代田区神田神保町1-13-15 堀内ビル1・2F",
@@ -71963,6 +71940,7619 @@
      "price": null,
      "size": null,
      "notes": "神泡達人店掲載",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2295",
+   "name": "釣宿酒場 マヅメ 日本橋店",
+   "address": "東京都中央区日本橋3-2-5毎日日本橋ビル1F",
+   "area": "日本橋",
+   "nearest_station": null,
+   "latitude": 35.680546,
+   "longitude": 139.771759,
+   "offerings": [
+    {
+     "id": "off-r2295-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ",
+     "serving_type": "draft",
+     "price": null,
+     "size": null,
+     "notes": "神泡超達人店掲載",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2296",
+   "name": "THE R．C．GATE 八重洲店",
+   "address": "東京都中央区八重洲1-3-22八重洲龍名館ビル1F",
+   "area": "八重洲",
+   "nearest_station": null,
+   "latitude": 35.683113,
+   "longitude": 139.770966,
+   "offerings": [
+    {
+     "id": "off-r2296-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ",
+     "serving_type": "draft",
+     "price": null,
+     "size": null,
+     "notes": "神泡超達人店掲載",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2297",
+   "name": "銀座ワイン食堂 パパミラノ 八重洲店",
+   "address": "東京都中央区八重洲1-3-7八重洲ファーストフィナンシャルビルB1",
+   "area": "八重洲",
+   "nearest_station": null,
+   "latitude": 35.683052,
+   "longitude": 139.771988,
+   "offerings": [
+    {
+     "id": "off-r2297-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ",
+     "serving_type": "draft",
+     "price": null,
+     "size": null,
+     "notes": "神泡超達人店掲載",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2298",
+   "name": "UOKIN PICCOLO 銀座店",
+   "address": "東京都中央区銀座1-3-6 銀座ベラメンテB1・1F",
+   "area": "銀座",
+   "nearest_station": null,
+   "latitude": 35.675198,
+   "longitude": 139.766495,
+   "offerings": [
+    {
+     "id": "off-r2298-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ",
+     "serving_type": "draft",
+     "price": null,
+     "size": null,
+     "notes": "神泡超達人店掲載",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2299",
+   "name": "築地もったいない プロジェクト 魚治",
+   "address": "東京都千代田区丸の内3-3-1 新東京ビルB1",
+   "area": "丸の内",
+   "nearest_station": null,
+   "latitude": 35.677563,
+   "longitude": 139.76265,
+   "offerings": [
+    {
+     "id": "off-r2299-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ",
+     "serving_type": "draft",
+     "price": null,
+     "size": null,
+     "notes": "神泡超達人店掲載",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2300",
+   "name": "パパミラノ 東京国際フォーラム店",
+   "address": "東京都千代田区丸の内3-5-1東京国際フォーラムB1",
+   "area": "丸の内",
+   "nearest_station": null,
+   "latitude": 35.676849,
+   "longitude": 139.76387,
+   "offerings": [
+    {
+     "id": "off-r2300-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ",
+     "serving_type": "draft",
+     "price": null,
+     "size": null,
+     "notes": "神泡超達人店掲載",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2301",
+   "name": "MORTON'S 丸の内",
+   "address": "東京都千代田区丸の内3-2丸の内二重橋ビルディング2F",
+   "area": "丸の内",
+   "nearest_station": null,
+   "latitude": 35.677837,
+   "longitude": 139.761429,
+   "offerings": [
+    {
+     "id": "off-r2301-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ",
+     "serving_type": "draft",
+     "price": null,
+     "size": null,
+     "notes": "神泡超達人店掲載",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2302",
+   "name": "歓迎 銀座中央通り店",
+   "address": "東京都中央区京橋3-1-1 東京スクエアガーデンB1",
+   "area": "京橋",
+   "nearest_station": null,
+   "latitude": 35.676559,
+   "longitude": 139.768524,
+   "offerings": [
+    {
+     "id": "off-r2302-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ",
+     "serving_type": "draft",
+     "price": null,
+     "size": null,
+     "notes": "神泡超達人店掲載",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2303",
+   "name": "ahill ginza",
+   "address": "東京都中央区銀座2-4-6 銀座Velvia館8F",
+   "area": "銀座",
+   "nearest_station": null,
+   "latitude": 35.673977,
+   "longitude": 139.766556,
+   "offerings": [
+    {
+     "id": "off-r2303-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ",
+     "serving_type": "draft",
+     "price": null,
+     "size": null,
+     "notes": "神泡超達人店掲載",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2304",
+   "name": "和食処 五島",
+   "address": "東京都千代田区有楽町2-10-1 東京交通会館B1",
+   "area": "有楽町",
+   "nearest_station": null,
+   "latitude": 35.674953,
+   "longitude": 139.764359,
+   "offerings": [
+    {
+     "id": "off-r2304-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ",
+     "serving_type": "draft",
+     "price": null,
+     "size": null,
+     "notes": "神泡超達人店掲載",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2305",
+   "name": "旬薫のさかなと野菜 金の独楽",
+   "address": "東京都中央区京橋3丁目4-4 イーストサイドビル3F",
+   "area": "京橋",
+   "nearest_station": null,
+   "latitude": 35.675388,
+   "longitude": 139.768372,
+   "offerings": [
+    {
+     "id": "off-r2305-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ",
+     "serving_type": "draft",
+     "price": null,
+     "size": null,
+     "notes": "神泡達人店掲載",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2306",
+   "name": "飛騨牛一頭家 馬喰一代 銀座",
+   "address": "東京都中央区銀座2-6-5銀座トレシャス11F",
+   "area": "銀座",
+   "nearest_station": null,
+   "latitude": 35.673607,
+   "longitude": 139.767334,
+   "offerings": [
+    {
+     "id": "off-r2306-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ",
+     "serving_type": "draft",
+     "price": null,
+     "size": null,
+     "notes": "神泡超達人店掲載",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2307",
+   "name": "WAGYU でですけ",
+   "address": "東京都中央区銀座3-3-9",
+   "area": "銀座",
+   "nearest_station": null,
+   "latitude": 35.672779,
+   "longitude": 139.765289,
+   "offerings": [
+    {
+     "id": "off-r2307-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ",
+     "serving_type": "draft",
+     "price": null,
+     "size": null,
+     "notes": "神泡超達人店掲載",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2308",
+   "name": "焼肉 うしごろ 銀座店",
+   "address": "東京都中央区銀座1-8-19 7F",
+   "area": "銀座",
+   "nearest_station": null,
+   "latitude": 35.67437,
+   "longitude": 139.768539,
+   "offerings": [
+    {
+     "id": "off-r2308-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ",
+     "serving_type": "draft",
+     "price": null,
+     "size": null,
+     "notes": "神泡超達人店掲載",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2309",
+   "name": "Dynamic Kitchen & Bar 響 有楽町店",
+   "address": "東京都千代田区有楽町2-7-1有楽町イトシアプラザ3F",
+   "area": "有楽町",
+   "nearest_station": null,
+   "latitude": 35.674213,
+   "longitude": 139.763657,
+   "offerings": [
+    {
+     "id": "off-r2309-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ",
+     "serving_type": "draft",
+     "price": null,
+     "size": null,
+     "notes": "神泡超達人店掲載",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2310",
+   "name": "炭火串焼厨房 くふ楽 GINZA",
+   "address": "東京都中央区銀座1丁目16-1 東貨ビルB1F",
+   "area": "銀座",
+   "nearest_station": null,
+   "latitude": 35.674366,
+   "longitude": 139.770462,
+   "offerings": [
+    {
+     "id": "off-r2310-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ",
+     "serving_type": "draft",
+     "price": null,
+     "size": null,
+     "notes": "神泡超達人店掲載",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2311",
+   "name": "THE R．C．ARMS 有楽町店",
+   "address": "東京都千代田区有楽町1-7-1有楽町電気ビル1F",
+   "area": "有楽町",
+   "nearest_station": null,
+   "latitude": 35.674358,
+   "longitude": 139.761444,
+   "offerings": [
+    {
+     "id": "off-r2311-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ",
+     "serving_type": "draft",
+     "price": null,
+     "size": null,
+     "notes": "神泡超達人店掲載",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2312",
+   "name": "有楽町ワイン倶楽部",
+   "address": "東京都千代田区有楽町1-7-1有楽町電気ビルB1",
+   "area": "有楽町",
+   "nearest_station": null,
+   "latitude": 35.674358,
+   "longitude": 139.761444,
+   "offerings": [
+    {
+     "id": "off-r2312-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ",
+     "serving_type": "draft",
+     "price": null,
+     "size": null,
+     "notes": "神泡超達人店掲載",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2313",
+   "name": "釣宿酒場 マヅメ 有楽町電気ビル店",
+   "address": "東京都千代田区有楽町1-7-1有楽町電気ビルB1",
+   "area": "有楽町",
+   "nearest_station": null,
+   "latitude": 35.674358,
+   "longitude": 139.761444,
+   "offerings": [
+    {
+     "id": "off-r2313-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ",
+     "serving_type": "draft",
+     "price": null,
+     "size": null,
+     "notes": "神泡超達人店掲載",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2314",
+   "name": "ペニンシュラ東京 ヘイフンテラス",
+   "address": "東京都千代田区有楽町1丁目8-1",
+   "area": "有楽町",
+   "nearest_station": null,
+   "latitude": 35.674698,
+   "longitude": 139.760437,
+   "offerings": [
+    {
+     "id": "off-r2314-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ",
+     "serving_type": "draft",
+     "price": null,
+     "size": null,
+     "notes": "神泡超達人店掲載",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2315",
+   "name": "近畿大学水産研究所 はなれ グランスタ東京店",
+   "address": "東京都千代田区丸の内1-9-1グランスタ東京1F",
+   "area": "丸の内",
+   "nearest_station": null,
+   "latitude": 35.681252,
+   "longitude": 139.767242,
+   "offerings": [
+    {
+     "id": "off-r2315-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ",
+     "serving_type": "draft",
+     "price": null,
+     "size": null,
+     "notes": "神泡超達人店掲載",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2316",
+   "name": "東京コトブキ 東京駅店",
+   "address": "東京都千代田区丸の内1-9-1東京駅一番街2F",
+   "area": "丸の内",
+   "nearest_station": null,
+   "latitude": 35.681252,
+   "longitude": 139.767242,
+   "offerings": [
+    {
+     "id": "off-r2316-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ",
+     "serving_type": "draft",
+     "price": null,
+     "size": null,
+     "notes": "神泡超達人店掲載",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2317",
+   "name": "ハイボールバー 東京駅 1923",
+   "address": "東京都千代田区丸の内1-9-1東京駅一番街2F",
+   "area": "丸の内",
+   "nearest_station": null,
+   "latitude": 35.681252,
+   "longitude": 139.767242,
+   "offerings": [
+    {
+     "id": "off-r2317-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ",
+     "serving_type": "draft",
+     "price": null,
+     "size": null,
+     "notes": "神泡超達人店掲載",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2318",
+   "name": "どん薩摩 丸の内店",
+   "address": "東京都千代田区丸の内2-4-1丸ビル6F",
+   "area": "丸の内",
+   "nearest_station": null,
+   "latitude": 35.681046,
+   "longitude": 139.763794,
+   "offerings": [
+    {
+     "id": "off-r2318-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ",
+     "serving_type": "draft",
+     "price": null,
+     "size": null,
+     "notes": "神泡超達人店掲載",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2319",
+   "name": "とんかつまい泉 大丸東京レストラン",
+   "address": "東京都千代田区丸の内1丁目9-1 大丸東京店12F",
+   "area": "丸の内",
+   "nearest_station": null,
+   "latitude": 35.681252,
+   "longitude": 139.767242,
+   "offerings": [
+    {
+     "id": "off-r2319-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ",
+     "serving_type": "draft",
+     "price": null,
+     "size": null,
+     "notes": "神泡超達人店掲載",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2320",
+   "name": "THE OLD STATION Tokyo",
+   "address": "東京都千代田区丸の内1-9-1グランスタ八重洲北2F",
+   "area": "丸の内",
+   "nearest_station": null,
+   "latitude": 35.681252,
+   "longitude": 139.767242,
+   "offerings": [
+    {
+     "id": "off-r2320-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ",
+     "serving_type": "draft",
+     "price": null,
+     "size": null,
+     "notes": "神泡達人店掲載",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2321",
+   "name": "焼鳥 ハレツバメ 丸の内センタービル店",
+   "address": "東京都千代田区丸の内1-6-1丸の内センタービルB1",
+   "area": "丸の内",
+   "nearest_station": null,
+   "latitude": 35.683708,
+   "longitude": 139.766266,
+   "offerings": [
+    {
+     "id": "off-r2321-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ",
+     "serving_type": "draft",
+     "price": null,
+     "size": null,
+     "notes": "神泡超達人店掲載",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2322",
+   "name": "ビラビアンキ 丸の内oazo店",
+   "address": "東京都千代田区丸の内1-6-2新丸の内センタービルディング3F",
+   "area": "丸の内",
+   "nearest_station": null,
+   "latitude": 35.683708,
+   "longitude": 139.766266,
+   "offerings": [
+    {
+     "id": "off-r2322-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ",
+     "serving_type": "draft",
+     "price": null,
+     "size": null,
+     "notes": "神泡超達人店掲載",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2323",
+   "name": "お好み焼 きじ 丸の内",
+   "address": "東京都千代田区丸の内2丁目7-3 東京ビルB1F",
+   "area": "丸の内",
+   "nearest_station": null,
+   "latitude": 35.679085,
+   "longitude": 139.764679,
+   "offerings": [
+    {
+     "id": "off-r2323-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ",
+     "serving_type": "draft",
+     "price": null,
+     "size": null,
+     "notes": "神泡超達人店掲載",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2324",
+   "name": "虎連坊 八重洲店",
+   "address": "東京都中央区八重洲1-7-20八重洲口会館B1",
+   "area": "八重洲",
+   "nearest_station": null,
+   "latitude": 35.681255,
+   "longitude": 139.769806,
+   "offerings": [
+    {
+     "id": "off-r2324-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ",
+     "serving_type": "draft",
+     "price": null,
+     "size": null,
+     "notes": "神泡超達人店掲載",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2327",
+   "name": "なかめのてっぺん 丸の内",
+   "address": "東京都千代田区丸の内1-4-1 iiyo!! B1",
+   "area": "丸の内",
+   "nearest_station": null,
+   "latitude": 35.684025,
+   "longitude": 139.764786,
+   "offerings": [
+    {
+     "id": "off-r2327-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ",
+     "serving_type": "draft",
+     "price": null,
+     "size": null,
+     "notes": "神泡超達人店掲載",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2328",
+   "name": "八重洲ワイン倶楽部",
+   "address": "東京都中央区日本橋2-3-18江間忠さくらビルB1",
+   "area": "日本橋",
+   "nearest_station": null,
+   "latitude": 35.681301,
+   "longitude": 139.771545,
+   "offerings": [
+    {
+     "id": "off-r2328-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ",
+     "serving_type": "draft",
+     "price": null,
+     "size": null,
+     "notes": "神泡超達人店掲載",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2329",
+   "name": "銀座ワイン食堂 パパミラノ サピアタワー店",
+   "address": "東京都千代田区丸の内1-7-12サピアタワー3F",
+   "area": "丸の内",
+   "nearest_station": null,
+   "latitude": 35.683498,
+   "longitude": 139.767944,
+   "offerings": [
+    {
+     "id": "off-r2329-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ",
+     "serving_type": "draft",
+     "price": null,
+     "size": null,
+     "notes": "神泡超達人店掲載",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2330",
+   "name": "虎連坊 大手町店",
+   "address": "東京都千代田区大手町1-5-1大手町ファーストスクエアイーストタワーB1",
+   "area": "大手町",
+   "nearest_station": null,
+   "latitude": 35.685574,
+   "longitude": 139.764664,
+   "offerings": [
+    {
+     "id": "off-r2330-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ",
+     "serving_type": "draft",
+     "price": null,
+     "size": null,
+     "notes": "神泡超達人店掲載",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2331",
+   "name": "焼鳥 ハレツバメ トラストタワー店",
+   "address": "東京都千代田区丸の内1-8-1丸の内トラストタワーN館2F",
+   "area": "丸の内",
+   "nearest_station": null,
+   "latitude": 35.682667,
+   "longitude": 139.769562,
+   "offerings": [
+    {
+     "id": "off-r2331-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ",
+     "serving_type": "draft",
+     "price": null,
+     "size": null,
+     "notes": "神泡超達人店掲載",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2332",
+   "name": "鳥彩 八重洲店",
+   "address": "東京都中央区日本橋3-4-1第二弥生ビル5F",
+   "area": "日本橋",
+   "nearest_station": null,
+   "latitude": 35.680134,
+   "longitude": 139.770767,
+   "offerings": [
+    {
+     "id": "off-r2332-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ",
+     "serving_type": "draft",
+     "price": null,
+     "size": null,
+     "notes": "神泡超達人店掲載",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2333",
+   "name": "マスターズドリームハウス 丸の内",
+   "address": "東京都千代田区丸の内1丁目8-1 丸の内トラストタワービルN館1F",
+   "area": "丸の内",
+   "nearest_station": null,
+   "latitude": 35.682667,
+   "longitude": 139.769562,
+   "offerings": [
+    {
+     "id": "off-r2333-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ",
+     "serving_type": "draft",
+     "price": null,
+     "size": null,
+     "notes": "神泡超達人店掲載",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2334",
+   "name": "鳥どり 日本橋店",
+   "address": "東京都中央区日本橋2-2-16共立日本橋ビルB1",
+   "area": "日本橋",
+   "nearest_station": null,
+   "latitude": 35.681774,
+   "longitude": 139.772202,
+   "offerings": [
+    {
+     "id": "off-r2334-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ",
+     "serving_type": "draft",
+     "price": null,
+     "size": null,
+     "notes": "神泡超達人店掲載",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2335",
+   "name": "魚盛 コレド室町テラス",
+   "address": "東京都中央区日本橋室町3-2-1コレド室町テラスB1",
+   "area": "日本橋室町",
+   "nearest_station": null,
+   "latitude": 35.687458,
+   "longitude": 139.77272,
+   "offerings": [
+    {
+     "id": "off-r2335-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ",
+     "serving_type": "draft",
+     "price": null,
+     "size": null,
+     "notes": "神泡超達人店掲載",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2336",
+   "name": "Anchor Tokyo",
+   "address": "東京都千代田区有楽町2-2-3ザ・ゲートホテル東京4F",
+   "area": "有楽町",
+   "nearest_station": null,
+   "latitude": 35.672928,
+   "longitude": 139.761612,
+   "offerings": [
+    {
+     "id": "off-r2336-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ",
+     "serving_type": "draft",
+     "price": null,
+     "size": null,
+     "notes": "神泡超達人店掲載",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2337",
+   "name": "日本酒個室バル 蔵ノ助 有楽町日比谷店",
+   "address": "東京都千代田区有楽町1-3-7なる巳ビル4F",
+   "area": "有楽町",
+   "nearest_station": null,
+   "latitude": 35.673389,
+   "longitude": 139.760818,
+   "offerings": [
+    {
+     "id": "off-r2337-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ",
+     "serving_type": "draft",
+     "price": null,
+     "size": null,
+     "notes": "神泡超達人店掲載",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2338",
+   "name": "大阪お好み焼・鉄板焼「88」パチパチ",
+   "address": "東京都千代田区有楽町1丁目2-4",
+   "area": "有楽町",
+   "nearest_station": null,
+   "latitude": 35.673294,
+   "longitude": 139.760468,
+   "offerings": [
+    {
+     "id": "off-r2338-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ",
+     "serving_type": "draft",
+     "price": null,
+     "size": null,
+     "notes": "神泡超達人店掲載",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2339",
+   "name": "ブルックリンシティグリル 東京ミッドタウン日比谷",
+   "address": "東京都千代田区有楽町1-1-2東京ミッドタウン日比谷B1",
+   "area": "有楽町",
+   "nearest_station": null,
+   "latitude": 35.674088,
+   "longitude": 139.759552,
+   "offerings": [
+    {
+     "id": "off-r2339-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ",
+     "serving_type": "draft",
+     "price": null,
+     "size": null,
+     "notes": "神泡超達人店掲載",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2340",
+   "name": "そばがみ",
+   "address": "東京都千代田区有楽町1丁目1-2東京ミッドタウン日比谷3階",
+   "area": "有楽町",
+   "nearest_station": null,
+   "latitude": 35.674088,
+   "longitude": 139.759552,
+   "offerings": [
+    {
+     "id": "off-r2340-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ",
+     "serving_type": "draft",
+     "price": null,
+     "size": null,
+     "notes": "神泡超達人店掲載",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2341",
+   "name": "しち十二候",
+   "address": "東京都千代田区丸の内1-9-1東京ステーションホテルB1",
+   "area": "丸の内",
+   "nearest_station": null,
+   "latitude": 35.681252,
+   "longitude": 139.767242,
+   "offerings": [
+    {
+     "id": "off-r2341-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ",
+     "serving_type": "draft",
+     "price": null,
+     "size": null,
+     "notes": "神泡達人店掲載",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2342",
+   "name": "暗闇坂 宮下 丸の内",
+   "address": "東京都千代田区丸の内2丁目4-1 丸の内ビルディング36F",
+   "area": "丸の内",
+   "nearest_station": null,
+   "latitude": 35.681046,
+   "longitude": 139.763794,
+   "offerings": [
+    {
+     "id": "off-r2342-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ",
+     "serving_type": "draft",
+     "price": null,
+     "size": null,
+     "notes": "神泡達人店掲載",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2343",
+   "name": "うなぎ四代目菊川 東京駅黒塀横丁店",
+   "address": "東京都千代田区丸の内1-9-1JR東日本東京駅B1",
+   "area": "丸の内",
+   "nearest_station": null,
+   "latitude": 35.681252,
+   "longitude": 139.767242,
+   "offerings": [
+    {
+     "id": "off-r2343-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ",
+     "serving_type": "draft",
+     "price": null,
+     "size": null,
+     "notes": "神泡達人店掲載",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2344",
+   "name": "博多もつ鍋 幸 とりもつえん KITTE丸の内店",
+   "address": "東京都千代田区丸の内2-7-2JPタワーKITTE5F",
+   "area": "丸の内",
+   "nearest_station": null,
+   "latitude": 35.679085,
+   "longitude": 139.764679,
+   "offerings": [
+    {
+     "id": "off-r2344-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ",
+     "serving_type": "draft",
+     "price": null,
+     "size": null,
+     "notes": "神泡達人店掲載",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2345",
+   "name": "釣宿酒場マヅメ 丸の内センタービル店",
+   "address": "東京都千代田区丸の内1-6-1丸の内センタービルB1",
+   "area": "丸の内",
+   "nearest_station": null,
+   "latitude": 35.683708,
+   "longitude": 139.766266,
+   "offerings": [
+    {
+     "id": "off-r2345-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ",
+     "serving_type": "draft",
+     "price": null,
+     "size": null,
+     "notes": "神泡達人店掲載",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2346",
+   "name": "東京コトブキ はなれ 丸の内センタービル店",
+   "address": "東京都千代田区丸の内1-6-1丸の内センタービルB1",
+   "area": "丸の内",
+   "nearest_station": null,
+   "latitude": 35.683708,
+   "longitude": 139.766266,
+   "offerings": [
+    {
+     "id": "off-r2346-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ",
+     "serving_type": "draft",
+     "price": null,
+     "size": null,
+     "notes": "神泡達人店掲載",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2347",
+   "name": "屋台屋 博多劇場 丸の内店",
+   "address": "東京都千代田区丸の内1-10-7",
+   "area": "丸の内",
+   "nearest_station": null,
+   "latitude": 35.678116,
+   "longitude": 139.765427,
+   "offerings": [
+    {
+     "id": "off-r2347-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ",
+     "serving_type": "draft",
+     "price": null,
+     "size": null,
+     "notes": "神泡達人店掲載",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2348",
+   "name": "宮崎地鶏炭火焼 車 丸の内店",
+   "address": "東京都千代田区丸の内2-7-3東京ビルディングTOKIA B1",
+   "area": "丸の内",
+   "nearest_station": null,
+   "latitude": 35.679085,
+   "longitude": 139.764679,
+   "offerings": [
+    {
+     "id": "off-r2348-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ",
+     "serving_type": "draft",
+     "price": null,
+     "size": null,
+     "notes": "神泡達人店掲載",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2349",
+   "name": "カラオケ館 八重洲店",
+   "address": "東京都中央区八重洲1-7-9 八重洲ビルB&Vビル",
+   "area": "八重洲",
+   "nearest_station": null,
+   "latitude": 35.681129,
+   "longitude": 139.769913,
+   "offerings": [
+    {
+     "id": "off-r2349-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ",
+     "serving_type": "draft",
+     "price": null,
+     "size": null,
+     "notes": "神泡達人店掲載",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2350",
+   "name": "魚と酒はなたれ 丸の内本店",
+   "address": "東京都千代田区丸の内2-2-1岸本ビルヂングB1",
+   "area": "丸の内",
+   "nearest_station": null,
+   "latitude": 35.680233,
+   "longitude": 139.762222,
+   "offerings": [
+    {
+     "id": "off-r2350-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ",
+     "serving_type": "draft",
+     "price": null,
+     "size": null,
+     "notes": "神泡達人店掲載",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2351",
+   "name": "カラオケ館 日本橋店",
+   "address": "東京都中央区日本橋3-3-18",
+   "area": "日本橋",
+   "nearest_station": null,
+   "latitude": 35.680416,
+   "longitude": 139.770844,
+   "offerings": [
+    {
+     "id": "off-r2351-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ",
+     "serving_type": "draft",
+     "price": null,
+     "size": null,
+     "notes": "神泡達人店掲載",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2352",
+   "name": "さば銀 八重洲店",
+   "address": "東京都中央区日本橋3-3-17財成八重洲ビル2F",
+   "area": "八重洲",
+   "nearest_station": null,
+   "latitude": 35.680279,
+   "longitude": 139.770752,
+   "offerings": [
+    {
+     "id": "off-r2352-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ",
+     "serving_type": "draft",
+     "price": null,
+     "size": null,
+     "notes": "神泡達人店掲載",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2353",
+   "name": "のど黒屋 八重洲店",
+   "address": "東京都中央区日本橋3-4-1第二弥生ビル4F",
+   "area": "日本橋",
+   "nearest_station": null,
+   "latitude": 35.680134,
+   "longitude": 139.770767,
+   "offerings": [
+    {
+     "id": "off-r2353-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ",
+     "serving_type": "draft",
+     "price": null,
+     "size": null,
+     "notes": "神泡達人店掲載",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2354",
+   "name": "八吉",
+   "address": "東京都中央区日本橋3丁目4-1 第2弥生ビル1F",
+   "area": "日本橋",
+   "nearest_station": null,
+   "latitude": 35.680134,
+   "longitude": 139.770767,
+   "offerings": [
+    {
+     "id": "off-r2354-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ",
+     "serving_type": "draft",
+     "price": null,
+     "size": null,
+     "notes": "神泡達人店掲載",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2355",
+   "name": "居酒屋 銀の月 八重洲店",
+   "address": "東京都中央区日本橋3-4-1第二弥生ビル6F",
+   "area": "日本橋",
+   "nearest_station": null,
+   "latitude": 35.680134,
+   "longitude": 139.770767,
+   "offerings": [
+    {
+     "id": "off-r2355-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ",
+     "serving_type": "draft",
+     "price": null,
+     "size": null,
+     "notes": "神泡達人店掲載",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2356",
+   "name": "ちゃい九炉 八重洲店",
+   "address": "東京都中央区日本橋3-2-3第1山本ビル1F",
+   "area": "日本橋",
+   "nearest_station": null,
+   "latitude": 35.680672,
+   "longitude": 139.771469,
+   "offerings": [
+    {
+     "id": "off-r2356-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ",
+     "serving_type": "draft",
+     "price": null,
+     "size": null,
+     "notes": "神泡達人店掲載",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2357",
+   "name": "木村屋本店 東京駅八重洲",
+   "address": "東京都中央区日本橋3-3-3八重洲山川ビル1F",
+   "area": "八重洲",
+   "nearest_station": null,
+   "latitude": 35.68034,
+   "longitude": 139.771271,
+   "offerings": [
+    {
+     "id": "off-r2357-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ",
+     "serving_type": "draft",
+     "price": null,
+     "size": null,
+     "notes": "神泡達人店掲載",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2358",
+   "name": "韓国料理居酒屋 土火土火 東京・八重洲本店",
+   "address": "東京都中央区八重洲1-4-9",
+   "area": "八重洲",
+   "nearest_station": null,
+   "latitude": 35.682358,
+   "longitude": 139.771927,
+   "offerings": [
+    {
+     "id": "off-r2358-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ",
+     "serving_type": "draft",
+     "price": null,
+     "size": null,
+     "notes": "神泡達人店掲載",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2359",
+   "name": "和食 うおまん 東京本店",
+   "address": "東京都千代田区丸の内1-1-3日本生命丸の内ガーデンタワーB1",
+   "area": "丸の内",
+   "nearest_station": null,
+   "latitude": 35.684559,
+   "longitude": 139.761765,
+   "offerings": [
+    {
+     "id": "off-r2359-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ",
+     "serving_type": "draft",
+     "price": null,
+     "size": null,
+     "notes": "神泡達人店掲載",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2360",
+   "name": "讃岐うどん 野らぼー 八重洲店",
+   "address": "東京都中央区八重洲1-3-7八重洲ファーストフィナンシャルビルB1",
+   "area": "八重洲",
+   "nearest_station": null,
+   "latitude": 35.683052,
+   "longitude": 139.771988,
+   "offerings": [
+    {
+     "id": "off-r2360-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ",
+     "serving_type": "draft",
+     "price": null,
+     "size": null,
+     "notes": "神泡達人店掲載",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2361",
+   "name": "洋食麦星 byグリル満天星 日本橋高島屋店",
+   "address": "東京都中央区日本橋2-4-1日本橋高島屋B2",
+   "area": "日本橋",
+   "nearest_station": null,
+   "latitude": 35.681259,
+   "longitude": 139.773178,
+   "offerings": [
+    {
+     "id": "off-r2361-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ",
+     "serving_type": "draft",
+     "price": null,
+     "size": null,
+     "notes": "神泡達人店掲載",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2362",
+   "name": "GINZA バール LAZY",
+   "address": "東京都中央区銀座1丁目4-8 銀座ビックウエストビル7F",
+   "area": "銀座",
+   "nearest_station": null,
+   "latitude": 35.674778,
+   "longitude": 139.766556,
+   "offerings": [
+    {
+     "id": "off-r2362-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ",
+     "serving_type": "draft",
+     "price": null,
+     "size": null,
+     "notes": "神泡達人店掲載",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2363",
+   "name": "oasis GRILL&ITALIAN",
+   "address": "東京都中央区銀座1丁目4-8",
+   "area": "銀座",
+   "nearest_station": null,
+   "latitude": 35.674778,
+   "longitude": 139.766556,
+   "offerings": [
+    {
+     "id": "off-r2363-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ",
+     "serving_type": "draft",
+     "price": null,
+     "size": null,
+     "notes": "神泡達人店掲載",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2364",
+   "name": "長寿韓酒房 日本橋店",
+   "address": "東京都中央区日本橋2-7-1東京日本橋タワーB1",
+   "area": "日本橋",
+   "nearest_station": null,
+   "latitude": 35.682316,
+   "longitude": 139.773773,
+   "offerings": [
+    {
+     "id": "off-r2364-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ",
+     "serving_type": "draft",
+     "price": null,
+     "size": null,
+     "notes": "神泡達人店掲載",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2365",
+   "name": "Dining&Bar LAVAROCK",
+   "address": "東京都中央区京橋2丁目1-3 コートヤード・バイ・マリオット東京ステーション1F",
+   "area": "京橋",
+   "nearest_station": null,
+   "latitude": 35.678097,
+   "longitude": 139.769852,
+   "offerings": [
+    {
+     "id": "off-r2365-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ",
+     "serving_type": "draft",
+     "price": null,
+     "size": null,
+     "notes": "神泡達人店掲載",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2366",
+   "name": "花葵 別邸",
+   "address": "東京都中央区京橋3-1-1東京スクエアガーデンB1",
+   "area": "京橋",
+   "nearest_station": null,
+   "latitude": 35.676559,
+   "longitude": 139.768524,
+   "offerings": [
+    {
+     "id": "off-r2366-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ",
+     "serving_type": "draft",
+     "price": null,
+     "size": null,
+     "notes": "神泡達人店掲載",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2367",
+   "name": "焼き鳥 松元 丸の内店",
+   "address": "東京都千代田区丸の内3-2-3二重橋スクエアB1",
+   "area": "丸の内",
+   "nearest_station": null,
+   "latitude": 35.677837,
+   "longitude": 139.761429,
+   "offerings": [
+    {
+     "id": "off-r2367-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ",
+     "serving_type": "draft",
+     "price": null,
+     "size": null,
+     "notes": "神泡達人店掲載",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2368",
+   "name": "Oysterbar&Wine BELON 銀座店",
+   "address": "東京都中央区銀座2-4-6銀座ベルビア館7F",
+   "area": "銀座",
+   "nearest_station": null,
+   "latitude": 35.673977,
+   "longitude": 139.766556,
+   "offerings": [
+    {
+     "id": "off-r2368-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ",
+     "serving_type": "draft",
+     "price": null,
+     "size": null,
+     "notes": "神泡達人店掲載",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2369",
+   "name": "IJ ichi-jyoji",
+   "address": "東京都中央区銀座1-6-14",
+   "area": "銀座",
+   "nearest_station": null,
+   "latitude": 35.674656,
+   "longitude": 139.76738,
+   "offerings": [
+    {
+     "id": "off-r2369-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ",
+     "serving_type": "draft",
+     "price": null,
+     "size": null,
+     "notes": "神泡達人店掲載",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2370",
+   "name": "さかなさま 大手町店",
+   "address": "東京都千代田区大手町1-1-1大手町パークビルディングB1",
+   "area": "大手町",
+   "nearest_station": null,
+   "latitude": 35.685982,
+   "longitude": 139.762329,
+   "offerings": [
+    {
+     "id": "off-r2370-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ",
+     "serving_type": "draft",
+     "price": null,
+     "size": null,
+     "notes": "神泡達人店掲載",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2371",
+   "name": "割烹 鰻 ひら井",
+   "address": "東京都中央区銀座3丁目3-4 大倉別館1F",
+   "area": "銀座",
+   "nearest_station": null,
+   "latitude": 35.673306,
+   "longitude": 139.765839,
+   "offerings": [
+    {
+     "id": "off-r2371-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ",
+     "serving_type": "draft",
+     "price": null,
+     "size": null,
+     "notes": "神泡達人店掲載",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2372",
+   "name": "Bar e Ristorante TABLIER",
+   "address": "東京都中央区銀座3丁目4-5 銀三ビルB1",
+   "area": "銀座",
+   "nearest_station": null,
+   "latitude": 35.672974,
+   "longitude": 139.766068,
+   "offerings": [
+    {
+     "id": "off-r2372-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ",
+     "serving_type": "draft",
+     "price": null,
+     "size": null,
+     "notes": "神泡達人店掲載",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2373",
+   "name": "御膳房 銀座",
+   "address": "東京都中央区銀座2丁目6-5 銀座トレシャス11F",
+   "area": "銀座",
+   "nearest_station": null,
+   "latitude": 35.673607,
+   "longitude": 139.767334,
+   "offerings": [
+    {
+     "id": "off-r2373-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ",
+     "serving_type": "draft",
+     "price": null,
+     "size": null,
+     "notes": "神泡達人店掲載",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2374",
+   "name": "羅豚 ギンザ・グラッセ",
+   "address": "東京都中央区銀座3-2-15ギンザ・グラッセ10F",
+   "area": "銀座",
+   "nearest_station": null,
+   "latitude": 35.673225,
+   "longitude": 139.764465,
+   "offerings": [
+    {
+     "id": "off-r2374-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ",
+     "serving_type": "draft",
+     "price": null,
+     "size": null,
+     "notes": "神泡達人店掲載",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2375",
+   "name": "カラオケ館 銀座総本店",
+   "address": "東京都中央区銀座4-2-17銀座111レジャービル",
+   "area": "銀座",
+   "nearest_station": null,
+   "latitude": 35.672909,
+   "longitude": 139.764053,
+   "offerings": [
+    {
+     "id": "off-r2375-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ",
+     "serving_type": "draft",
+     "price": null,
+     "size": null,
+     "notes": "神泡達人店掲載",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2376",
+   "name": "Peter バー",
+   "address": "東京都千代田区有楽町1丁目8-1 ザ・ペニンシュラ東京24F",
+   "area": "有楽町",
+   "nearest_station": null,
+   "latitude": 35.674698,
+   "longitude": 139.760437,
+   "offerings": [
+    {
+     "id": "off-r2376-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ",
+     "serving_type": "draft",
+     "price": null,
+     "size": null,
+     "notes": "神泡達人店掲載",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2377",
+   "name": "SETOUCHI檸檬食堂 神田店",
+   "address": "東京都中央区日本橋本石町4-4-13朝日ビル別館1F",
+   "area": "日本橋",
+   "nearest_station": null,
+   "latitude": 35.68882,
+   "longitude": 139.771042,
+   "offerings": [
+    {
+     "id": "off-r2377-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ",
+     "serving_type": "draft",
+     "price": null,
+     "size": null,
+     "notes": "神泡達人店掲載",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2378",
+   "name": "ひつまぶし 吟楽 有楽町店",
+   "address": "東京都千代田区有楽町2丁目3-6 九重会館ビル6F",
+   "area": "有楽町",
+   "nearest_station": null,
+   "latitude": 35.67326,
+   "longitude": 139.761795,
+   "offerings": [
+    {
+     "id": "off-r2378-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ",
+     "serving_type": "draft",
+     "price": null,
+     "size": null,
+     "notes": "神泡達人店掲載",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2379",
+   "name": "ごちそう家 ぽん太 八丁堀店",
+   "address": "東京都中央区八丁堀1-5-2はごろもビルB1",
+   "area": "八丁堀",
+   "nearest_station": null,
+   "latitude": 35.677731,
+   "longitude": 139.776001,
+   "offerings": [
+    {
+     "id": "off-r2379-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ",
+     "serving_type": "draft",
+     "price": null,
+     "size": null,
+     "notes": "神泡達人店掲載",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2380",
+   "name": "SiAM",
+   "address": "東京都千代田区有楽町1-6-1第二日比谷ビル10F",
+   "area": "有楽町",
+   "nearest_station": null,
+   "latitude": 35.673882,
+   "longitude": 139.760452,
+   "offerings": [
+    {
+     "id": "off-r2380-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ",
+     "serving_type": "draft",
+     "price": null,
+     "size": null,
+     "notes": "神泡達人店掲載",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2381",
+   "name": "金陵本店",
+   "address": "東京都千代田区有楽町2-3-6 JR高架下",
+   "area": "有楽町",
+   "nearest_station": null,
+   "latitude": 35.67326,
+   "longitude": 139.761795,
+   "offerings": [
+    {
+     "id": "off-r2381-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ",
+     "serving_type": "draft",
+     "price": null,
+     "size": null,
+     "notes": "神泡達人店掲載",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2382",
+   "name": "日本橋 土佐料理 祢保希",
+   "address": "東京都中央区日本橋室町2-4-3日本橋室町野村ビルYUITO3F",
+   "area": "日本橋室町",
+   "nearest_station": null,
+   "latitude": 35.687244,
+   "longitude": 139.773712,
+   "offerings": [
+    {
+     "id": "off-r2382-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ",
+     "serving_type": "draft",
+     "price": null,
+     "size": null,
+     "notes": "神泡達人店掲載",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2383",
+   "name": "大衆割烹 千里浜 てつ",
+   "address": "東京都中央区日本橋室町4丁目1-14 日本橋アサヒビル1F",
+   "area": "日本橋室町",
+   "nearest_station": null,
+   "latitude": 35.689171,
+   "longitude": 139.771927,
+   "offerings": [
+    {
+     "id": "off-r2383-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ",
+     "serving_type": "draft",
+     "price": null,
+     "size": null,
+     "notes": "神泡達人店掲載",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2384",
+   "name": "日本橋室町 Nico",
+   "address": "東京都中央区日本橋室町4丁目3-14",
+   "area": "日本橋室町",
+   "nearest_station": null,
+   "latitude": 35.689369,
+   "longitude": 139.772507,
+   "offerings": [
+    {
+     "id": "off-r2384-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ",
+     "serving_type": "draft",
+     "price": null,
+     "size": null,
+     "notes": "神泡達人店掲載",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2385",
+   "name": "貝呑",
+   "address": "東京都千代田区鍛冶町1-7-1",
+   "area": "神田",
+   "nearest_station": null,
+   "latitude": 35.690216,
+   "longitude": 139.770859,
+   "offerings": [
+    {
+     "id": "off-r2385-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ",
+     "serving_type": "draft",
+     "price": null,
+     "size": null,
+     "notes": "神泡達人店掲載",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2386",
+   "name": "中国料理 礼華 四君子草",
+   "address": "東京都千代田区有楽町1-1-2東京ミッドタウン日比谷3F",
+   "area": "有楽町",
+   "nearest_station": null,
+   "latitude": 35.674088,
+   "longitude": 139.759552,
+   "offerings": [
+    {
+     "id": "off-r2386-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ",
+     "serving_type": "draft",
+     "price": null,
+     "size": null,
+     "notes": "神泡達人店掲載",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2387",
+   "name": "スモークバーベキュー さくら",
+   "address": "東京都千代田区鍛冶町1丁目10-16",
+   "area": "神田",
+   "nearest_station": null,
+   "latitude": 35.690231,
+   "longitude": 139.772919,
+   "offerings": [
+    {
+     "id": "off-r2387-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ",
+     "serving_type": "draft",
+     "price": null,
+     "size": null,
+     "notes": "神泡達人店掲載",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2388",
+   "name": "炉端かてて 八丁堀はなれ",
+   "address": "東京都中央区八丁堀3-18-11八丁堀サウスビル1F",
+   "area": "八丁堀",
+   "nearest_station": null,
+   "latitude": 35.675148,
+   "longitude": 139.77626,
+   "offerings": [
+    {
+     "id": "off-r2388-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ",
+     "serving_type": "draft",
+     "price": null,
+     "size": null,
+     "notes": "神泡達人店掲載",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2389",
+   "name": "春秋 ツギハギ 日比谷",
+   "address": "東京都千代田区有楽町1-1-1日生劇場B1",
+   "area": "有楽町",
+   "nearest_station": null,
+   "latitude": 35.674088,
+   "longitude": 139.759552,
+   "offerings": [
+    {
+     "id": "off-r2389-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ",
+     "serving_type": "draft",
+     "price": null,
+     "size": null,
+     "notes": "神泡達人店掲載",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2390",
+   "name": "八丁堀 焼ジビエ 罠",
+   "address": "東京都中央区八丁堀3丁目20-11",
+   "area": "八丁堀",
+   "nearest_station": null,
+   "latitude": 35.675438,
+   "longitude": 139.77681,
+   "offerings": [
+    {
+     "id": "off-r2390-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ",
+     "serving_type": "draft",
+     "price": null,
+     "size": null,
+     "notes": "神泡達人店掲載",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2391",
+   "name": "niku kitchen BOICHI ボイチ入船店",
+   "address": "東京都中央区入船1丁目3-9 長崎ビル1F",
+   "area": "八丁堀",
+   "nearest_station": null,
+   "latitude": 35.672604,
+   "longitude": 139.776337,
+   "offerings": [
+    {
+     "id": "off-r2391-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ",
+     "serving_type": "draft",
+     "price": null,
+     "size": null,
+     "notes": "神泡達人店掲載",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2392",
+   "name": "京都祇園八坂圓堂 東京駅店",
+   "address": "東京都千代田区丸の内1-9-1 12F",
+   "area": "丸の内",
+   "nearest_station": null,
+   "latitude": 35.681252,
+   "longitude": 139.767242,
+   "offerings": [
+    {
+     "id": "off-r2392-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ",
+     "serving_type": "draft",
+     "price": null,
+     "size": null,
+     "notes": "神泡達人店掲載",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2393",
+   "name": "Blanc Rouge",
+   "address": "東京都千代田区丸の内1-9-1 東京ステーションホテル2F",
+   "area": "丸の内",
+   "nearest_station": null,
+   "latitude": 35.681252,
+   "longitude": 139.767242,
+   "offerings": [
+    {
+     "id": "off-r2393-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ",
+     "serving_type": "draft",
+     "price": null,
+     "size": null,
+     "notes": "神泡達人店掲載",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2394",
+   "name": "IL BAR 東京駅一番街店",
+   "address": "東京都千代田区丸の内1-9",
+   "area": "丸の内",
+   "nearest_station": null,
+   "latitude": 35.681252,
+   "longitude": 139.767242,
+   "offerings": [
+    {
+     "id": "off-r2394-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ",
+     "serving_type": "draft",
+     "price": null,
+     "size": null,
+     "notes": "神泡達人店掲載",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2395",
+   "name": "函太郎 東京駅一番街店",
+   "address": "東京都千代田区丸の内1丁目9-1 東京駅一番街B1F",
+   "area": "丸の内",
+   "nearest_station": null,
+   "latitude": 35.681252,
+   "longitude": 139.767242,
+   "offerings": [
+    {
+     "id": "off-r2395-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ",
+     "serving_type": "draft",
+     "price": null,
+     "size": null,
+     "notes": "神泡達人店掲載",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2396",
+   "name": "魚がし鮨 沼津 丸ビル店",
+   "address": "東京都千代田区丸の内2丁目4-1丸の内ビルディング6階",
+   "area": "丸の内",
+   "nearest_station": null,
+   "latitude": 35.681046,
+   "longitude": 139.763794,
+   "offerings": [
+    {
+     "id": "off-r2396-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ",
+     "serving_type": "draft",
+     "price": null,
+     "size": null,
+     "notes": "神泡達人店掲載",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2397",
+   "name": "全聚徳 丸ビル店",
+   "address": "東京都千代田区丸の内2-4-1 丸の内ビルディング36階",
+   "area": "丸の内",
+   "nearest_station": null,
+   "latitude": 35.681046,
+   "longitude": 139.763794,
+   "offerings": [
+    {
+     "id": "off-r2397-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ",
+     "serving_type": "draft",
+     "price": null,
+     "size": null,
+     "notes": "神泡達人店掲載",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2398",
+   "name": "本家あべや 東京駅北町酒場店",
+   "address": "東京都千代田区丸の内1丁目9-1東京駅八重洲北口2F",
+   "area": "丸の内",
+   "nearest_station": null,
+   "latitude": 35.681252,
+   "longitude": 139.767242,
+   "offerings": [
+    {
+     "id": "off-r2398-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ",
+     "serving_type": "draft",
+     "price": null,
+     "size": null,
+     "notes": "神泡達人店掲載",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2399",
+   "name": "立食い寿司 花まる オアゾ店",
+   "address": "東京都千代田区丸の内1丁目6-4 オアゾ地下1階",
+   "area": "丸の内",
+   "nearest_station": null,
+   "latitude": 35.683708,
+   "longitude": 139.766266,
+   "offerings": [
+    {
+     "id": "off-r2399-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ",
+     "serving_type": "draft",
+     "price": null,
+     "size": null,
+     "notes": "神泡達人店掲載",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2400",
+   "name": "Tokyo City i CAFE by PRONTO",
+   "address": "東京都千代田区丸の内2-7-2 KITTE地下1階",
+   "area": "丸の内",
+   "nearest_station": null,
+   "latitude": 35.679085,
+   "longitude": 139.764679,
+   "offerings": [
+    {
+     "id": "off-r2400-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ",
+     "serving_type": "draft",
+     "price": null,
+     "size": null,
+     "notes": "神泡達人店掲載",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2401",
+   "name": "米沢牛黄木 東京駅店",
+   "address": "東京都千代田区丸の内1丁目9-1 グランスタ八重北内",
+   "area": "丸の内",
+   "nearest_station": null,
+   "latitude": 35.681252,
+   "longitude": 139.767242,
+   "offerings": [
+    {
+     "id": "off-r2401-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ",
+     "serving_type": "draft",
+     "price": null,
+     "size": null,
+     "notes": "神泡達人店掲載",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2402",
+   "name": "PRONTO 丸の内オアゾ店",
+   "address": "東京都千代田区丸の内1-6-4 丸の内オアゾB1",
+   "area": "丸の内",
+   "nearest_station": null,
+   "latitude": 35.683708,
+   "longitude": 139.766266,
+   "offerings": [
+    {
+     "id": "off-r2402-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ",
+     "serving_type": "draft",
+     "price": null,
+     "size": null,
+     "notes": "神泡達人店掲載",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2403",
+   "name": "炭火ホルモンぐう 本店",
+   "address": "東京都中央区八重洲1丁目7-3",
+   "area": "八重洲",
+   "nearest_station": null,
+   "latitude": 35.681194,
+   "longitude": 139.770203,
+   "offerings": [
+    {
+     "id": "off-r2403-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ",
+     "serving_type": "draft",
+     "price": null,
+     "size": null,
+     "notes": "神泡達人店掲載",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2405",
+   "name": "ピャチェーレ",
+   "address": "東京都千代田区丸の内1-8-3 丸の内トラストタワー本館",
+   "area": "丸の内",
+   "nearest_station": null,
+   "latitude": 35.682667,
+   "longitude": 139.769562,
+   "offerings": [
+    {
+     "id": "off-r2405-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ",
+     "serving_type": "draft",
+     "price": null,
+     "size": null,
+     "notes": "神泡達人店掲載",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2406",
+   "name": "おでんや たけし 八重洲地下店",
+   "address": "東京都中央区八重洲2丁目1 八重洲地下街",
+   "area": "八重洲",
+   "nearest_station": null,
+   "latitude": 35.679859,
+   "longitude": 139.769608,
+   "offerings": [
+    {
+     "id": "off-r2406-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ",
+     "serving_type": "draft",
+     "price": null,
+     "size": null,
+     "notes": "神泡達人店掲載",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2407",
+   "name": "LEON",
+   "address": "東京都千代田区丸の内1丁目4-1 iiyo B1階",
+   "area": "丸の内",
+   "nearest_station": null,
+   "latitude": 35.684025,
+   "longitude": 139.764786,
+   "offerings": [
+    {
+     "id": "off-r2407-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ",
+     "serving_type": "draft",
+     "price": null,
+     "size": null,
+     "notes": "神泡達人店掲載",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2408",
+   "name": "四国88屋 丸の内本店",
+   "address": "東京都千代田区丸の内1-4-1丸の内永楽ビルB1",
+   "area": "丸の内",
+   "nearest_station": null,
+   "latitude": 35.684025,
+   "longitude": 139.764786,
+   "offerings": [
+    {
+     "id": "off-r2408-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ",
+     "serving_type": "draft",
+     "price": null,
+     "size": null,
+     "notes": "神泡達人店掲載",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2409",
+   "name": "ラッツダイニング 丸の内店",
+   "address": "東京都千代田区丸ノ内1-7-9",
+   "area": "東京駅周辺",
+   "nearest_station": null,
+   "latitude": 35.684074,
+   "longitude": 139.767639,
+   "offerings": [
+    {
+     "id": "off-r2409-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ",
+     "serving_type": "draft",
+     "price": null,
+     "size": null,
+     "notes": "神泡達人店掲載",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2410",
+   "name": "シャングリ・ラ東京 ロビーラウンジ",
+   "address": "東京都千代田区丸の内1丁目8-3",
+   "area": "丸の内",
+   "nearest_station": null,
+   "latitude": 35.682667,
+   "longitude": 139.769562,
+   "offerings": [
+    {
+     "id": "off-r2410-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ",
+     "serving_type": "draft",
+     "price": null,
+     "size": null,
+     "notes": "神泡達人店掲載",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2411",
+   "name": "The PREMIUM MALT'S HOUSE",
+   "address": "東京都中央区八重洲1丁目5番17号 八重洲香川ビルディング1F",
+   "area": "八重洲",
+   "nearest_station": null,
+   "latitude": 35.681721,
+   "longitude": 139.770508,
+   "offerings": [
+    {
+     "id": "off-r2411-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ",
+     "serving_type": "draft",
+     "price": null,
+     "size": null,
+     "notes": "神泡達人店掲載",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2412",
+   "name": "おらが蕎麦 八重洲地下街南口店",
+   "address": "東京都中央区八重洲2-1 八重洲地下街南1",
+   "area": "八重洲",
+   "nearest_station": null,
+   "latitude": 35.679859,
+   "longitude": 139.769608,
+   "offerings": [
+    {
+     "id": "off-r2412-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ",
+     "serving_type": "draft",
+     "price": null,
+     "size": null,
+     "notes": "神泡達人店掲載",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2413",
+   "name": "焼肉矢澤 八重洲店",
+   "address": "東京都中央区八重洲1丁目5-10",
+   "area": "八重洲",
+   "nearest_station": null,
+   "latitude": 35.68161,
+   "longitude": 139.771454,
+   "offerings": [
+    {
+     "id": "off-r2413-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ",
+     "serving_type": "draft",
+     "price": null,
+     "size": null,
+     "notes": "神泡達人店掲載",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2414",
+   "name": "銀だこハイボール酒場 八重洲北口店",
+   "address": "東京都中央区八重洲1-5-10井門八重洲ビル1F",
+   "area": "八重洲",
+   "nearest_station": null,
+   "latitude": 35.68161,
+   "longitude": 139.771454,
+   "offerings": [
+    {
+     "id": "off-r2414-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ",
+     "serving_type": "draft",
+     "price": null,
+     "size": null,
+     "notes": "神泡達人店掲載",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2415",
+   "name": "根室花まる 東京ミッドタウン八重洲店",
+   "address": "東京都中央区八重洲2丁目2-1 東京ミッドタウン八重洲B1F",
+   "area": "八重洲",
+   "nearest_station": null,
+   "latitude": 35.679695,
+   "longitude": 139.769165,
+   "offerings": [
+    {
+     "id": "off-r2415-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ",
+     "serving_type": "draft",
+     "price": null,
+     "size": null,
+     "notes": "神泡達人店掲載",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2416",
+   "name": "亀戸ホルモン 有楽町店",
+   "address": "東京都千代田区丸の内3丁目7-4",
+   "area": "丸の内",
+   "nearest_station": null,
+   "latitude": 35.677212,
+   "longitude": 139.765457,
+   "offerings": [
+    {
+     "id": "off-r2416-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ",
+     "serving_type": "draft",
+     "price": null,
+     "size": null,
+     "notes": "神泡達人店掲載",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2417",
+   "name": "ぐう 日本橋店",
+   "address": "東京都中央区日本橋3丁目1-16共同ビル新八重洲口1階",
+   "area": "八重洲",
+   "nearest_station": null,
+   "latitude": 35.68079,
+   "longitude": 139.771408,
+   "offerings": [
+    {
+     "id": "off-r2417-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ",
+     "serving_type": "draft",
+     "price": null,
+     "size": null,
+     "notes": "神泡達人店掲載",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2419",
+   "name": "寿司トおでん にのや 日本橋店",
+   "address": "東京都中央区日本橋3丁目3-5丸十ビル1階",
+   "area": "日本橋",
+   "nearest_station": null,
+   "latitude": 35.680218,
+   "longitude": 139.771561,
+   "offerings": [
+    {
+     "id": "off-r2419-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ",
+     "serving_type": "draft",
+     "price": null,
+     "size": null,
+     "notes": "神泡達人店掲載",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2420",
+   "name": "丸の内 土佐料理 祢保希",
+   "address": "東京都千代田区丸の内2-1-1丸の内MY PLAZA B1",
+   "area": "丸の内",
+   "nearest_station": null,
+   "latitude": 35.679062,
+   "longitude": 139.761841,
+   "offerings": [
+    {
+     "id": "off-r2420-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ",
+     "serving_type": "draft",
+     "price": null,
+     "size": null,
+     "notes": "神泡達人店掲載",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2421",
+   "name": "地鶏 匠",
+   "address": "東京都中央区日本橋2丁目2-4セッツビル3階",
+   "area": "日本橋",
+   "nearest_station": null,
+   "latitude": 35.682159,
+   "longitude": 139.772598,
+   "offerings": [
+    {
+     "id": "off-r2421-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ",
+     "serving_type": "draft",
+     "price": null,
+     "size": null,
+     "notes": "神泡達人店掲載",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2422",
+   "name": "TOSCANA 大手町店",
+   "address": "東京都千代田区大手町1丁目9-7 大手町フィナンシャルシティサウスタワーB1",
+   "area": "大手町",
+   "nearest_station": null,
+   "latitude": 35.688286,
+   "longitude": 139.765411,
+   "offerings": [
+    {
+     "id": "off-r2422-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ",
+     "serving_type": "draft",
+     "price": null,
+     "size": null,
+     "notes": "神泡達人店掲載",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2423",
+   "name": "日本橋 鳥かく",
+   "address": "東京都中央区日本橋2丁目5-1 日本橋高島屋S.C新館6F",
+   "area": "日本橋",
+   "nearest_station": null,
+   "latitude": 35.681751,
+   "longitude": 139.773468,
+   "offerings": [
+    {
+     "id": "off-r2423-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ",
+     "serving_type": "draft",
+     "price": null,
+     "size": null,
+     "notes": "神泡達人店掲載",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2424",
+   "name": "今よし",
+   "address": "東京都千代田区大手町1-7-2 東京サンケイビルB2",
+   "area": "大手町",
+   "nearest_station": null,
+   "latitude": 35.687069,
+   "longitude": 139.765045,
+   "offerings": [
+    {
+     "id": "off-r2424-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ",
+     "serving_type": "draft",
+     "price": null,
+     "size": null,
+     "notes": "神泡達人店掲載",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2426",
+   "name": "TAVERNA UOKIN 京橋",
+   "address": "東京都中央区京橋2-2-1 京橋エドグラン1F",
+   "area": "京橋",
+   "nearest_station": null,
+   "latitude": 35.677818,
+   "longitude": 139.769318,
+   "offerings": [
+    {
+     "id": "off-r2426-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ",
+     "serving_type": "draft",
+     "price": null,
+     "size": null,
+     "notes": "神泡達人店掲載",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2427",
+   "name": "Oyster Bar ジャックポット丸の内",
+   "address": "東京都千代田区丸の内2丁目3-1 三菱商事ビルB1",
+   "area": "丸の内",
+   "nearest_station": null,
+   "latitude": 35.681313,
+   "longitude": 139.762589,
+   "offerings": [
+    {
+     "id": "off-r2427-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ",
+     "serving_type": "draft",
+     "price": null,
+     "size": null,
+     "notes": "神泡達人店掲載",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2428",
+   "name": "麻辣大先生 大手町店",
+   "address": "東京都千代田区大手町1丁目1-3大手センタービルB1階",
+   "area": "大手町",
+   "nearest_station": null,
+   "latitude": 35.685982,
+   "longitude": 139.762329,
+   "offerings": [
+    {
+     "id": "off-r2428-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ",
+     "serving_type": "draft",
+     "price": null,
+     "size": null,
+     "notes": "神泡達人店掲載",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2429",
+   "name": "鮪屋 銀座インズ店",
+   "address": "東京都中央区銀座2丁目2銀座インズ2 2F",
+   "area": "銀座",
+   "nearest_station": null,
+   "latitude": 35.674606,
+   "longitude": 139.76561,
+   "offerings": [
+    {
+     "id": "off-r2429-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ",
+     "serving_type": "draft",
+     "price": null,
+     "size": null,
+     "notes": "神泡達人店掲載",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2430",
+   "name": "松永牧場 銀座本店",
+   "address": "東京都中央区銀座2丁目4-18 ALBORE GINZA 8階",
+   "area": "銀座",
+   "nearest_station": null,
+   "latitude": 35.674328,
+   "longitude": 139.766403,
+   "offerings": [
+    {
+     "id": "off-r2430-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ",
+     "serving_type": "draft",
+     "price": null,
+     "size": null,
+     "notes": "神泡達人店掲載",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2431",
+   "name": "QUEEN of THAILAND GINZA",
+   "address": "東京都中央区銀座2-2-14マロニエゲート10F",
+   "area": "銀座",
+   "nearest_station": null,
+   "latitude": 35.674366,
+   "longitude": 139.765305,
+   "offerings": [
+    {
+     "id": "off-r2431-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ",
+     "serving_type": "draft",
+     "price": null,
+     "size": null,
+     "notes": "神泡達人店掲載",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2432",
+   "name": "やきとり一升瓶 大手町店",
+   "address": "東京都千代田区大手町1丁目1-1 B1F",
+   "area": "大手町",
+   "nearest_station": null,
+   "latitude": 35.685982,
+   "longitude": 139.762329,
+   "offerings": [
+    {
+     "id": "off-r2432-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ",
+     "serving_type": "draft",
+     "price": null,
+     "size": null,
+     "notes": "神泡達人店掲載",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2433",
+   "name": "焼肉いのうえ 銀座店",
+   "address": "東京都中央区銀座1丁目6-6",
+   "area": "銀座",
+   "nearest_station": null,
+   "latitude": 35.674538,
+   "longitude": 139.767731,
+   "offerings": [
+    {
+     "id": "off-r2433-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ",
+     "serving_type": "draft",
+     "price": null,
+     "size": null,
+     "notes": "神泡達人店掲載",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2435",
+   "name": "鳥ばか一台 ばんがい",
+   "address": "東京都中央区銀座3丁目4-1",
+   "area": "銀座",
+   "nearest_station": null,
+   "latitude": 35.67337,
+   "longitude": 139.766144,
+   "offerings": [
+    {
+     "id": "off-r2435-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ",
+     "serving_type": "draft",
+     "price": null,
+     "size": null,
+     "notes": "神泡達人店掲載",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2436",
+   "name": "煉瓦亭",
+   "address": "東京都中央区銀座3-5-16",
+   "area": "銀座",
+   "nearest_station": null,
+   "latitude": 35.672733,
+   "longitude": 139.76593,
+   "offerings": [
+    {
+     "id": "off-r2436-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ",
+     "serving_type": "draft",
+     "price": null,
+     "size": null,
+     "notes": "神泡達人店掲載",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2437",
+   "name": "有楽町こてがえし",
+   "address": "東京都千代田区有楽町2丁目7-1 有楽町イトシアビル2F",
+   "area": "有楽町",
+   "nearest_station": null,
+   "latitude": 35.674213,
+   "longitude": 139.763657,
+   "offerings": [
+    {
+     "id": "off-r2437-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ",
+     "serving_type": "draft",
+     "price": null,
+     "size": null,
+     "notes": "神泡達人店掲載",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2438",
+   "name": "銀座 瀬里奈",
+   "address": "東京都中央区銀座2-7-17 ティファニー銀座ビルB1",
+   "area": "銀座",
+   "nearest_station": null,
+   "latitude": 35.673275,
+   "longitude": 139.767395,
+   "offerings": [
+    {
+     "id": "off-r2438-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ",
+     "serving_type": "draft",
+     "price": null,
+     "size": null,
+     "notes": "神泡達人店掲載",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2439",
+   "name": "illy CAFFE 有楽町イトシア店",
+   "address": "東京都千代田区有楽町2-7-1 有楽町イトシアB1F",
+   "area": "有楽町",
+   "nearest_station": null,
+   "latitude": 35.674213,
+   "longitude": 139.763657,
+   "offerings": [
+    {
+     "id": "off-r2439-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ",
+     "serving_type": "draft",
+     "price": null,
+     "size": null,
+     "notes": "神泡達人店掲載",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2440",
+   "name": "PRONTO 日本橋三丁目店",
+   "address": "東京都中央区日本橋3-13-5 KDX日本橋313ビル1F",
+   "area": "日本橋",
+   "nearest_station": null,
+   "latitude": 35.67902,
+   "longitude": 139.774918,
+   "offerings": [
+    {
+     "id": "off-r2440-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ",
+     "serving_type": "draft",
+     "price": null,
+     "size": null,
+     "notes": "神泡達人店掲載",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2442",
+   "name": "佳樹園",
+   "address": "東京都千代田区大手町1丁目3-2 大手町カンファレンスセンターB1F",
+   "area": "大手町",
+   "nearest_station": null,
+   "latitude": 35.690128,
+   "longitude": 139.762375,
+   "offerings": [
+    {
+     "id": "off-r2442-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ",
+     "serving_type": "draft",
+     "price": null,
+     "size": null,
+     "notes": "神泡達人店掲載",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2443",
+   "name": "望海",
+   "address": "東京都千代田区大手町1丁目3-2大手町カンファレンスセンターB1F",
+   "area": "大手町",
+   "nearest_station": null,
+   "latitude": 35.690128,
+   "longitude": 139.762375,
+   "offerings": [
+    {
+     "id": "off-r2443-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ",
+     "serving_type": "draft",
+     "price": null,
+     "size": null,
+     "notes": "神泡達人店掲載",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2444",
+   "name": "江南酒家 西安刀削麺",
+   "address": "東京都中央区京橋2-11-6 京橋彌生ビルB1",
+   "area": "京橋",
+   "nearest_station": null,
+   "latitude": 35.676044,
+   "longitude": 139.771988,
+   "offerings": [
+    {
+     "id": "off-r2444-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ",
+     "serving_type": "draft",
+     "price": null,
+     "size": null,
+     "notes": "神泡達人店掲載",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2445",
+   "name": "大衆食堂 フクロウ",
+   "address": "東京都中央区京橋1-19-8 京橋OMビル1F",
+   "area": "京橋",
+   "nearest_station": null,
+   "latitude": 35.677464,
+   "longitude": 139.774048,
+   "offerings": [
+    {
+     "id": "off-r2445-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ",
+     "serving_type": "draft",
+     "price": null,
+     "size": null,
+     "notes": "神泡達人店掲載",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2446",
+   "name": "玄品 銀座一丁目",
+   "address": "東京都中央区銀座1-13-5",
+   "area": "銀座",
+   "nearest_station": null,
+   "latitude": 35.673649,
+   "longitude": 139.769669,
+   "offerings": [
+    {
+     "id": "off-r2446-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ",
+     "serving_type": "draft",
+     "price": null,
+     "size": null,
+     "notes": "神泡達人店掲載",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2447",
+   "name": "飯屋くーた 銀座二丁目店",
+   "address": "東京都中央区銀座2丁目10-5 銀座オオイビル2F",
+   "area": "銀座",
+   "nearest_station": null,
+   "latitude": 35.672581,
+   "longitude": 139.768845,
+   "offerings": [
+    {
+     "id": "off-r2447-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ",
+     "serving_type": "draft",
+     "price": null,
+     "size": null,
+     "notes": "神泡達人店掲載",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2449",
+   "name": "ザ・ペニンシュラ東京 ザ・ロビー",
+   "address": "東京都千代田区有楽町1丁目8-1",
+   "area": "有楽町",
+   "nearest_station": null,
+   "latitude": 35.674698,
+   "longitude": 139.760437,
+   "offerings": [
+    {
+     "id": "off-r2449-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ",
+     "serving_type": "draft",
+     "price": null,
+     "size": null,
+     "notes": "神泡達人店掲載",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2450",
+   "name": "K'SHIKI",
+   "address": "東京都中央区日本橋室町2丁目1-1 マンダリンオリエンタル38F",
+   "area": "日本橋室町",
+   "nearest_station": null,
+   "latitude": 35.686001,
+   "longitude": 139.772644,
+   "offerings": [
+    {
+     "id": "off-r2450-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ",
+     "serving_type": "draft",
+     "price": null,
+     "size": null,
+     "notes": "神泡達人店掲載",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2451",
+   "name": "SENSE",
+   "address": "東京都中央区日本橋室町2丁目1-1 マンダリンオリエンタル37階",
+   "area": "日本橋室町",
+   "nearest_station": null,
+   "latitude": 35.686001,
+   "longitude": 139.772644,
+   "offerings": [
+    {
+     "id": "off-r2451-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ",
+     "serving_type": "draft",
+     "price": null,
+     "size": null,
+     "notes": "神泡達人店掲載",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2452",
+   "name": "完全個室居酒屋うまか 吟乃月 有楽町店",
+   "address": "東京都千代田区有楽町2丁目3-6 九重会館ビル8F",
+   "area": "有楽町",
+   "nearest_station": null,
+   "latitude": 35.67326,
+   "longitude": 139.761795,
+   "offerings": [
+    {
+     "id": "off-r2452-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ",
+     "serving_type": "draft",
+     "price": null,
+     "size": null,
+     "notes": "神泡達人店掲載",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2453",
+   "name": "奥羽本荘 有楽町店",
+   "address": "東京都千代田区有楽町2丁目3-6 地下1階",
+   "area": "有楽町",
+   "nearest_station": null,
+   "latitude": 35.67326,
+   "longitude": 139.761795,
+   "offerings": [
+    {
+     "id": "off-r2453-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ",
+     "serving_type": "draft",
+     "price": null,
+     "size": null,
+     "notes": "神泡達人店掲載",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2454",
+   "name": "いぶり 有楽町店",
+   "address": "東京都千代田区有楽町2丁目3-6 九重会館5F",
+   "area": "有楽町",
+   "nearest_station": null,
+   "latitude": 35.67326,
+   "longitude": 139.761795,
+   "offerings": [
+    {
+     "id": "off-r2454-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ",
+     "serving_type": "draft",
+     "price": null,
+     "size": null,
+     "notes": "神泡達人店掲載",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2455",
+   "name": "シグネチャー",
+   "address": "東京都中央区日本橋室町2丁目1-1 マンダリンオリエンタル37階",
+   "area": "日本橋室町",
+   "nearest_station": null,
+   "latitude": 35.686001,
+   "longitude": 139.772644,
+   "offerings": [
+    {
+     "id": "off-r2455-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ",
+     "serving_type": "draft",
+     "price": null,
+     "size": null,
+     "notes": "神泡達人店掲載",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2456",
+   "name": "銀だこハイボール酒場 銀座一丁目店",
+   "address": "東京都中央区銀座1-18-6井門銀座一丁目ビル1F",
+   "area": "銀座",
+   "nearest_station": null,
+   "latitude": 35.673759,
+   "longitude": 139.7715,
+   "offerings": [
+    {
+     "id": "off-r2456-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ",
+     "serving_type": "draft",
+     "price": null,
+     "size": null,
+     "notes": "神泡達人店掲載",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2457",
+   "name": "たん兵衛 有楽町総本店",
+   "address": "東京都千代田区有楽町1丁目6-1 第二日比谷ビル3階",
+   "area": "有楽町",
+   "nearest_station": null,
+   "latitude": 35.673882,
+   "longitude": 139.760452,
+   "offerings": [
+    {
+     "id": "off-r2457-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ",
+     "serving_type": "draft",
+     "price": null,
+     "size": null,
+     "notes": "神泡達人店掲載",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2458",
+   "name": "LOUNGE Courage 有楽町店",
+   "address": "東京都千代田区有楽町1-6-10 スクワール日比谷駅ビル5F",
+   "area": "有楽町",
+   "nearest_station": null,
+   "latitude": 35.673611,
+   "longitude": 139.760712,
+   "offerings": [
+    {
+     "id": "off-r2458-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ",
+     "serving_type": "draft",
+     "price": null,
+     "size": null,
+     "notes": "神泡達人店掲載",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2459",
+   "name": "長政 神田南口店",
+   "address": "東京都千代田区鍛冶町1丁目4-7",
+   "area": "神田",
+   "nearest_station": null,
+   "latitude": 35.689651,
+   "longitude": 139.770966,
+   "offerings": [
+    {
+     "id": "off-r2459-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ",
+     "serving_type": "draft",
+     "price": null,
+     "size": null,
+     "notes": "神泡達人店掲載",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2460",
+   "name": "備長炭や IKORU いこる",
+   "address": "東京都中央区銀座1丁目19-3ウイステーリアビル1F",
+   "area": "銀座",
+   "nearest_station": null,
+   "latitude": 35.673637,
+   "longitude": 139.771393,
+   "offerings": [
+    {
+     "id": "off-r2460-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ",
+     "serving_type": "draft",
+     "price": null,
+     "size": null,
+     "notes": "神泡達人店掲載",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2461",
+   "name": "炭火焼 極厚サムギョプサル ととり 有楽町",
+   "address": "東京都千代田区有楽町1-3-7なる巳ビル2F",
+   "area": "有楽町",
+   "nearest_station": null,
+   "latitude": 35.673389,
+   "longitude": 139.760818,
+   "offerings": [
+    {
+     "id": "off-r2461-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ",
+     "serving_type": "draft",
+     "price": null,
+     "size": null,
+     "notes": "神泡達人店掲載",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2462",
+   "name": "日比谷 蟹みつ",
+   "address": "東京都千代田区有楽町1丁目1-2東京ミッドタウン日比谷3階",
+   "area": "有楽町",
+   "nearest_station": null,
+   "latitude": 35.674088,
+   "longitude": 139.759552,
+   "offerings": [
+    {
+     "id": "off-r2462-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ",
+     "serving_type": "draft",
+     "price": null,
+     "size": null,
+     "notes": "神泡達人店掲載",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2463",
+   "name": "ニイハオ 神田店",
+   "address": "東京都千代田区鍛冶町1丁目6-2 林ビルB1F",
+   "area": "神田",
+   "nearest_station": null,
+   "latitude": 35.690052,
+   "longitude": 139.77095,
+   "offerings": [
+    {
+     "id": "off-r2463-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ",
+     "serving_type": "draft",
+     "price": null,
+     "size": null,
+     "notes": "神泡達人店掲載",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2464",
+   "name": "牛たんの檸檬 有楽町店",
+   "address": "東京都千代田区有楽町1丁目2-7 金田ビル",
+   "area": "有楽町",
+   "nearest_station": null,
+   "latitude": 35.673031,
+   "longitude": 139.760498,
+   "offerings": [
+    {
+     "id": "off-r2464-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ",
+     "serving_type": "draft",
+     "price": null,
+     "size": null,
+     "notes": "神泡達人店掲載",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2465",
+   "name": "GRIP SHE",
+   "address": "東京都千代田区有楽町1丁目2-2日比谷シャンテB2",
+   "area": "有楽町",
+   "nearest_station": null,
+   "latitude": 35.672913,
+   "longitude": 139.759964,
+   "offerings": [
+    {
+     "id": "off-r2465-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ",
+     "serving_type": "draft",
+     "price": null,
+     "size": null,
+     "notes": "神泡達人店掲載",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2466",
+   "name": "一角",
+   "address": "東京都千代田区有楽町1丁目1-2ヒビヤセントラルマーケット3F",
+   "area": "有楽町",
+   "nearest_station": null,
+   "latitude": 35.674088,
+   "longitude": 139.759552,
+   "offerings": [
+    {
+     "id": "off-r2466-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ",
+     "serving_type": "draft",
+     "price": null,
+     "size": null,
+     "notes": "神泡達人店掲載",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2467",
+   "name": "中俣酒造 館",
+   "address": "東京都中央区八丁堀2-18-2",
+   "area": "八丁堀",
+   "nearest_station": null,
+   "latitude": 35.676186,
+   "longitude": 139.776245,
+   "offerings": [
+    {
+     "id": "off-r2467-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ",
+     "serving_type": "draft",
+     "price": null,
+     "size": null,
+     "notes": "神泡達人店掲載",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2468",
+   "name": "いいとこ鶏 有楽町",
+   "address": "東京都千代田区有楽町1丁目2-11 8階",
+   "area": "有楽町",
+   "nearest_station": null,
+   "latitude": 35.672581,
+   "longitude": 139.760162,
+   "offerings": [
+    {
+     "id": "off-r2468-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ",
+     "serving_type": "draft",
+     "price": null,
+     "size": null,
+     "notes": "神泡達人店掲載",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2469",
+   "name": "もつ千 八丁堀店",
+   "address": "東京都中央区八丁堀3-14-4 藤ビルディング1F",
+   "area": "八丁堀",
+   "nearest_station": null,
+   "latitude": 35.675743,
+   "longitude": 139.776169,
+   "offerings": [
+    {
+     "id": "off-r2469-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ",
+     "serving_type": "draft",
+     "price": null,
+     "size": null,
+     "notes": "神泡達人店掲載",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2470",
+   "name": "サクレフルール 日本橋",
+   "address": "東京都中央区日本橋本町2-2-5 日本橋本町二丁目ビル1F",
+   "area": "日本橋本町",
+   "nearest_station": null,
+   "latitude": 35.688087,
+   "longitude": 139.775299,
+   "offerings": [
+    {
+     "id": "off-r2470-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ",
+     "serving_type": "draft",
+     "price": null,
+     "size": null,
+     "notes": "神泡達人店掲載",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2471",
+   "name": "チキンプレイス 日本橋本町店",
+   "address": "東京都中央区日本橋本町3-9-1",
+   "area": "日本橋本町",
+   "nearest_station": null,
+   "latitude": 35.689457,
+   "longitude": 139.776718,
+   "offerings": [
+    {
+     "id": "off-r2471-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ",
+     "serving_type": "draft",
+     "price": null,
+     "size": null,
+     "notes": "神泡達人店掲載",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2472",
+   "name": "PRONTO アスティ草薙店",
+   "address": "静岡県静岡市清水区草薙1丁目3-2 ASTY草薙1F",
+   "area": "静岡市",
+   "nearest_station": null,
+   "latitude": 35.002821,
+   "longitude": 138.442113,
+   "offerings": [
+    {
+     "id": "off-r2472-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ〈香るエール〉",
+     "serving_type": "draft",
+     "price": 649,
+     "size": "ジョッキ",
+     "notes": "チェーン共通（PRONTO）グラス¥539/パイント¥869あり",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2473",
+   "name": "PRONTO アトレ浦和店",
+   "address": "埼玉県さいたま市浦和区高砂1丁目16-12 アトレ浦和",
+   "area": "さいたま市",
+   "nearest_station": null,
+   "latitude": 35.8583841,
+   "longitude": 139.6574444,
+   "offerings": [
+    {
+     "id": "off-r2473-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ〈香るエール〉",
+     "serving_type": "draft",
+     "price": 649,
+     "size": "ジョッキ",
+     "notes": "チェーン共通（PRONTO）グラス¥539/パイント¥869あり",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2474",
+   "name": "PRONTO アトレ川崎店",
+   "address": "神奈川県川崎市川崎区駅前本町26-1 アトレ川崎3階",
+   "area": "川崎市",
+   "nearest_station": null,
+   "latitude": 35.5320531,
+   "longitude": 139.6980152,
+   "offerings": [
+    {
+     "id": "off-r2474-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ〈香るエール〉",
+     "serving_type": "draft",
+     "price": 649,
+     "size": "ジョッキ",
+     "notes": "チェーン共通（PRONTO）グラス¥539/パイント¥869あり",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2475",
+   "name": "PRONTO アトレヴィ三鷹店",
+   "address": "東京都三鷹市下連雀3-46-4 アトレヴィ三鷹4F",
+   "area": "三鷹市",
+   "nearest_station": null,
+   "latitude": 35.7029129,
+   "longitude": 139.56134,
+   "offerings": [
+    {
+     "id": "off-r2475-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ〈香るエール〉",
+     "serving_type": "draft",
+     "price": 649,
+     "size": "ジョッキ",
+     "notes": "チェーン共通（PRONTO）グラス¥539/パイント¥869あり",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2476",
+   "name": "PRONTO エキュート立川店",
+   "address": "東京都立川市柴崎町3丁目1-1 ecute立川1F",
+   "area": "立川市",
+   "nearest_station": null,
+   "latitude": 35.6974076,
+   "longitude": 139.413355,
+   "offerings": [
+    {
+     "id": "off-r2476-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ〈香るエール〉",
+     "serving_type": "draft",
+     "price": 649,
+     "size": "ジョッキ",
+     "notes": "チェーン共通（PRONTO）グラス¥539/パイント¥869あり",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2477",
+   "name": "PRONTO エクセル伊勢佐木モール店",
+   "address": "神奈川県横浜市中区伊勢佐木町1-7-1 エクセル伊勢佐木1F",
+   "area": "横浜市",
+   "nearest_station": null,
+   "latitude": 35.4444357,
+   "longitude": 139.6326553,
+   "offerings": [
+    {
+     "id": "off-r2477-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ〈香るエール〉",
+     "serving_type": "draft",
+     "price": 649,
+     "size": "ジョッキ",
+     "notes": "チェーン共通（PRONTO）グラス¥539/パイント¥869あり",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2478",
+   "name": "PRONTO かわぐちキャスティ店",
+   "address": "埼玉県川口市栄町3-7-1",
+   "area": "川口市",
+   "nearest_station": null,
+   "latitude": 35.8025399,
+   "longitude": 139.7191045,
+   "offerings": [
+    {
+     "id": "off-r2478-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ〈香るエール〉",
+     "serving_type": "draft",
+     "price": 649,
+     "size": "ジョッキ",
+     "notes": "チェーン共通（PRONTO）グラス¥539/パイント¥869あり",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2479",
+   "name": "PRONTO グランエミオ所沢店",
+   "address": "埼玉県所沢市くすのき台1丁目14番地5",
+   "area": "所沢市",
+   "nearest_station": null,
+   "latitude": 35.7870249,
+   "longitude": 139.4745007,
+   "offerings": [
+    {
+     "id": "off-r2479-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ〈香るエール〉",
+     "serving_type": "draft",
+     "price": 649,
+     "size": "ジョッキ",
+     "notes": "チェーン共通（PRONTO）グラス¥539/パイント¥869あり",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2480",
+   "name": "PRONTO 渋谷東武ホテル店",
+   "address": "東京都渋谷区宇田川町3-1 渋谷東武ホテル1F",
+   "area": "渋谷区",
+   "nearest_station": null,
+   "latitude": 35.6632088,
+   "longitude": 139.6987408,
+   "offerings": [
+    {
+     "id": "off-r2480-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ〈香るエール〉",
+     "serving_type": "draft",
+     "price": 649,
+     "size": "ジョッキ",
+     "notes": "チェーン共通（PRONTO）グラス¥539/パイント¥869あり",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2481",
+   "name": "PRONTO 渋谷フクラス店",
+   "address": "東京都渋谷区道玄坂1丁目2-3 渋谷フクラス1階",
+   "area": "渋谷区",
+   "nearest_station": null,
+   "latitude": 35.6577828,
+   "longitude": 139.6997811,
+   "offerings": [
+    {
+     "id": "off-r2481-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ〈香るエール〉",
+     "serving_type": "draft",
+     "price": 649,
+     "size": "ジョッキ",
+     "notes": "チェーン共通（PRONTO）グラス¥539/パイント¥869あり",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2482",
+   "name": "PRONTO 湘南藤沢OPA店",
+   "address": "神奈川県藤沢市南藤沢22-3",
+   "area": "藤沢市",
+   "nearest_station": null,
+   "latitude": 35.3377027,
+   "longitude": 139.4869663,
+   "offerings": [
+    {
+     "id": "off-r2482-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ〈香るエール〉",
+     "serving_type": "draft",
+     "price": 649,
+     "size": "ジョッキ",
+     "notes": "チェーン共通（PRONTO）グラス¥539/パイント¥869あり",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2483",
+   "name": "PRONTO 新宿マインズタワー店",
+   "address": "東京都渋谷区代々木2-1-1 新宿マインズタワーB1F",
+   "area": "渋谷区",
+   "nearest_station": null,
+   "latitude": 35.6865271,
+   "longitude": 139.6990025,
+   "offerings": [
+    {
+     "id": "off-r2483-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ〈香るエール〉",
+     "serving_type": "draft",
+     "price": 649,
+     "size": "ジョッキ",
+     "notes": "チェーン共通（PRONTO）グラス¥539/パイント¥869あり",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2484",
+   "name": "PRONTO JRゲートタワー店",
+   "address": "愛知県名古屋市中村区名駅1-1-3 JRゲートタワー地下1階",
+   "area": "名古屋市",
+   "nearest_station": null,
+   "latitude": 35.172429,
+   "longitude": 136.882963,
+   "offerings": [
+    {
+     "id": "off-r2484-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ〈香るエール〉",
+     "serving_type": "draft",
+     "price": 649,
+     "size": "ジョッキ",
+     "notes": "チェーン共通（PRONTO）グラス¥539/パイント¥869あり",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2485",
+   "name": "PRONTO ジョイナステラス二俣川店",
+   "address": "神奈川県横浜市旭区二俣川2丁目91-7",
+   "area": "横浜市",
+   "nearest_station": null,
+   "latitude": 35.4633309,
+   "longitude": 139.531947,
+   "offerings": [
+    {
+     "id": "off-r2485-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ〈香るエール〉",
+     "serving_type": "draft",
+     "price": 649,
+     "size": "ジョッキ",
+     "notes": "チェーン共通（PRONTO）グラス¥539/パイント¥869あり",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2486",
+   "name": "PRONTO つくば万博記念公園駅前店",
+   "address": "茨城県つくば市島名4383番地諏訪C19街区15画地",
+   "area": "つくば市",
+   "nearest_station": null,
+   "latitude": 36.0583078,
+   "longitude": 140.0602057,
+   "offerings": [
+    {
+     "id": "off-r2486-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ〈香るエール〉",
+     "serving_type": "draft",
+     "price": 649,
+     "size": "ジョッキ",
+     "notes": "チェーン共通（PRONTO）グラス¥539/パイント¥869あり",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2487",
+   "name": "PRONTO フレッサイン日本橋店",
+   "address": "東京都中央区日本橋茅場町1-3-10 相鉄フレッサイン日本橋茅場町1F",
+   "area": "中央区",
+   "nearest_station": null,
+   "latitude": 35.6807605,
+   "longitude": 139.7799806,
+   "offerings": [
+    {
+     "id": "off-r2487-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ〈香るエール〉",
+     "serving_type": "draft",
+     "price": 649,
+     "size": "ジョッキ",
+     "notes": "チェーン共通（PRONTO）グラス¥539/パイント¥869あり",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2488",
+   "name": "PRONTO MAGNET by SHIBUYA109店",
+   "address": "東京都渋谷区神南1丁目23-10",
+   "area": "渋谷区",
+   "nearest_station": null,
+   "latitude": 35.6598608,
+   "longitude": 139.7008775,
+   "offerings": [
+    {
+     "id": "off-r2488-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ〈香るエール〉",
+     "serving_type": "draft",
+     "price": 649,
+     "size": "ジョッキ",
+     "notes": "チェーン共通（PRONTO）グラス¥539/パイント¥869あり",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2489",
+   "name": "PRONTO 松山大街道店",
+   "address": "愛媛県松山市大街道2丁目5-9 久保豊第1ビル1F",
+   "area": "松山市",
+   "nearest_station": null,
+   "latitude": 33.840771,
+   "longitude": 132.7702813,
+   "offerings": [
+    {
+     "id": "off-r2489-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ〈香るエール〉",
+     "serving_type": "draft",
+     "price": 649,
+     "size": "ジョッキ",
+     "notes": "チェーン共通（PRONTO）グラス¥539/パイント¥869あり",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2490",
+   "name": "PRONTO ムスブ田町店",
+   "address": "東京都港区芝浦3丁目1-1 msb田町ステーションタワーN 2階",
+   "area": "港区",
+   "nearest_station": null,
+   "latitude": 35.6456468,
+   "longitude": 139.7496279,
+   "offerings": [
+    {
+     "id": "off-r2490-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ〈香るエール〉",
+     "serving_type": "draft",
+     "price": 649,
+     "size": "ジョッキ",
+     "notes": "チェーン共通（PRONTO）グラス¥539/パイント¥869あり",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2491",
+   "name": "PRONTO アルデ新大阪店",
+   "address": "大阪府大阪市淀川区西中島5丁目16-1",
+   "area": "大阪市",
+   "nearest_station": null,
+   "latitude": 34.7334852,
+   "longitude": 135.5000329,
+   "offerings": [
+    {
+     "id": "off-r2491-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ〈香るエール〉",
+     "serving_type": "draft",
+     "price": 649,
+     "size": "ジョッキ",
+     "notes": "チェーン共通（PRONTO）グラス¥539/パイント¥869あり",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2492",
+   "name": "PRONTO THE FIRST",
+   "address": "東京都中央区銀座8丁目6-25 河北新報ビル",
+   "area": "中央区",
+   "nearest_station": null,
+   "latitude": 35.6693092,
+   "longitude": 139.7611579,
+   "offerings": [
+    {
+     "id": "off-r2492-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ〈香るエール〉",
+     "serving_type": "draft",
+     "price": 649,
+     "size": "ジョッキ",
+     "notes": "チェーン共通（PRONTO）グラス¥539/パイント¥869あり",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2493",
+   "name": "PRONTO 鶴舞公園店",
+   "address": "愛知県名古屋市昭和区鶴舞1丁目1-169 ツルマガーデンA-8",
+   "area": "名古屋市",
+   "nearest_station": null,
+   "latitude": 35.155477,
+   "longitude": 136.9174321,
+   "offerings": [
+    {
+     "id": "off-r2493-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ〈香るエール〉",
+     "serving_type": "draft",
+     "price": 649,
+     "size": "ジョッキ",
+     "notes": "チェーン共通（PRONTO）グラス¥539/パイント¥869あり",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2494",
+   "name": "PRONTO FOOD＆TIME ISETAN YOKOHAMA店",
+   "address": "神奈川県横浜市西区南幸1丁目5-1 ジョイナス地下1階",
+   "area": "横浜市",
+   "nearest_station": null,
+   "latitude": 35.4643512,
+   "longitude": 139.6202492,
+   "offerings": [
+    {
+     "id": "off-r2494-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ〈香るエール〉",
+     "serving_type": "draft",
+     "price": 649,
+     "size": "ジョッキ",
+     "notes": "チェーン共通（PRONTO）グラス¥539/パイント¥869あり",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2495",
+   "name": "PRONTO アスティ岐阜店",
+   "address": "岐阜県岐阜市橋本町1丁目10-1 2階",
+   "area": "岐阜市",
+   "nearest_station": null,
+   "latitude": 35.4094319,
+   "longitude": 136.7577675,
+   "offerings": [
+    {
+     "id": "off-r2495-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ〈香るエール〉",
+     "serving_type": "draft",
+     "price": 649,
+     "size": "ジョッキ",
+     "notes": "チェーン共通（PRONTO）グラス¥539/パイント¥869あり",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2496",
+   "name": "PRONTO イオンタウン東浦和店",
+   "address": "埼玉県さいたま市緑区東浦和1-1-8 イオンタウン東浦和",
+   "area": "さいたま市",
+   "nearest_station": null,
+   "latitude": 35.86494,
+   "longitude": 139.70423,
+   "offerings": [
+    {
+     "id": "off-r2496-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ〈香るエール〉",
+     "serving_type": "draft",
+     "price": 649,
+     "size": "ジョッキ",
+     "notes": "チェーン共通（PRONTO）グラス¥539/パイント¥869あり",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2497",
+   "name": "PRONTO 京橋宝町店",
+   "address": "東京都中央区京橋3丁目13-1 東京有楽ビル1F",
+   "area": "中央区",
+   "nearest_station": null,
+   "latitude": 35.6752198,
+   "longitude": 139.7721182,
+   "offerings": [
+    {
+     "id": "off-r2497-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ〈香るエール〉",
+     "serving_type": "draft",
+     "price": 649,
+     "size": "ジョッキ",
+     "notes": "チェーン共通（PRONTO）グラス¥539/パイント¥869あり",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2498",
+   "name": "PRONTO 名古屋栄店",
+   "address": "愛知県名古屋市中区栄4丁目2-7 栄イーストビル1F",
+   "area": "名古屋市",
+   "nearest_station": null,
+   "latitude": 35.1689709,
+   "longitude": 136.9113717,
+   "offerings": [
+    {
+     "id": "off-r2498-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ〈香るエール〉",
+     "serving_type": "draft",
+     "price": 649,
+     "size": "ジョッキ",
+     "notes": "チェーン共通（PRONTO）グラス¥539/パイント¥869あり",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2499",
+   "name": "PRONTO 新宿御苑前店",
+   "address": "東京都新宿区新宿1丁目12-6",
+   "area": "新宿区",
+   "nearest_station": null,
+   "latitude": 35.6888184,
+   "longitude": 139.7120759,
+   "offerings": [
+    {
+     "id": "off-r2499-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ〈香るエール〉",
+     "serving_type": "draft",
+     "price": 649,
+     "size": "ジョッキ",
+     "notes": "チェーン共通（PRONTO）グラス¥539/パイント¥869あり",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2500",
+   "name": "PRONTO 新幹線博多駅店",
+   "address": "福岡県福岡市博多区博多駅中央街1-11-1 新幹線博多駅2F",
+   "area": "福岡市",
+   "nearest_station": null,
+   "latitude": 33.5906639,
+   "longitude": 130.4210035,
+   "offerings": [
+    {
+     "id": "off-r2500-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ〈香るエール〉",
+     "serving_type": "draft",
+     "price": 649,
+     "size": "ジョッキ",
+     "notes": "チェーン共通（PRONTO）グラス¥539/パイント¥869あり",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2501",
+   "name": "PRONTO 秋田オーパ店",
+   "address": "秋田県秋田市千秋久保田町4-2 2F",
+   "area": "秋田市",
+   "nearest_station": null,
+   "latitude": 39.7176134,
+   "longitude": 140.1283198,
+   "offerings": [
+    {
+     "id": "off-r2501-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ〈香るエール〉",
+     "serving_type": "draft",
+     "price": 649,
+     "size": "ジョッキ",
+     "notes": "チェーン共通（PRONTO）グラス¥539/パイント¥869あり",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2502",
+   "name": "PRONTO 豊橋駅店",
+   "address": "愛知県豊橋市花田町西宿無番地 豊橋駅改札内",
+   "area": "豊橋市",
+   "nearest_station": null,
+   "latitude": 34.7627414,
+   "longitude": 137.382109,
+   "offerings": [
+    {
+     "id": "off-r2502-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ〈香るエール〉",
+     "serving_type": "draft",
+     "price": 649,
+     "size": "ジョッキ",
+     "notes": "チェーン共通（PRONTO）グラス¥539/パイント¥869あり",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2503",
+   "name": "PRONTO 関西国際空港エアロプラザ店",
+   "address": "大阪府泉南郡泉佐野市泉州空港北1 エアロプラザ2F",
+   "area": "泉南郡",
+   "nearest_station": null,
+   "latitude": 34.436522,
+   "longitude": 135.2423834,
+   "offerings": [
+    {
+     "id": "off-r2503-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ〈香るエール〉",
+     "serving_type": "draft",
+     "price": 649,
+     "size": "ジョッキ",
+     "notes": "チェーン共通（PRONTO）グラス¥539/パイント¥869あり",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2504",
+   "name": "PRONTO 関西国際空港ターミナル1店",
+   "address": "大阪府泉佐野市泉州空港北1番地 第1ターミナルビル本館2F",
+   "area": "泉佐野市",
+   "nearest_station": null,
+   "latitude": 34.4345667,
+   "longitude": 135.2443315,
+   "offerings": [
+    {
+     "id": "off-r2504-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ〈香るエール〉",
+     "serving_type": "draft",
+     "price": 649,
+     "size": "ジョッキ",
+     "notes": "チェーン共通（PRONTO）グラス¥539/パイント¥869あり",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2505",
+   "name": "PRONTO CIAL桜木町店",
+   "address": "神奈川県横浜市中区桜木町1丁目1-84",
+   "area": "横浜市",
+   "nearest_station": null,
+   "latitude": 35.4511307,
+   "longitude": 139.6306394,
+   "offerings": [
+    {
+     "id": "off-r2505-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ〈香るエール〉",
+     "serving_type": "draft",
+     "price": 649,
+     "size": "ジョッキ",
+     "notes": "チェーン共通（PRONTO）グラス¥539/パイント¥869あり",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2506",
+   "name": "PRONTO CoCoLo長岡店",
+   "address": "新潟県長岡市城内町1丁目611-1 CoCoLo長岡本館1F",
+   "area": "長岡市",
+   "nearest_station": null,
+   "latitude": 37.4463496,
+   "longitude": 138.8530195,
+   "offerings": [
+    {
+     "id": "off-r2506-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ〈香るエール〉",
+     "serving_type": "draft",
+     "price": 649,
+     "size": "ジョッキ",
+     "notes": "チェーン共通（PRONTO）グラス¥539/パイント¥869あり",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2507",
+   "name": "PRONTO OBP店",
+   "address": "大阪府大阪市中央区城見2丁目1-61 ツイン21 1F",
+   "area": "大阪市",
+   "nearest_station": null,
+   "latitude": 34.6925549,
+   "longitude": 135.5317157,
+   "offerings": [
+    {
+     "id": "off-r2507-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ〈香るエール〉",
+     "serving_type": "draft",
+     "price": 649,
+     "size": "ジョッキ",
+     "notes": "チェーン共通（PRONTO）グラス¥539/パイント¥869あり",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2508",
+   "name": "PRONTO Otemachi One店",
+   "address": "東京都千代田区大手町1丁目2-1 B2F",
+   "area": "千代田区",
+   "nearest_station": null,
+   "latitude": 35.6877831,
+   "longitude": 139.7623165,
+   "offerings": [
+    {
+     "id": "off-r2508-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ〈香るエール〉",
+     "serving_type": "draft",
+     "price": 649,
+     "size": "ジョッキ",
+     "notes": "チェーン共通（PRONTO）グラス¥539/パイント¥869あり・神泡達人店掲載",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2509",
+   "name": "PRONTO あべの橋駅店",
+   "address": "大阪府大阪市阿倍野区阿倍野筋1丁目1-43",
+   "area": "大阪市",
+   "nearest_station": null,
+   "latitude": 34.6453947,
+   "longitude": 135.5148176,
+   "offerings": [
+    {
+     "id": "off-r2509-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ〈香るエール〉",
+     "serving_type": "draft",
+     "price": 649,
+     "size": "ジョッキ",
+     "notes": "チェーン共通（PRONTO）グラス¥539/パイント¥869あり",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2510",
+   "name": "PRONTO さいたま新都心ビル店",
+   "address": "埼玉県さいたま市中央区新都心11-1",
+   "area": "さいたま市",
+   "nearest_station": null,
+   "latitude": 35.8940029,
+   "longitude": 139.6324546,
+   "offerings": [
+    {
+     "id": "off-r2510-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ〈香るエール〉",
+     "serving_type": "draft",
+     "price": 649,
+     "size": "ジョッキ",
+     "notes": "チェーン共通（PRONTO）グラス¥539/パイント¥869あり",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2511",
+   "name": "PRONTO さっぽろポールタウン店",
+   "address": "北海道札幌市中央区南3条西3丁目 ポールタウン内",
+   "area": "札幌市",
+   "nearest_station": null,
+   "latitude": 43.0568367,
+   "longitude": 141.3532546,
+   "offerings": [
+    {
+     "id": "off-r2511-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ〈香るエール〉",
+     "serving_type": "draft",
+     "price": 649,
+     "size": "ジョッキ",
+     "notes": "チェーン共通（PRONTO）グラス¥539/パイント¥869あり",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2512",
+   "name": "PRONTO なんばスカイオ店",
+   "address": "大阪府大阪市中央区難波5丁目1-60 2F",
+   "area": "大阪市",
+   "nearest_station": null,
+   "latitude": 34.6641222,
+   "longitude": 135.5005514,
+   "offerings": [
+    {
+     "id": "off-r2512-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ〈香るエール〉",
+     "serving_type": "draft",
+     "price": 649,
+     "size": "ジョッキ",
+     "notes": "チェーン共通（PRONTO）グラス¥539/パイント¥869あり",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2513",
+   "name": "PRONTO ららテラスTOKYO-BAY店",
+   "address": "千葉県船橋市若松2丁目2番1号 2F",
+   "area": "船橋市",
+   "nearest_station": null,
+   "latitude": 35.6808828,
+   "longitude": 139.9967988,
+   "offerings": [
+    {
+     "id": "off-r2513-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ〈香るエール〉",
+     "serving_type": "draft",
+     "price": 649,
+     "size": "ジョッキ",
+     "notes": "チェーン共通（PRONTO）グラス¥539/パイント¥869あり",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2514",
+   "name": "PRONTO アクエル前橋店",
+   "address": "群馬県前橋市表町2-30-8 アクエル前橋1階",
+   "area": "前橋市",
+   "nearest_station": null,
+   "latitude": 36.3838454,
+   "longitude": 139.071832,
+   "offerings": [
+    {
+     "id": "off-r2514-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ〈香るエール〉",
+     "serving_type": "draft",
+     "price": 649,
+     "size": "ジョッキ",
+     "notes": "チェーン共通（PRONTO）グラス¥539/パイント¥869あり",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2515",
+   "name": "PRONTO アトレ信濃町店",
+   "address": "東京都新宿区信濃町34 アトレ信濃町2F",
+   "area": "新宿区",
+   "nearest_station": null,
+   "latitude": 35.6801061,
+   "longitude": 139.7196963,
+   "offerings": [
+    {
+     "id": "off-r2515-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ〈香るエール〉",
+     "serving_type": "draft",
+     "price": 649,
+     "size": "ジョッキ",
+     "notes": "チェーン共通（PRONTO）グラス¥539/パイント¥869あり",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2516",
+   "name": "PRONTO アミュプラザ博多店",
+   "address": "福岡県福岡市博多区博多駅中央街1-1 アミュプラザ博多B1F",
+   "area": "福岡市",
+   "nearest_station": null,
+   "latitude": 33.589813,
+   "longitude": 130.4193053,
+   "offerings": [
+    {
+     "id": "off-r2516-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ〈香るエール〉",
+     "serving_type": "draft",
+     "price": 649,
+     "size": "ジョッキ",
+     "notes": "チェーン共通（PRONTO）グラス¥539/パイント¥869あり",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2517",
+   "name": "PRONTO ウインズ汐留店",
+   "address": "東京都港区東新橋2丁目18-1 2F",
+   "area": "港区",
+   "nearest_station": null,
+   "latitude": 35.6614364,
+   "longitude": 139.7580858,
+   "offerings": [
+    {
+     "id": "off-r2517-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ〈香るエール〉",
+     "serving_type": "draft",
+     "price": 649,
+     "size": "ジョッキ",
+     "notes": "チェーン共通（PRONTO）グラス¥539/パイント¥869あり",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2518",
+   "name": "PRONTO ウツノミヤテラス店",
+   "address": "栃木県宇都宮市宮みらい1-1 ウツノミヤテラス2階",
+   "area": "宇都宮市",
+   "nearest_station": null,
+   "latitude": 36.5594254,
+   "longitude": 139.9005558,
+   "offerings": [
+    {
+     "id": "off-r2518-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ〈香るエール〉",
+     "serving_type": "draft",
+     "price": 649,
+     "size": "ジョッキ",
+     "notes": "チェーン共通（PRONTO）グラス¥539/パイント¥869あり",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2519",
+   "name": "PRONTO エキア北千住店",
+   "address": "東京都足立区千住旭町42-1 北千住駅構内2F",
+   "area": "足立区",
+   "nearest_station": null,
+   "latitude": 35.7487592,
+   "longitude": 139.8067535,
+   "offerings": [
+    {
+     "id": "off-r2519-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ〈香るエール〉",
+     "serving_type": "draft",
+     "price": 649,
+     "size": "ジョッキ",
+     "notes": "チェーン共通（PRONTO）グラス¥539/パイント¥869あり",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2520",
+   "name": "PRONTO エキア池袋店",
+   "address": "東京都豊島区西池袋1丁目1-21",
+   "area": "豊島区",
+   "nearest_station": null,
+   "latitude": 35.7312595,
+   "longitude": 139.7112224,
+   "offerings": [
+    {
+     "id": "off-r2520-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ〈香るエール〉",
+     "serving_type": "draft",
+     "price": 649,
+     "size": "ジョッキ",
+     "notes": "チェーン共通（PRONTO）グラス¥539/パイント¥869あり",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2521",
+   "name": "PRONTO エトモ溝の口店",
+   "address": "神奈川県川崎市高津区溝口2丁目1-1",
+   "area": "川崎市",
+   "nearest_station": null,
+   "latitude": 35.5998513,
+   "longitude": 139.6103427,
+   "offerings": [
+    {
+     "id": "off-r2521-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ〈香るエール〉",
+     "serving_type": "draft",
+     "price": 649,
+     "size": "ジョッキ",
+     "notes": "チェーン共通（PRONTO）グラス¥539/パイント¥869あり",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2522",
+   "name": "PRONTO キーノ和歌山店",
+   "address": "和歌山県和歌山市東蔵前丁39 キーノ和歌山104",
+   "area": "和歌山市",
+   "nearest_station": null,
+   "latitude": 34.2363939,
+   "longitude": 135.1670653,
+   "offerings": [
+    {
+     "id": "off-r2522-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ〈香るエール〉",
+     "serving_type": "draft",
+     "price": 649,
+     "size": "ジョッキ",
+     "notes": "チェーン共通（PRONTO）グラス¥539/パイント¥869あり",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2523",
+   "name": "PRONTO ニッセイ池袋ビル店",
+   "address": "東京都豊島区東池袋1丁目24-1",
+   "area": "豊島区",
+   "nearest_station": null,
+   "latitude": 35.7286188,
+   "longitude": 139.7153601,
+   "offerings": [
+    {
+     "id": "off-r2523-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ〈香るエール〉",
+     "serving_type": "draft",
+     "price": 649,
+     "size": "ジョッキ",
+     "notes": "チェーン共通（PRONTO）グラス¥539/パイント¥869あり",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2524",
+   "name": "PRONTO ビーンズ赤羽店",
+   "address": "東京都北区赤羽1丁目1-1",
+   "area": "北区",
+   "nearest_station": null,
+   "latitude": 35.778099,
+   "longitude": 139.7212496,
+   "offerings": [
+    {
+     "id": "off-r2524-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ〈香るエール〉",
+     "serving_type": "draft",
+     "price": 649,
+     "size": "ジョッキ",
+     "notes": "チェーン共通（PRONTO）グラス¥539/パイント¥869あり",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2525",
+   "name": "PRONTO ヤエチカ東京駅店",
+   "address": "東京都中央区八重洲2丁目1 地下街南1号外堀地下2番通り",
+   "area": "中央区",
+   "nearest_station": null,
+   "latitude": 35.6789734,
+   "longitude": 139.7682394,
+   "offerings": [
+    {
+     "id": "off-r2525-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ〈香るエール〉",
+     "serving_type": "draft",
+     "price": 649,
+     "size": "ジョッキ",
+     "notes": "チェーン共通（PRONTO）グラス¥539/パイント¥869あり・神泡達人店掲載",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2526",
+   "name": "PRONTO ライブラリーダイニング日比谷店",
+   "address": "東京都千代田区日比谷公園1-4 B1F",
+   "area": "千代田区",
+   "nearest_station": null,
+   "latitude": 35.6718181,
+   "longitude": 139.7546543,
+   "offerings": [
+    {
+     "id": "off-r2526-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ〈香るエール〉",
+     "serving_type": "draft",
+     "price": 649,
+     "size": "ジョッキ",
+     "notes": "チェーン共通（PRONTO）グラス¥539/パイント¥869あり",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2527",
+   "name": "PRONTO ワンザ有明店",
+   "address": "東京都江東区有明3丁目6-11 TFTビル東館2F",
+   "area": "江東区",
+   "nearest_station": null,
+   "latitude": 35.6309708,
+   "longitude": 139.7912125,
+   "offerings": [
+    {
+     "id": "off-r2527-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ〈香るエール〉",
+     "serving_type": "draft",
+     "price": 649,
+     "size": "ジョッキ",
+     "notes": "チェーン共通（PRONTO）グラス¥539/パイント¥869あり",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2528",
+   "name": "PRONTO 中之島フェスティバルプラザ店",
+   "address": "大阪府大阪市北区中之島2丁目3-18 フェスティバルプラザB1F",
+   "area": "大阪市",
+   "nearest_station": null,
+   "latitude": 34.6933605,
+   "longitude": 135.4961106,
+   "offerings": [
+    {
+     "id": "off-r2528-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ〈香るエール〉",
+     "serving_type": "draft",
+     "price": 649,
+     "size": "ジョッキ",
+     "notes": "チェーン共通（PRONTO）グラス¥539/パイント¥869あり",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2529",
+   "name": "PRONTO 九段下店",
+   "address": "東京都千代田区神田神保町3丁目7 ニュー九段ビル",
+   "area": "千代田区",
+   "nearest_station": null,
+   "latitude": 35.695498,
+   "longitude": 139.7532276,
+   "offerings": [
+    {
+     "id": "off-r2529-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ〈香るエール〉",
+     "serving_type": "draft",
+     "price": 649,
+     "size": "ジョッキ",
+     "notes": "チェーン共通（PRONTO）グラス¥539/パイント¥869あり・神泡達人店掲載",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2530",
+   "name": "PRONTO 亀戸駅店",
+   "address": "東京都江東区亀戸5丁目1-1",
+   "area": "江東区",
+   "nearest_station": null,
+   "latitude": 35.6972886,
+   "longitude": 139.8259022,
+   "offerings": [
+    {
+     "id": "off-r2530-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ〈香るエール〉",
+     "serving_type": "draft",
+     "price": 649,
+     "size": "ジョッキ",
+     "notes": "チェーン共通（PRONTO）グラス¥539/パイント¥869あり",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2531",
+   "name": "PRONTO 五反田西口店",
+   "address": "東京都品川区西五反田1丁目7-1",
+   "area": "品川区",
+   "nearest_station": null,
+   "latitude": 35.6252186,
+   "longitude": 139.7238828,
+   "offerings": [
+    {
+     "id": "off-r2531-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ〈香るエール〉",
+     "serving_type": "draft",
+     "price": 649,
+     "size": "ジョッキ",
+     "notes": "チェーン共通（PRONTO）グラス¥539/パイント¥869あり",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2532",
+   "name": "PRONTO 京成幕張本郷駅店",
+   "address": "千葉県千葉市花見川区幕張本郷1-1-3 幕張本郷駅構内",
+   "area": "千葉市",
+   "nearest_station": null,
+   "latitude": 35.6724762,
+   "longitude": 140.0423593,
+   "offerings": [
+    {
+     "id": "off-r2532-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ〈香るエール〉",
+     "serving_type": "draft",
+     "price": 649,
+     "size": "ジョッキ",
+     "notes": "チェーン共通（PRONTO）グラス¥539/パイント¥869あり",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2533",
+   "name": "PRONTO 京成金町駅店",
+   "address": "東京都葛飾区金町5丁目37-9",
+   "area": "葛飾区",
+   "nearest_station": null,
+   "latitude": 35.7687671,
+   "longitude": 139.8704371,
+   "offerings": [
+    {
+     "id": "off-r2533-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ〈香るエール〉",
+     "serving_type": "draft",
+     "price": 649,
+     "size": "ジョッキ",
+     "notes": "チェーン共通（PRONTO）グラス¥539/パイント¥869あり",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2534",
+   "name": "PRONTO 京都駅ビル店",
+   "address": "京都府京都市下京区東塩小路町901番地 京都ポルタB1F",
+   "area": "府京都市",
+   "nearest_station": null,
+   "latitude": 34.9861685,
+   "longitude": 135.7588187,
+   "offerings": [
+    {
+     "id": "off-r2534-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ〈香るエール〉",
+     "serving_type": "draft",
+     "price": 649,
+     "size": "ジョッキ",
+     "notes": "チェーン共通（PRONTO）グラス¥539/パイント¥869あり",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2535",
+   "name": "PRONTO 仙台セルバテラス店",
+   "address": "宮城県仙台市泉区泉中央1丁目6-3",
+   "area": "仙台市",
+   "nearest_station": null,
+   "latitude": 38.324153,
+   "longitude": 140.8809653,
+   "offerings": [
+    {
+     "id": "off-r2535-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ〈香るエール〉",
+     "serving_type": "draft",
+     "price": 649,
+     "size": "ジョッキ",
+     "notes": "チェーン共通（PRONTO）グラス¥539/パイント¥869あり",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2536",
+   "name": "PRONTO 仙台国際空港店",
+   "address": "宮城県名取市下増田南原無番地 旅客ターミナルビル1F",
+   "area": "名取市",
+   "nearest_station": null,
+   "latitude": 38.1378367,
+   "longitude": 140.929476,
+   "offerings": [
+    {
+     "id": "off-r2536-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ〈香るエール〉",
+     "serving_type": "draft",
+     "price": 649,
+     "size": "ジョッキ",
+     "notes": "チェーン共通（PRONTO）グラス¥539/パイント¥869あり",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2537",
+   "name": "PRONTO 代々木店",
+   "address": "東京都渋谷区代々木1丁目38-1 タムラビル",
+   "area": "渋谷区",
+   "nearest_station": null,
+   "latitude": 35.6834291,
+   "longitude": 139.7013173,
+   "offerings": [
+    {
+     "id": "off-r2537-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ〈香るエール〉",
+     "serving_type": "draft",
+     "price": 649,
+     "size": "ジョッキ",
+     "notes": "チェーン共通（PRONTO）グラス¥539/パイント¥869あり",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2538",
+   "name": "PRONTO 北参道店",
+   "address": "東京都渋谷区千駄ケ谷4丁目27-13",
+   "area": "渋谷区",
+   "nearest_station": null,
+   "latitude": 35.6808371,
+   "longitude": 139.7041884,
+   "offerings": [
+    {
+     "id": "off-r2538-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ〈香るエール〉",
+     "serving_type": "draft",
+     "price": 649,
+     "size": "ジョッキ",
+     "notes": "チェーン共通（PRONTO）グラス¥539/パイント¥869あり",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2539",
+   "name": "PRONTO 千葉そごう前店",
+   "address": "千葉県千葉市中央区新町1000 京成千葉駅構内",
+   "area": "千葉市",
+   "nearest_station": null,
+   "latitude": 35.6117142,
+   "longitude": 140.1136876,
+   "offerings": [
+    {
+     "id": "off-r2539-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ〈香るエール〉",
+     "serving_type": "draft",
+     "price": 649,
+     "size": "ジョッキ",
+     "notes": "チェーン共通（PRONTO）グラス¥539/パイント¥869あり",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2540",
+   "name": "PRONTO 博多グリーンホテル天神店",
+   "address": "福岡県福岡市中央区大名2丁目9-11",
+   "area": "福岡市",
+   "nearest_station": null,
+   "latitude": 33.5898685,
+   "longitude": 130.3933863,
+   "offerings": [
+    {
+     "id": "off-r2540-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ〈香るエール〉",
+     "serving_type": "draft",
+     "price": 649,
+     "size": "ジョッキ",
+     "notes": "チェーン共通（PRONTO）グラス¥539/パイント¥869あり",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2541",
+   "name": "PRONTO 博多祗園M-SQUARE店",
+   "address": "福岡県福岡市博多区冷泉町2-1 1F",
+   "area": "福岡市",
+   "nearest_station": null,
+   "latitude": 33.593411,
+   "longitude": 130.4126598,
+   "offerings": [
+    {
+     "id": "off-r2541-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ〈香るエール〉",
+     "serving_type": "draft",
+     "price": 649,
+     "size": "ジョッキ",
+     "notes": "チェーン共通（PRONTO）グラス¥539/パイント¥869あり",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2542",
+   "name": "PRONTO 博多駅地下街店",
+   "address": "福岡県福岡市博多区博多駅中央街1-1 博多駅地下街",
+   "area": "福岡市",
+   "nearest_station": null,
+   "latitude": 33.5909947,
+   "longitude": 130.4190606,
+   "offerings": [
+    {
+     "id": "off-r2542-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ〈香るエール〉",
+     "serving_type": "draft",
+     "price": 649,
+     "size": "ジョッキ",
+     "notes": "チェーン共通（PRONTO）グラス¥539/パイント¥869あり",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2543",
+   "name": "PRONTO 印西牧の原駅前店",
+   "address": "千葉県印西市原1丁目1-3 グレースホテルズ1階",
+   "area": "印西市",
+   "nearest_station": null,
+   "latitude": 35.8022471,
+   "longitude": 140.1668748,
+   "offerings": [
+    {
+     "id": "off-r2543-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ〈香るエール〉",
+     "serving_type": "draft",
+     "price": 649,
+     "size": "ジョッキ",
+     "notes": "チェーン共通（PRONTO）グラス¥539/パイント¥869あり",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2544",
+   "name": "PRONTO 名古屋丸の内店",
+   "address": "愛知県名古屋市中区丸の内2丁目20-19 名古屋東京海上日動ビルディング1F",
+   "area": "名古屋市",
+   "nearest_station": null,
+   "latitude": 35.1738047,
+   "longitude": 136.9012037,
+   "offerings": [
+    {
+     "id": "off-r2544-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ〈香るエール〉",
+     "serving_type": "draft",
+     "price": 649,
+     "size": "ジョッキ",
+     "notes": "チェーン共通（PRONTO）グラス¥539/パイント¥869あり",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2545",
+   "name": "PRONTO 名古屋駅店",
+   "address": "愛知県名古屋市中村区名駅1丁目1-4 名古屋うまいもん通り広小路口",
+   "area": "名古屋市",
+   "nearest_station": null,
+   "latitude": 35.170334,
+   "longitude": 136.8828695,
+   "offerings": [
+    {
+     "id": "off-r2545-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ〈香るエール〉",
+     "serving_type": "draft",
+     "price": 649,
+     "size": "ジョッキ",
+     "notes": "チェーン共通（PRONTO）グラス¥539/パイント¥869あり",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2546",
+   "name": "PRONTO 品川インターシティ店",
+   "address": "東京都港区港南2丁目15-2 B棟B1F",
+   "area": "港区",
+   "nearest_station": null,
+   "latitude": 35.6265469,
+   "longitude": 139.741956,
+   "offerings": [
+    {
+     "id": "off-r2546-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ〈香るエール〉",
+     "serving_type": "draft",
+     "price": 649,
+     "size": "ジョッキ",
+     "notes": "チェーン共通（PRONTO）グラス¥539/パイント¥869あり",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2547",
+   "name": "PRONTO 品川店",
+   "address": "東京都港区港南1丁目8-27 日新ビル1階",
+   "area": "港区",
+   "nearest_station": null,
+   "latitude": 35.6297378,
+   "longitude": 139.7437618,
+   "offerings": [
+    {
+     "id": "off-r2547-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ〈香るエール〉",
+     "serving_type": "draft",
+     "price": 649,
+     "size": "ジョッキ",
+     "notes": "チェーン共通（PRONTO）グラス¥539/パイント¥869あり",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2548",
+   "name": "PRONTO 品川高輪店",
+   "address": "東京都港区高輪3丁目25-23 京急第2ビル1階",
+   "area": "港区",
+   "nearest_station": null,
+   "latitude": 35.6307082,
+   "longitude": 139.7377863,
+   "offerings": [
+    {
+     "id": "off-r2548-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ〈香るエール〉",
+     "serving_type": "draft",
+     "price": 649,
+     "size": "ジョッキ",
+     "notes": "チェーン共通（PRONTO）グラス¥539/パイント¥869あり",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2549",
+   "name": "PRONTO 四条烏丸店 by JEUGIA",
+   "address": "京都府京都市下京区四条通東洞院長刀鉾町33番地 京都フコク生命四条烏丸ビル",
+   "area": "府京都市",
+   "nearest_station": null,
+   "latitude": 35.0038457,
+   "longitude": 135.7609778,
+   "offerings": [
+    {
+     "id": "off-r2549-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ〈香るエール〉",
+     "serving_type": "draft",
+     "price": 649,
+     "size": "ジョッキ",
+     "notes": "チェーン共通（PRONTO）グラス¥539/パイント¥869あり",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2550",
+   "name": "PRONTO 外苑前店",
+   "address": "東京都港区北青山2丁目5番8号 青山OM-SQUARE B1F",
+   "area": "港区",
+   "nearest_station": null,
+   "latitude": 35.6711609,
+   "longitude": 139.7186376,
+   "offerings": [
+    {
+     "id": "off-r2550-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ〈香るエール〉",
+     "serving_type": "draft",
+     "price": 649,
+     "size": "ジョッキ",
+     "notes": "チェーン共通（PRONTO）グラス¥539/パイント¥869あり",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2551",
+   "name": "PRONTO 大塚店",
+   "address": "東京都豊島区北大塚2丁目14-5 KYビル1階",
+   "area": "豊島区",
+   "nearest_station": null,
+   "latitude": 35.7321634,
+   "longitude": 139.7292402,
+   "offerings": [
+    {
+     "id": "off-r2551-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ〈香るエール〉",
+     "serving_type": "draft",
+     "price": 649,
+     "size": "ジョッキ",
+     "notes": "チェーン共通（PRONTO）グラス¥539/パイント¥869あり",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2552",
+   "name": "PRONTO 大手町OOTEMORI店",
+   "address": "東京都千代田区大手町1丁目5-5 大手町タワーB2F",
+   "area": "千代田区",
+   "nearest_station": null,
+   "latitude": 35.6856096,
+   "longitude": 139.765578,
+   "offerings": [
+    {
+     "id": "off-r2552-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ〈香るエール〉",
+     "serving_type": "draft",
+     "price": 649,
+     "size": "ジョッキ",
+     "notes": "チェーン共通（PRONTO）グラス¥539/パイント¥869あり・神泡達人店掲載",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2553",
+   "name": "PRONTO 大手町店",
+   "address": "東京都千代田区大手町2丁目1-1 大成大手町ビル地下1階",
+   "area": "千代田区",
+   "nearest_station": null,
+   "latitude": 35.6852714,
+   "longitude": 139.7662418,
+   "offerings": [
+    {
+     "id": "off-r2553-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ〈香るエール〉",
+     "serving_type": "draft",
+     "price": 649,
+     "size": "ジョッキ",
+     "notes": "チェーン共通（PRONTO）グラス¥539/パイント¥869あり・神泡達人店掲載",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2554",
+   "name": "PRONTO 大森店",
+   "address": "東京都品川区南大井6丁目26-2 大森ベルポートC館",
+   "area": "品川区",
+   "nearest_station": null,
+   "latitude": 35.5882099,
+   "longitude": 139.7315796,
+   "offerings": [
+    {
+     "id": "off-r2554-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ〈香るエール〉",
+     "serving_type": "draft",
+     "price": 649,
+     "size": "ジョッキ",
+     "notes": "チェーン共通（PRONTO）グラス¥539/パイント¥869あり",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2555",
+   "name": "PRONTO 大阪堂島店",
+   "address": "大阪府大阪市北区堂島浜2丁目1-40 サントリービル1階",
+   "area": "大阪市",
+   "nearest_station": null,
+   "latitude": 34.6951157,
+   "longitude": 135.4953385,
+   "offerings": [
+    {
+     "id": "off-r2555-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ〈香るエール〉",
+     "serving_type": "draft",
+     "price": 649,
+     "size": "ジョッキ",
+     "notes": "チェーン共通（PRONTO）グラス¥539/パイント¥869あり",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2556",
+   "name": "PRONTO 天王洲シーフォートスクエア店",
+   "address": "東京都品川区東品川2丁目3-12",
+   "area": "品川区",
+   "nearest_station": null,
+   "latitude": 35.6236499,
+   "longitude": 139.751019,
+   "offerings": [
+    {
+     "id": "off-r2556-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ〈香るエール〉",
+     "serving_type": "draft",
+     "price": 649,
+     "size": "ジョッキ",
+     "notes": "チェーン共通（PRONTO）グラス¥539/パイント¥869あり",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2557",
+   "name": "PRONTO 姫路駅店",
+   "address": "兵庫県姫路市豆腐町222 ピオレ姫路おみやげ館内",
+   "area": "姫路市",
+   "nearest_station": null,
+   "latitude": 34.8265834,
+   "longitude": 134.6902941,
+   "offerings": [
+    {
+     "id": "off-r2557-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ〈香るエール〉",
+     "serving_type": "draft",
+     "price": 649,
+     "size": "ジョッキ",
+     "notes": "チェーン共通（PRONTO）グラス¥539/パイント¥869あり",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2558",
+   "name": "PRONTO 安土町店",
+   "address": "大阪府大阪市中央区安土町3丁目3-5",
+   "area": "大阪市",
+   "nearest_station": null,
+   "latitude": 34.6843269,
+   "longitude": 135.5017594,
+   "offerings": [
+    {
+     "id": "off-r2558-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ〈香るエール〉",
+     "serving_type": "draft",
+     "price": 649,
+     "size": "ジョッキ",
+     "notes": "チェーン共通（PRONTO）グラス¥539/パイント¥869あり",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2559",
+   "name": "PRONTO 小山駅店",
+   "address": "栃木県小山市城山町3-3-22 小山駅ビルVAL 3F",
+   "area": "小山市",
+   "nearest_station": null,
+   "latitude": 36.3127274,
+   "longitude": 139.8064915,
+   "offerings": [
+    {
+     "id": "off-r2559-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ〈香るエール〉",
+     "serving_type": "draft",
+     "price": 649,
+     "size": "ジョッキ",
+     "notes": "チェーン共通（PRONTO）グラス¥539/パイント¥869あり",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2560",
+   "name": "PRONTO 尾張一宮駅店",
+   "address": "愛知県一宮市栄3丁目1-1",
+   "area": "一宮市",
+   "nearest_station": null,
+   "latitude": 35.3026184,
+   "longitude": 136.7977945,
+   "offerings": [
+    {
+     "id": "off-r2560-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ〈香るエール〉",
+     "serving_type": "draft",
+     "price": 649,
+     "size": "ジョッキ",
+     "notes": "チェーン共通（PRONTO）グラス¥539/パイント¥869あり",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2561",
+   "name": "PRONTO 市ヶ谷店",
+   "address": "東京都千代田区九段北4-2-13",
+   "area": "千代田区",
+   "nearest_station": null,
+   "latitude": 35.6915617,
+   "longitude": 139.7370402,
+   "offerings": [
+    {
+     "id": "off-r2561-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ〈香るエール〉",
+     "serving_type": "draft",
+     "price": 649,
+     "size": "ジョッキ",
+     "notes": "チェーン共通（PRONTO）グラス¥539/パイント¥869あり",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2562",
+   "name": "PRONTO 平野町店",
+   "address": "大阪府大阪市中央区平野町3丁目4-14 大阪TKビルディング",
+   "area": "大阪市",
+   "nearest_station": null,
+   "latitude": 34.6878343,
+   "longitude": 135.5018004,
+   "offerings": [
+    {
+     "id": "off-r2562-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ〈香るエール〉",
+     "serving_type": "draft",
+     "price": 649,
+     "size": "ジョッキ",
+     "notes": "チェーン共通（PRONTO）グラス¥539/パイント¥869あり",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2563",
+   "name": "PRONTO 恵比寿東口店",
+   "address": "東京都渋谷区恵比寿1丁目11-13",
+   "area": "渋谷区",
+   "nearest_station": null,
+   "latitude": 35.6467156,
+   "longitude": 139.7112528,
+   "offerings": [
+    {
+     "id": "off-r2563-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ〈香るエール〉",
+     "serving_type": "draft",
+     "price": 649,
+     "size": "ジョッキ",
+     "notes": "チェーン共通（PRONTO）グラス¥539/パイント¥869あり",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2564",
+   "name": "PRONTO 新さっぽろ店",
+   "address": "北海道札幌市厚別区厚別中央2条5丁目6-2 デュオ12階",
+   "area": "札幌市",
+   "nearest_station": null,
+   "latitude": 43.0388889,
+   "longitude": 141.4727778,
+   "offerings": [
+    {
+     "id": "off-r2564-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ〈香るエール〉",
+     "serving_type": "draft",
+     "price": 649,
+     "size": "ジョッキ",
+     "notes": "チェーン共通（PRONTO）グラス¥539/パイント¥869あり",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2565",
+   "name": "PRONTO 新千歳空港店",
+   "address": "北海道千歳市美々 新千歳空港旅客ターミナルビル4F",
+   "area": "千歳市",
+   "nearest_station": null,
+   "latitude": 42.787862,
+   "longitude": 141.6808282,
+   "offerings": [
+    {
+     "id": "off-r2565-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ〈香るエール〉",
+     "serving_type": "draft",
+     "price": 649,
+     "size": "ジョッキ",
+     "notes": "チェーン共通（PRONTO）グラス¥539/パイント¥869あり",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2566",
+   "name": "PRONTO 新宿第一生命ビル店",
+   "address": "東京都新宿区西新宿2丁目7-1 新宿第一生命ビルディング1F",
+   "area": "新宿区",
+   "nearest_station": null,
+   "latitude": 35.6917336,
+   "longitude": 139.6909396,
+   "offerings": [
+    {
+     "id": "off-r2566-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ〈香るエール〉",
+     "serving_type": "draft",
+     "price": 649,
+     "size": "ジョッキ",
+     "notes": "チェーン共通（PRONTO）グラス¥539/パイント¥869あり",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2567",
+   "name": "PRONTO 新宿西口店",
+   "address": "東京都新宿区西新宿1丁目19-2 SILVER BLD.",
+   "area": "新宿区",
+   "nearest_station": null,
+   "latitude": 35.688443,
+   "longitude": 139.697665,
+   "offerings": [
+    {
+     "id": "off-r2567-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ〈香るエール〉",
+     "serving_type": "draft",
+     "price": 649,
+     "size": "ジョッキ",
+     "notes": "チェーン共通（PRONTO）グラス¥539/パイント¥869あり",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2568",
+   "name": "PRONTO 新宿駅東口店",
+   "address": "東京都新宿区新宿3丁目21-3",
+   "area": "新宿区",
+   "nearest_station": null,
+   "latitude": 35.6929846,
+   "longitude": 139.7021586,
+   "offerings": [
+    {
+     "id": "off-r2568-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ〈香るエール〉",
+     "serving_type": "draft",
+     "price": 649,
+     "size": "ジョッキ",
+     "notes": "チェーン共通（PRONTO）グラス¥539/パイント¥869あり",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2569",
+   "name": "PRONTO 新梅田食道街店",
+   "address": "大阪府大阪市北区角田町9-17",
+   "area": "大阪市",
+   "nearest_station": null,
+   "latitude": 34.7033258,
+   "longitude": 135.4979889,
+   "offerings": [
+    {
+     "id": "off-r2569-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ〈香るエール〉",
+     "serving_type": "draft",
+     "price": 649,
+     "size": "ジョッキ",
+     "notes": "チェーン共通（PRONTO）グラス¥539/パイント¥869あり",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2570",
+   "name": "PRONTO 新橋駅前店",
+   "address": "東京都港区新橋2丁目8-7 新橋東和ビル1F",
+   "area": "港区",
+   "nearest_station": null,
+   "latitude": 35.6673226,
+   "longitude": 139.7572258,
+   "offerings": [
+    {
+     "id": "off-r2570-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ〈香るエール〉",
+     "serving_type": "draft",
+     "price": 649,
+     "size": "ジョッキ",
+     "notes": "チェーン共通（PRONTO）グラス¥539/パイント¥869あり",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2571",
+   "name": "PRONTO 新越谷ヴァリエ店",
+   "address": "埼玉県越谷市南越谷1丁目11-4",
+   "area": "越谷市",
+   "nearest_station": null,
+   "latitude": 35.8757779,
+   "longitude": 139.7897329,
+   "offerings": [
+    {
+     "id": "off-r2571-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ〈香るエール〉",
+     "serving_type": "draft",
+     "price": 649,
+     "size": "ジョッキ",
+     "notes": "チェーン共通（PRONTO）グラス¥539/パイント¥869あり",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2572",
+   "name": "PRONTO 日本橋京急EXイン店",
+   "address": "東京都中央区日本橋茅場町2丁目4-8 京急EXイン東京・日本橋",
+   "area": "中央区",
+   "nearest_station": null,
+   "latitude": 35.6787166,
+   "longitude": 139.778003,
+   "offerings": [
+    {
+     "id": "off-r2572-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ〈香るエール〉",
+     "serving_type": "draft",
+     "price": 649,
+     "size": "ジョッキ",
+     "notes": "チェーン共通（PRONTO）グラス¥539/パイント¥869あり",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2573",
+   "name": "PRONTO 日本生命札幌ビル店",
+   "address": "北海道札幌市中央区北3条西4丁目1番地1 日本生命札幌ビルB1F",
+   "area": "札幌市",
+   "nearest_station": null,
+   "latitude": 43.0647527,
+   "longitude": 141.3507507,
+   "offerings": [
+    {
+     "id": "off-r2573-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ〈香るエール〉",
+     "serving_type": "draft",
+     "price": 649,
+     "size": "ジョッキ",
+     "notes": "チェーン共通（PRONTO）グラス¥539/パイント¥869あり",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2574",
+   "name": "PRONTO 晴海トリトン店",
+   "address": "東京都中央区晴海1丁目8-16",
+   "area": "中央区",
+   "nearest_station": null,
+   "latitude": 35.6575698,
+   "longitude": 139.7818862,
+   "offerings": [
+    {
+     "id": "off-r2574-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ〈香るエール〉",
+     "serving_type": "draft",
+     "price": 649,
+     "size": "ジョッキ",
+     "notes": "チェーン共通（PRONTO）グラス¥539/パイント¥869あり",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2575",
+   "name": "PRONTO 有楽町店",
+   "address": "東京都千代田区有楽町2丁目9-18",
+   "area": "千代田区",
+   "nearest_station": null,
+   "latitude": 35.6749846,
+   "longitude": 139.7634693,
+   "offerings": [
+    {
+     "id": "off-r2575-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ〈香るエール〉",
+     "serving_type": "draft",
+     "price": 649,
+     "size": "ジョッキ",
+     "notes": "チェーン共通（PRONTO）グラス¥539/パイント¥869あり・神泡達人店掲載",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2576",
+   "name": "PRONTO 有楽町電気ビル店",
+   "address": "東京都千代田区有楽町1-7-1 有楽町電気ビル",
+   "area": "千代田区",
+   "nearest_station": null,
+   "latitude": 35.6747219,
+   "longitude": 139.7613051,
+   "offerings": [
+    {
+     "id": "off-r2576-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ〈香るエール〉",
+     "serving_type": "draft",
+     "price": 649,
+     "size": "ジョッキ",
+     "notes": "チェーン共通（PRONTO）グラス¥539/パイント¥869あり・神泡達人店掲載",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2577",
+   "name": "PRONTO 本町店",
+   "address": "大阪府大阪市中央区船場中央4丁目1-10 船場センタービルB201",
+   "area": "大阪市",
+   "nearest_station": null,
+   "latitude": 34.6819719,
+   "longitude": 135.5002085,
+   "offerings": [
+    {
+     "id": "off-r2577-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ〈香るエール〉",
+     "serving_type": "draft",
+     "price": 649,
+     "size": "ジョッキ",
+     "notes": "チェーン共通（PRONTO）グラス¥539/パイント¥869あり",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2578",
+   "name": "PRONTO 杉乃井ホテル店",
+   "address": "大分県別府市観海寺1",
+   "area": "別府市",
+   "nearest_station": null,
+   "latitude": 33.283446,
+   "longitude": 131.475387,
+   "offerings": [
+    {
+     "id": "off-r2578-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ〈香るエール〉",
+     "serving_type": "draft",
+     "price": 649,
+     "size": "ジョッキ",
+     "notes": "チェーン共通（PRONTO）グラス¥539/パイント¥869あり",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2579",
+   "name": "PRONTO 東上野店",
+   "address": "東京都台東区東上野2-21-11 上野ターミナルホテル",
+   "area": "台東区",
+   "nearest_station": null,
+   "latitude": 35.7102122,
+   "longitude": 139.7784863,
+   "offerings": [
+    {
+     "id": "off-r2579-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ〈香るエール〉",
+     "serving_type": "draft",
+     "price": 649,
+     "size": "ジョッキ",
+     "notes": "チェーン共通（PRONTO）グラス¥539/パイント¥869あり",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2580",
+   "name": "PRONTO 東京ビッグサイト店",
+   "address": "東京都江東区有明3丁目11-1 東京ビッグサイト会議棟",
+   "area": "江東区",
+   "nearest_station": null,
+   "latitude": 35.6305559,
+   "longitude": 139.7951314,
+   "offerings": [
+    {
+     "id": "off-r2580-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ〈香るエール〉",
+     "serving_type": "draft",
+     "price": 649,
+     "size": "ジョッキ",
+     "notes": "チェーン共通（PRONTO）グラス¥539/パイント¥869あり",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2581",
+   "name": "PRONTO 東京国際フォーラム店",
+   "address": "東京都千代田区丸の内3丁目5-1 東京国際フォーラムB1F",
+   "area": "千代田区",
+   "nearest_station": null,
+   "latitude": 35.6761191,
+   "longitude": 139.7631515,
+   "offerings": [
+    {
+     "id": "off-r2581-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ〈香るエール〉",
+     "serving_type": "draft",
+     "price": 649,
+     "size": "ジョッキ",
+     "notes": "チェーン共通（PRONTO）グラス¥539/パイント¥869あり・神泡達人店掲載",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2582",
+   "name": "PRONTO 東京駅店",
+   "address": "東京都千代田区丸の内1丁目9-1 東京駅八重洲北口八重北食堂1階",
+   "area": "千代田区",
+   "nearest_station": null,
+   "latitude": 35.6834832,
+   "longitude": 139.7683479,
+   "offerings": [
+    {
+     "id": "off-r2582-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ〈香るエール〉",
+     "serving_type": "draft",
+     "price": 649,
+     "size": "ジョッキ",
+     "notes": "チェーン共通（PRONTO）グラス¥539/パイント¥869あり・神泡達人店掲載",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2583",
+   "name": "PRONTO 東日本橋店",
+   "address": "東京都中央区東日本橋3丁目12-14 アパホテル東日本橋駅前1F",
+   "area": "中央区",
+   "nearest_station": null,
+   "latitude": 35.6925516,
+   "longitude": 139.7847214,
+   "offerings": [
+    {
+     "id": "off-r2583-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ〈香るエール〉",
+     "serving_type": "draft",
+     "price": 649,
+     "size": "ジョッキ",
+     "notes": "チェーン共通（PRONTO）グラス¥539/パイント¥869あり",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2584",
+   "name": "PRONTO 東本町店",
+   "address": "大阪府大阪市中央区久太郎町1丁目9-29 東本町ビル",
+   "area": "大阪市",
+   "nearest_station": null,
+   "latitude": 34.681367,
+   "longitude": 135.5072305,
+   "offerings": [
+    {
+     "id": "off-r2584-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ〈香るエール〉",
+     "serving_type": "draft",
+     "price": 649,
+     "size": "ジョッキ",
+     "notes": "チェーン共通（PRONTO）グラス¥539/パイント¥869あり",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2585",
+   "name": "PRONTO 東陽町店",
+   "address": "東京都江東区東陽4-4-3 相鉄フレッサイン東京東陽町駅前1F",
+   "area": "江東区",
+   "nearest_station": null,
+   "latitude": 35.6697916,
+   "longitude": 139.8176651,
+   "offerings": [
+    {
+     "id": "off-r2585-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ〈香るエール〉",
+     "serving_type": "draft",
+     "price": 649,
+     "size": "ジョッキ",
+     "notes": "チェーン共通（PRONTO）グラス¥539/パイント¥869あり",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2586",
+   "name": "PRONTO 横浜三井ビル店",
+   "address": "神奈川県横浜市西区高島1丁目1-2",
+   "area": "横浜市",
+   "nearest_station": null,
+   "latitude": 35.4632927,
+   "longitude": 139.6247734,
+   "offerings": [
+    {
+     "id": "off-r2586-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ〈香るエール〉",
+     "serving_type": "draft",
+     "price": 649,
+     "size": "ジョッキ",
+     "notes": "チェーン共通（PRONTO）グラス¥539/パイント¥869あり",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2587",
+   "name": "PRONTO 横浜京急EXイン店",
+   "address": "神奈川県横浜市神奈川区金港町5-7 京急EXイン横浜駅東口",
+   "area": "横浜市",
+   "nearest_station": null,
+   "latitude": 35.4678009,
+   "longitude": 139.6245537,
+   "offerings": [
+    {
+     "id": "off-r2587-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ〈香るエール〉",
+     "serving_type": "draft",
+     "price": 649,
+     "size": "ジョッキ",
+     "notes": "チェーン共通（PRONTO）グラス¥539/パイント¥869あり",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2588",
+   "name": "PRONTO 横浜店",
+   "address": "神奈川県横浜市西区高島2丁目16 地下街ポルタ内",
+   "area": "横浜市",
+   "nearest_station": null,
+   "latitude": 35.4650112,
+   "longitude": 139.6232189,
+   "offerings": [
+    {
+     "id": "off-r2588-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ〈香るエール〉",
+     "serving_type": "draft",
+     "price": 649,
+     "size": "ジョッキ",
+     "notes": "チェーン共通（PRONTO）グラス¥539/パイント¥869あり",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2589",
+   "name": "PRONTO 横須賀店",
+   "address": "神奈川県横須賀市若松町2丁目25",
+   "area": "横須賀市",
+   "nearest_station": null,
+   "latitude": 35.2786445,
+   "longitude": 139.6705693,
+   "offerings": [
+    {
+     "id": "off-r2589-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ〈香るエール〉",
+     "serving_type": "draft",
+     "price": 649,
+     "size": "ジョッキ",
+     "notes": "チェーン共通（PRONTO）グラス¥539/パイント¥869あり",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2590",
+   "name": "PRONTO 池尻大橋店",
+   "address": "東京都世田谷区池尻3丁目1-3 MUTOH池尻ビル地下1階",
+   "area": "世田谷区",
+   "nearest_station": null,
+   "latitude": 35.6507636,
+   "longitude": 139.683993,
+   "offerings": [
+    {
+     "id": "off-r2590-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ〈香るエール〉",
+     "serving_type": "draft",
+     "price": 649,
+     "size": "ジョッキ",
+     "notes": "チェーン共通（PRONTO）グラス¥539/パイント¥869あり",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2591",
+   "name": "PRONTO 池袋東口店",
+   "address": "東京都豊島区南池袋1丁目22-8",
+   "area": "豊島区",
+   "nearest_station": null,
+   "latitude": 35.7293134,
+   "longitude": 139.712711,
+   "offerings": [
+    {
+     "id": "off-r2591-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ〈香るエール〉",
+     "serving_type": "draft",
+     "price": 649,
+     "size": "ジョッキ",
+     "notes": "チェーン共通（PRONTO）グラス¥539/パイント¥869あり",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2592",
+   "name": "PRONTO 池袋西口公園店",
+   "address": "東京都豊島区西池袋1丁目15-7 吉大ビル1階",
+   "area": "豊島区",
+   "nearest_station": null,
+   "latitude": 35.7303605,
+   "longitude": 139.70949,
+   "offerings": [
+    {
+     "id": "off-r2592-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ〈香るエール〉",
+     "serving_type": "draft",
+     "price": 649,
+     "size": "ジョッキ",
+     "notes": "チェーン共通（PRONTO）グラス¥539/パイント¥869あり",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2593",
+   "name": "PRONTO 浜松町店",
+   "address": "東京都港区芝大門2丁目4-4 富士ビル",
+   "area": "港区",
+   "nearest_station": null,
+   "latitude": 35.6564647,
+   "longitude": 139.7543453,
+   "offerings": [
+    {
+     "id": "off-r2593-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ〈香るエール〉",
+     "serving_type": "draft",
+     "price": 649,
+     "size": "ジョッキ",
+     "notes": "チェーン共通（PRONTO）グラス¥539/パイント¥869あり",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2594",
+   "name": "PRONTO 浜松町2丁目店",
+   "address": "東京都港区浜松町2丁目6-1",
+   "area": "港区",
+   "nearest_station": null,
+   "latitude": 35.6544964,
+   "longitude": 139.7552469,
+   "offerings": [
+    {
+     "id": "off-r2594-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ〈香るエール〉",
+     "serving_type": "draft",
+     "price": 649,
+     "size": "ジョッキ",
+     "notes": "チェーン共通（PRONTO）グラス¥539/パイント¥869あり",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2595",
+   "name": "PRONTO 深川ギャザリア店",
+   "address": "東京都江東区木場1丁目5-10 深川ギャザリアプラザ棟1F",
+   "area": "江東区",
+   "nearest_station": null,
+   "latitude": 35.6671136,
+   "longitude": 139.8040901,
+   "offerings": [
+    {
+     "id": "off-r2595-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ〈香るエール〉",
+     "serving_type": "draft",
+     "price": 649,
+     "size": "ジョッキ",
+     "notes": "チェーン共通（PRONTO）グラス¥539/パイント¥869あり",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2596",
+   "name": "PRONTO 渋谷宮下公園店",
+   "address": "東京都渋谷区渋谷1丁目16-14 メトロプラザ1階",
+   "area": "渋谷区",
+   "nearest_station": null,
+   "latitude": 35.6615387,
+   "longitude": 139.7024606,
+   "offerings": [
+    {
+     "id": "off-r2596-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ〈香るエール〉",
+     "serving_type": "draft",
+     "price": 649,
+     "size": "ジョッキ",
+     "notes": "チェーン共通（PRONTO）グラス¥539/パイント¥869あり",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2597",
+   "name": "PRONTO 渋谷店",
+   "address": "東京都渋谷区宇田川町17-1",
+   "area": "渋谷区",
+   "nearest_station": null,
+   "latitude": 35.6607509,
+   "longitude": 139.6994479,
+   "offerings": [
+    {
+     "id": "off-r2597-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ〈香るエール〉",
+     "serving_type": "draft",
+     "price": 649,
+     "size": "ジョッキ",
+     "notes": "チェーン共通（PRONTO）グラス¥539/パイント¥869あり",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2598",
+   "name": "PRONTO 王子店",
+   "address": "東京都北区王子1丁目10-13",
+   "area": "北区",
+   "nearest_station": null,
+   "latitude": 35.7545525,
+   "longitude": 139.7369742,
+   "offerings": [
+    {
+     "id": "off-r2598-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ〈香るエール〉",
+     "serving_type": "draft",
+     "price": 649,
+     "size": "ジョッキ",
+     "notes": "チェーン共通（PRONTO）グラス¥539/パイント¥869あり",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2599",
+   "name": "PRONTO 甲南大学店",
+   "address": "兵庫県神戸市東灘区岡本9丁目5-25 甲南大学インフィニティコモンズ内",
+   "area": "神戸市",
+   "nearest_station": null,
+   "latitude": 34.7292585,
+   "longitude": 135.2671382,
+   "offerings": [
+    {
+     "id": "off-r2599-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ〈香るエール〉",
+     "serving_type": "draft",
+     "price": 649,
+     "size": "ジョッキ",
+     "notes": "チェーン共通（PRONTO）グラス¥539/パイント¥869あり",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2600",
+   "name": "PRONTO 町田マルイ店",
+   "address": "東京都町田市原町田6-1-6",
+   "area": "町田市",
+   "nearest_station": null,
+   "latitude": 35.5423907,
+   "longitude": 139.4453253,
+   "offerings": [
+    {
+     "id": "off-r2600-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ〈香るエール〉",
+     "serving_type": "draft",
+     "price": 649,
+     "size": "ジョッキ",
+     "notes": "チェーン共通（PRONTO）グラス¥539/パイント¥869あり",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2601",
+   "name": "PRONTO 盛岡フェザン店",
+   "address": "岩手県盛岡市盛岡駅前通1-44 盛岡フェザンB1 めんこい横丁内",
+   "area": "盛岡市",
+   "nearest_station": null,
+   "latitude": 39.7026255,
+   "longitude": 141.135761,
+   "offerings": [
+    {
+     "id": "off-r2601-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ〈香るエール〉",
+     "serving_type": "draft",
+     "price": 649,
+     "size": "ジョッキ",
+     "notes": "チェーン共通（PRONTO）グラス¥539/パイント¥869あり",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2602",
+   "name": "PRONTO 神田グランドセントラルホテル店",
+   "address": "東京都千代田区神田司町2-2",
+   "area": "千代田区",
+   "nearest_station": null,
+   "latitude": 35.6924779,
+   "longitude": 139.7683141,
+   "offerings": [
+    {
+     "id": "off-r2602-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ〈香るエール〉",
+     "serving_type": "draft",
+     "price": 649,
+     "size": "ジョッキ",
+     "notes": "チェーン共通（PRONTO）グラス¥539/パイント¥869あり",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2603",
+   "name": "PRONTO 神田店",
+   "address": "東京都千代田区鍛冶町2丁目1-6 第二櫻井ビルディング1階-2階",
+   "area": "千代田区",
+   "nearest_station": null,
+   "latitude": 35.6913418,
+   "longitude": 139.7712514,
+   "offerings": [
+    {
+     "id": "off-r2603-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ〈香るエール〉",
+     "serving_type": "draft",
+     "price": 649,
+     "size": "ジョッキ",
+     "notes": "チェーン共通（PRONTO）グラス¥539/パイント¥869あり",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2604",
+   "name": "PRONTO 神谷町店",
+   "address": "東京都港区虎ノ門5丁目1-5 メトロシティ神谷町B1F",
+   "area": "港区",
+   "nearest_station": null,
+   "latitude": 35.6637535,
+   "longitude": 139.7452087,
+   "offerings": [
+    {
+     "id": "off-r2604-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ〈香るエール〉",
+     "serving_type": "draft",
+     "price": 649,
+     "size": "ジョッキ",
+     "notes": "チェーン共通（PRONTO）グラス¥539/パイント¥869あり",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2605",
+   "name": "PRONTO 福井駅前店",
+   "address": "福井県福井市中央1丁目2-1 ハピリン103区画",
+   "area": "福井市",
+   "nearest_station": null,
+   "latitude": 36.0613997,
+   "longitude": 136.2220502,
+   "offerings": [
+    {
+     "id": "off-r2605-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ〈香るエール〉",
+     "serving_type": "draft",
+     "price": 649,
+     "size": "ジョッキ",
+     "notes": "チェーン共通（PRONTO）グラス¥539/パイント¥869あり",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2606",
+   "name": "PRONTO 福岡天神木村家ビル店",
+   "address": "福岡県福岡市中央区天神1丁目12-3",
+   "area": "福岡市",
+   "nearest_station": null,
+   "latitude": 33.5917074,
+   "longitude": 130.3996194,
+   "offerings": [
+    {
+     "id": "off-r2606-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ〈香るエール〉",
+     "serving_type": "draft",
+     "price": 649,
+     "size": "ジョッキ",
+     "notes": "チェーン共通（PRONTO）グラス¥539/パイント¥869あり",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2607",
+   "name": "PRONTO 福岡新天町店",
+   "address": "福岡県福岡市中央区天神2丁目9-214",
+   "area": "福岡市",
+   "nearest_station": null,
+   "latitude": 33.5901157,
+   "longitude": 130.3981788,
+   "offerings": [
+    {
+     "id": "off-r2607-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ〈香るエール〉",
+     "serving_type": "draft",
+     "price": 649,
+     "size": "ジョッキ",
+     "notes": "チェーン共通（PRONTO）グラス¥539/パイント¥869あり",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2608",
+   "name": "PRONTO 福岡電気ビル北館店",
+   "address": "福岡県福岡市中央区渡辺通2丁目1-82 1F",
+   "area": "福岡市",
+   "nearest_station": null,
+   "latitude": 33.5843556,
+   "longitude": 130.4040478,
+   "offerings": [
+    {
+     "id": "off-r2608-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ〈香るエール〉",
+     "serving_type": "draft",
+     "price": 649,
+     "size": "ジョッキ",
+     "notes": "チェーン共通（PRONTO）グラス¥539/パイント¥869あり",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2609",
+   "name": "PRONTO 秋葉原駅北口店",
+   "address": "東京都千代田区神田練塀町3-3",
+   "area": "千代田区",
+   "nearest_station": null,
+   "latitude": 35.6996831,
+   "longitude": 139.7742009,
+   "offerings": [
+    {
+     "id": "off-r2609-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ〈香るエール〉",
+     "serving_type": "draft",
+     "price": 649,
+     "size": "ジョッキ",
+     "notes": "チェーン共通（PRONTO）グラス¥539/パイント¥869あり",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2610",
+   "name": "PRONTO 羽田空港店",
+   "address": "東京都大田区羽田空港3丁目3-2 第一ターミナルビル1F",
+   "area": "大田区",
+   "nearest_station": null,
+   "latitude": 35.5504833,
+   "longitude": 139.7833318,
+   "offerings": [
+    {
+     "id": "off-r2610-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ〈香るエール〉",
+     "serving_type": "draft",
+     "price": 649,
+     "size": "ジョッキ",
+     "notes": "チェーン共通（PRONTO）グラス¥539/パイント¥869あり",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2611",
+   "name": "PRONTO 羽田空港第3ターミナル店",
+   "address": "東京都大田区羽田空港2丁目6-5 国際線旅客ターミナルビル5F",
+   "area": "大田区",
+   "nearest_station": null,
+   "latitude": 35.5443242,
+   "longitude": 139.7688116,
+   "offerings": [
+    {
+     "id": "off-r2611-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ〈香るエール〉",
+     "serving_type": "draft",
+     "price": 649,
+     "size": "ジョッキ",
+     "notes": "チェーン共通（PRONTO）グラス¥539/パイント¥869あり",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2612",
+   "name": "PRONTO 芝大門店",
+   "address": "東京都港区芝大門1丁目4-14",
+   "area": "港区",
+   "nearest_station": null,
+   "latitude": 35.6578095,
+   "longitude": 139.7546238,
+   "offerings": [
+    {
+     "id": "off-r2612-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ〈香るエール〉",
+     "serving_type": "draft",
+     "price": 649,
+     "size": "ジョッキ",
+     "notes": "チェーン共通（PRONTO）グラス¥539/パイント¥869あり",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2613",
+   "name": "PRONTO 茅場町店",
+   "address": "東京都中央区日本橋茅場町1丁目11-2 KYOE PLAZA 1F-2F",
+   "area": "中央区",
+   "nearest_station": null,
+   "latitude": 35.6796845,
+   "longitude": 139.7802645,
+   "offerings": [
+    {
+     "id": "off-r2613-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ〈香るエール〉",
+     "serving_type": "draft",
+     "price": 649,
+     "size": "ジョッキ",
+     "notes": "チェーン共通（PRONTO）グラス¥539/パイント¥869あり",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2614",
+   "name": "PRONTO 西新井駅店",
+   "address": "東京都足立区西新井栄町2丁目1-1",
+   "area": "足立区",
+   "nearest_station": null,
+   "latitude": 35.7771582,
+   "longitude": 139.790486,
+   "offerings": [
+    {
+     "id": "off-r2614-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ〈香るエール〉",
+     "serving_type": "draft",
+     "price": 649,
+     "size": "ジョッキ",
+     "notes": "チェーン共通（PRONTO）グラス¥539/パイント¥869あり",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2615",
+   "name": "PRONTO 西新宿店",
+   "address": "東京都新宿区西新宿1丁目13-12 西新宿昭和ビル1F",
+   "area": "新宿区",
+   "nearest_station": null,
+   "latitude": 35.6896981,
+   "longitude": 139.6965618,
+   "offerings": [
+    {
+     "id": "off-r2615-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ〈香るエール〉",
+     "serving_type": "draft",
+     "price": 649,
+     "size": "ジョッキ",
+     "notes": "チェーン共通（PRONTO）グラス¥539/パイント¥869あり",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2616",
+   "name": "PRONTO 西鉄福岡駅店",
+   "address": "福岡県福岡市中央区天神2丁目11-2",
+   "area": "福岡市",
+   "nearest_station": null,
+   "latitude": 33.590506,
+   "longitude": 130.3987402,
+   "offerings": [
+    {
+     "id": "off-r2616-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ〈香るエール〉",
+     "serving_type": "draft",
+     "price": 649,
+     "size": "ジョッキ",
+     "notes": "チェーン共通（PRONTO）グラス¥539/パイント¥869あり",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2617",
+   "name": "PRONTO 読売八重洲ビル店",
+   "address": "東京都中央区京橋2丁目8-7 読売八重洲ビル1F",
+   "area": "中央区",
+   "nearest_station": null,
+   "latitude": 35.677253,
+   "longitude": 139.771803,
+   "offerings": [
+    {
+     "id": "off-r2617-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ〈香るエール〉",
+     "serving_type": "draft",
+     "price": 649,
+     "size": "ジョッキ",
+     "notes": "チェーン共通（PRONTO）グラス¥539/パイント¥869あり",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2618",
+   "name": "PRONTO 豊洲店",
+   "address": "東京都江東区豊洲3-3-3 豊洲センタービルあいプラザB1F",
+   "area": "江東区",
+   "nearest_station": null,
+   "latitude": 35.6553441,
+   "longitude": 139.796392,
+   "offerings": [
+    {
+     "id": "off-r2618-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ〈香るエール〉",
+     "serving_type": "draft",
+     "price": 649,
+     "size": "ジョッキ",
+     "notes": "チェーン共通（PRONTO）グラス¥539/パイント¥869あり",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2619",
+   "name": "PRONTO 豊田コモ・スクエア店",
+   "address": "愛知県豊田市喜多町2丁目160番地 コモ・スクエアウエスト1F",
+   "area": "豊田市",
+   "nearest_station": null,
+   "latitude": 35.086482,
+   "longitude": 137.1581136,
+   "offerings": [
+    {
+     "id": "off-r2619-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ〈香るエール〉",
+     "serving_type": "draft",
+     "price": 649,
+     "size": "ジョッキ",
+     "notes": "チェーン共通（PRONTO）グラス¥539/パイント¥869あり",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2620",
+   "name": "PRONTO 野村不動産天王洲ビル店",
+   "address": "東京都品川区東品川2丁目4-11",
+   "area": "品川区",
+   "nearest_station": null,
+   "latitude": 35.6196453,
+   "longitude": 139.7512416,
+   "offerings": [
+    {
+     "id": "off-r2620-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ〈香るエール〉",
+     "serving_type": "draft",
+     "price": 649,
+     "size": "ジョッキ",
+     "notes": "チェーン共通（PRONTO）グラス¥539/パイント¥869あり",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2621",
+   "name": "PRONTO 銀座コリドー店",
+   "address": "東京都中央区銀座6-2 コリドー街",
+   "area": "中央区",
+   "nearest_station": null,
+   "latitude": 35.6717699,
+   "longitude": 139.7603721,
+   "offerings": [
+    {
+     "id": "off-r2621-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ〈香るエール〉",
+     "serving_type": "draft",
+     "price": 649,
+     "size": "ジョッキ",
+     "notes": "チェーン共通（PRONTO）グラス¥539/パイント¥869あり",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2622",
+   "name": "PRONTO 銀座ナイン店",
+   "address": "東京都中央区銀座8丁目5番地先 銀座ナイン1号館",
+   "area": "中央区",
+   "nearest_station": null,
+   "latitude": 35.6681471,
+   "longitude": 139.7589807,
+   "offerings": [
+    {
+     "id": "off-r2622-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ〈香るエール〉",
+     "serving_type": "draft",
+     "price": 649,
+     "size": "ジョッキ",
+     "notes": "チェーン共通（PRONTO）グラス¥539/パイント¥869あり",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2623",
+   "name": "PRONTO 長崎浜町店",
+   "address": "長崎県長崎市浜町4-11 ハマクロス411 1F",
+   "area": "長崎市",
+   "nearest_station": null,
+   "latitude": 32.7437998,
+   "longitude": 129.8778423,
+   "offerings": [
+    {
+     "id": "off-r2623-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ〈香るエール〉",
+     "serving_type": "draft",
+     "price": 649,
+     "size": "ジョッキ",
+     "notes": "チェーン共通（PRONTO）グラス¥539/パイント¥869あり",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2624",
+   "name": "PRONTO 関西国際空港LCCターミナル店",
+   "address": "大阪府泉南郡田尻町泉州空港中13番地 LCCターミナル内",
+   "area": "泉南郡",
+   "nearest_station": null,
+   "latitude": 34.4377158,
+   "longitude": 135.2309126,
+   "offerings": [
+    {
+     "id": "off-r2624-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ〈香るエール〉",
+     "serving_type": "draft",
+     "price": 649,
+     "size": "ジョッキ",
+     "notes": "チェーン共通（PRONTO）グラス¥539/パイント¥869あり",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2625",
+   "name": "PRONTO 霞が関ビル店",
+   "address": "東京都千代田区霞が関3丁目2-5 霞が関ビルディング霞ダイニング1F",
+   "area": "千代田区",
+   "nearest_station": null,
+   "latitude": 35.670976,
+   "longitude": 139.7473312,
+   "offerings": [
+    {
+     "id": "off-r2625-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ〈香るエール〉",
+     "serving_type": "draft",
+     "price": 649,
+     "size": "ジョッキ",
+     "notes": "チェーン共通（PRONTO）グラス¥539/パイント¥869あり",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2626",
+   "name": "PRONTO 青山店",
+   "address": "東京都港区北青山3丁目12-7 秋月ビル",
+   "area": "港区",
+   "nearest_station": null,
+   "latitude": 35.663456,
+   "longitude": 139.7104317,
+   "offerings": [
+    {
+     "id": "off-r2626-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ〈香るエール〉",
+     "serving_type": "draft",
+     "price": 649,
+     "size": "ジョッキ",
+     "notes": "チェーン共通（PRONTO）グラス¥539/パイント¥869あり",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2627",
+   "name": "PRONTO 飯田橋店",
+   "address": "東京都新宿区揚場町1-11 飯田橋中央ビルB1F",
+   "area": "新宿区",
+   "nearest_station": null,
+   "latitude": 35.7024369,
+   "longitude": 139.7438397,
+   "offerings": [
+    {
+     "id": "off-r2627-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ〈香るエール〉",
+     "serving_type": "draft",
+     "price": 649,
+     "size": "ジョッキ",
+     "notes": "チェーン共通（PRONTO）グラス¥539/パイント¥869あり",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2628",
+   "name": "PRONTO 高円寺南口店",
+   "address": "東京都杉並区高円寺南3丁目58-22 FUJIYAビル",
+   "area": "杉並区",
+   "nearest_station": null,
+   "latitude": 35.7050121,
+   "longitude": 139.6491396,
+   "offerings": [
+    {
+     "id": "off-r2628-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ〈香るエール〉",
+     "serving_type": "draft",
+     "price": 649,
+     "size": "ジョッキ",
+     "notes": "チェーン共通（PRONTO）グラス¥539/パイント¥869あり",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2629",
+   "name": "PRONTO 高崎モントレー店",
+   "address": "群馬県高崎市八島町222番地 高崎モントレーコンコース階",
+   "area": "高崎市",
+   "nearest_station": null,
+   "latitude": 36.3218263,
+   "longitude": 139.0121086,
+   "offerings": [
+    {
+     "id": "off-r2629-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ〈香るエール〉",
+     "serving_type": "draft",
+     "price": 649,
+     "size": "ジョッキ",
+     "notes": "チェーン共通（PRONTO）グラス¥539/パイント¥869あり",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2630",
+   "name": "PRONTO 高田馬場店",
+   "address": "東京都新宿区高田馬場1-33-13 千年ビル地下1階",
+   "area": "新宿区",
+   "nearest_station": null,
+   "latitude": 35.7114319,
+   "longitude": 139.7037457,
+   "offerings": [
+    {
+     "id": "off-r2630-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ〈香るエール〉",
+     "serving_type": "draft",
+     "price": 649,
+     "size": "ジョッキ",
+     "notes": "チェーン共通（PRONTO）グラス¥539/パイント¥869あり",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2631",
+   "name": "PRONTO 鹿児島中央駅西口店",
+   "address": "鹿児島県鹿児島市武1丁目1-2 JR九州ホテル鹿児島1階",
+   "area": "鹿児島市",
+   "nearest_station": null,
+   "latitude": 31.5841516,
+   "longitude": 130.5413378,
+   "offerings": [
+    {
+     "id": "off-r2631-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ〈香るエール〉",
+     "serving_type": "draft",
+     "price": 649,
+     "size": "ジョッキ",
+     "notes": "チェーン共通（PRONTO）グラス¥539/パイント¥869あり",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2632",
+   "name": "PRONTOホテルB4T田端店",
+   "address": "東京都北区東田端1丁目17-20 ホテルB4T田端3階",
+   "area": "北区",
+   "nearest_station": null,
+   "latitude": 35.7389244,
+   "longitude": 139.7618195,
+   "offerings": [
+    {
+     "id": "off-r2632-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ〈香るエール〉",
+     "serving_type": "draft",
+     "price": 649,
+     "size": "ジョッキ",
+     "notes": "チェーン共通（PRONTO）グラス¥539/パイント¥869あり",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2633",
+   "name": "PRONTO海浜幕張店",
+   "address": "千葉県千葉市美浜区中瀬2丁目6-1 幕張WBGマリブイースト2F",
+   "area": "千葉市",
+   "nearest_station": null,
+   "latitude": 35.6485728,
+   "longitude": 140.0395015,
+   "offerings": [
+    {
+     "id": "off-r2633-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ〈香るエール〉",
+     "serving_type": "draft",
+     "price": 649,
+     "size": "ジョッキ",
+     "notes": "チェーン共通（PRONTO）グラス¥539/パイント¥869あり",
      "verified_at": "2026-06-12",
      "source_type": "official",
      "corroboration_count": 1
