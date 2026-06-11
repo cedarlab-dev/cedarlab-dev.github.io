@@ -1,7 +1,7 @@
 {
  "format_version": 1,
- "data_version": 7,
- "generated_at": "2026-06-11T21:46:26.827Z",
+ "data_version": 8,
+ "generated_at": "2026-06-11T22:16:15.681Z",
  "shops": [
   {
    "id": "shop-001",
@@ -71595,6 +71595,374 @@
      "price": 390,
      "size": null,
      "notes": "チェーン共通（鳥貴族）全品均一価格",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2279",
+   "name": "へぎそば 地酒処 こんごう庵 神保町店",
+   "address": "東京都千代田区神田神保町1-18-1 千石屋ビル1F",
+   "area": "神保町",
+   "nearest_station": null,
+   "latitude": 35.696747,
+   "longitude": 139.759109,
+   "offerings": [
+    {
+     "id": "off-r2279-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ",
+     "serving_type": "draft",
+     "price": null,
+     "size": null,
+     "notes": "神泡超達人店掲載",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2280",
+   "name": "如水会館 カフェ＆パブ MERCURY",
+   "address": "東京都千代田区一ツ橋2丁目1-1 如水会館1F",
+   "area": "竹橋・一ツ橋",
+   "nearest_station": null,
+   "latitude": 35.692333,
+   "longitude": 139.758148,
+   "offerings": [
+    {
+     "id": "off-r2280-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ",
+     "serving_type": "draft",
+     "price": null,
+     "size": null,
+     "notes": "神泡達人店掲載",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2281",
+   "name": "九段 ごち屋",
+   "address": "東京都千代田区九段北1丁目9-14",
+   "area": "九段",
+   "nearest_station": null,
+   "latitude": 35.697956,
+   "longitude": 139.751175,
+   "offerings": [
+    {
+     "id": "off-r2281-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ",
+     "serving_type": "draft",
+     "price": null,
+     "size": null,
+     "notes": "神泡達人店掲載",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2282",
+   "name": "シュラスコレストラン ALEGRIA Jimbocho",
+   "address": "東京都千代田区神田神保町1-8 ファンデス神保町4F",
+   "area": "神保町",
+   "nearest_station": null,
+   "latitude": 35.696224,
+   "longitude": 139.758972,
+   "offerings": [
+    {
+     "id": "off-r2282-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ",
+     "serving_type": "draft",
+     "price": null,
+     "size": null,
+     "notes": "神泡達人店掲載",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2283",
+   "name": "屋台屋 博多劇場 神保町店",
+   "address": "東京都千代田区神田神保町1-8-10 10F",
+   "area": "神保町",
+   "nearest_station": null,
+   "latitude": 35.696224,
+   "longitude": 139.758972,
+   "offerings": [
+    {
+     "id": "off-r2283-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ",
+     "serving_type": "draft",
+     "price": null,
+     "size": null,
+     "notes": "神泡達人店掲載",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2284",
+   "name": "PRONTO 九段下店",
+   "address": "東京都千代田区神田神保町3-7 ニュー九段ビル",
+   "area": "神保町",
+   "nearest_station": null,
+   "latitude": 35.69545,
+   "longitude": 139.753296,
+   "offerings": [
+    {
+     "id": "off-r2284-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ",
+     "serving_type": "draft",
+     "price": null,
+     "size": null,
+     "notes": "神泡達人店掲載",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2285",
+   "name": "神保町魚金 弐 すずらん通り店",
+   "address": "東京都千代田区神田神保町1-13-15 堀内ビル1・2F",
+   "area": "神保町",
+   "nearest_station": null,
+   "latitude": 35.695194,
+   "longitude": 139.758652,
+   "offerings": [
+    {
+     "id": "off-r2285-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ",
+     "serving_type": "draft",
+     "price": null,
+     "size": null,
+     "notes": "神泡達人店掲載",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2286",
+   "name": "魚酒場ピン",
+   "address": "東京都千代田区神田神保町2丁目2-20 ワカヤギビル1階",
+   "area": "神保町",
+   "nearest_station": null,
+   "latitude": 35.696217,
+   "longitude": 139.757339,
+   "offerings": [
+    {
+     "id": "off-r2286-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ",
+     "serving_type": "draft",
+     "price": null,
+     "size": null,
+     "notes": "神泡達人店掲載",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2287",
+   "name": "新中華 李記",
+   "address": "東京都千代田区九段北1丁目10-5 2階",
+   "area": "九段",
+   "nearest_station": null,
+   "latitude": 35.697372,
+   "longitude": 139.750839,
+   "offerings": [
+    {
+     "id": "off-r2287-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ",
+     "serving_type": "draft",
+     "price": null,
+     "size": null,
+     "notes": "神泡達人店掲載",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2288",
+   "name": "てけてけ 竹橋パレスサイドビル店",
+   "address": "東京都千代田区一ツ橋1丁目1-1 竹橋パレスサイドビルB1F",
+   "area": "竹橋・一ツ橋",
+   "nearest_station": null,
+   "latitude": 35.690922,
+   "longitude": 139.757507,
+   "offerings": [
+    {
+     "id": "off-r2288-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ",
+     "serving_type": "draft",
+     "price": null,
+     "size": null,
+     "notes": "神泡達人店掲載",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2289",
+   "name": "ロイヤル パレスサイド店",
+   "address": "東京都千代田区一ツ橋1丁目1-1 パレスサイドビルB1",
+   "area": "竹橋・一ツ橋",
+   "nearest_station": null,
+   "latitude": 35.690922,
+   "longitude": 139.757507,
+   "offerings": [
+    {
+     "id": "off-r2289-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ",
+     "serving_type": "draft",
+     "price": null,
+     "size": null,
+     "notes": "神泡達人店掲載",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2290",
+   "name": "和風イタリアン創作料理 ねこのしっぽ",
+   "address": "東京都千代田区西神田2-1-3",
+   "area": "神保町",
+   "nearest_station": null,
+   "latitude": 35.698402,
+   "longitude": 139.756302,
+   "offerings": [
+    {
+     "id": "off-r2290-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ",
+     "serving_type": "draft",
+     "price": null,
+     "size": null,
+     "notes": "神泡達人店掲載",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2291",
+   "name": "PRONTO 竹橋パレスサイドビル店",
+   "address": "東京都千代田区一ツ橋1-1-1 パレスサイドビル1F",
+   "area": "竹橋・一ツ橋",
+   "nearest_station": null,
+   "latitude": 35.690922,
+   "longitude": 139.757507,
+   "offerings": [
+    {
+     "id": "off-r2291-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ",
+     "serving_type": "draft",
+     "price": null,
+     "size": null,
+     "notes": "神泡達人店掲載",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2292",
+   "name": "Bistro Aligot",
+   "address": "東京都千代田区神田神保町1-18-7",
+   "area": "神保町",
+   "nearest_station": null,
+   "latitude": 35.696747,
+   "longitude": 139.759109,
+   "offerings": [
+    {
+     "id": "off-r2292-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ",
+     "serving_type": "draft",
+     "price": null,
+     "size": null,
+     "notes": "神泡達人店掲載",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2293",
+   "name": "肉の罠 神保町",
+   "address": "東京都千代田区神田神保町1-34-24 越路第3ビル1F",
+   "area": "神保町",
+   "nearest_station": null,
+   "latitude": 35.697624,
+   "longitude": 139.75885,
+   "offerings": [
+    {
+     "id": "off-r2293-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ",
+     "serving_type": "draft",
+     "price": null,
+     "size": null,
+     "notes": "神泡達人店掲載",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r2294",
+   "name": "東京アチコーコー",
+   "address": "東京都千代田区神田神保町1-38 クリスタルビル1F",
+   "area": "神保町",
+   "nearest_station": null,
+   "latitude": 35.697746,
+   "longitude": 139.758636,
+   "offerings": [
+    {
+     "id": "off-r2294-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ",
+     "serving_type": "draft",
+     "price": null,
+     "size": null,
+     "notes": "神泡達人店掲載",
      "verified_at": "2026-06-12",
      "source_type": "official",
      "corroboration_count": 1
