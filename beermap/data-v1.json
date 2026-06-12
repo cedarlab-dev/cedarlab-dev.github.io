@@ -1,7 +1,7 @@
 {
  "format_version": 1,
- "data_version": 10,
- "generated_at": "2026-06-12T11:34:43.547Z",
+ "data_version": 11,
+ "generated_at": "2026-06-12T11:44:26.734Z",
  "shops": [
   {
    "id": "shop-001",
@@ -98252,6 +98252,2007 @@
      "price": null,
      "size": "中ジョッキ",
      "notes": "チェーン共通（モンテローザ）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r3447",
+   "name": "ミライザカ 盛岡駅前店",
+   "address": "岩手県盛岡市盛岡駅前通9-8 1・2・3F",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 39.702091,
+   "longitude": 141.137405,
+   "offerings": [
+    {
+     "id": "off-r3447-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ〈香るエール〉",
+     "serving_type": "draft",
+     "price": 328,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（ミライザカ）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r3448",
+   "name": "ミライザカ 仙台名掛丁店",
+   "address": "宮城県仙台市青葉区中央1-8-38 AKビルB1F",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 38.261887,
+   "longitude": 140.880661,
+   "offerings": [
+    {
+     "id": "off-r3448-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ〈香るエール〉",
+     "serving_type": "draft",
+     "price": 328,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（ミライザカ）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r3449",
+   "name": "ミライザカ 仙台駅西口プレイビル店",
+   "address": "宮城県仙台市青葉区中央4-1-3 プレイビル1F",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 38.258709,
+   "longitude": 140.880371,
+   "offerings": [
+    {
+     "id": "off-r3449-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ〈香るエール〉",
+     "serving_type": "draft",
+     "price": 328,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（ミライザカ）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r3450",
+   "name": "ミライザカ 秋田駅前店",
+   "address": "秋田県秋田市中通2-4-6",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 39.717209,
+   "longitude": 140.125748,
+   "offerings": [
+    {
+     "id": "off-r3450-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ〈香るエール〉",
+     "serving_type": "draft",
+     "price": 328,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（ミライザカ）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r3451",
+   "name": "ミライザカ いわき駅前店",
+   "address": "福島県いわき市平字田町1-1 レストランビル3F",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 37.05698,
+   "longitude": 140.892746,
+   "offerings": [
+    {
+     "id": "off-r3451-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ〈香るエール〉",
+     "serving_type": "draft",
+     "price": 328,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（ミライザカ）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r3452",
+   "name": "ミライザカ 八戸三日町店",
+   "address": "青森県八戸市三日町23 1F",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 40.509483,
+   "longitude": 141.490906,
+   "offerings": [
+    {
+     "id": "off-r3452-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ〈香るエール〉",
+     "serving_type": "draft",
+     "price": 328,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（ミライザカ）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r3453",
+   "name": "ミライザカ 富山駅前店",
+   "address": "富山県富山市新富町1-4-11 トミリョウビル1階",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 36.699017,
+   "longitude": 137.21138,
+   "offerings": [
+    {
+     "id": "off-r3453-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ〈香るエール〉",
+     "serving_type": "draft",
+     "price": 328,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（ミライザカ）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r3454",
+   "name": "ミライザカ 上越高田店",
+   "address": "新潟県上越市本町5-4-5 あすとぴあ高田1F",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 37.114811,
+   "longitude": 138.244934,
+   "offerings": [
+    {
+     "id": "off-r3454-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ〈香るエール〉",
+     "serving_type": "draft",
+     "price": 328,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（ミライザカ）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r3455",
+   "name": "ミライザカ 新潟駅前東大通り店",
+   "address": "新潟県新潟市中央区東大通1-2-1 第2マルカビル3・4・5F",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 37.913837,
+   "longitude": 139.060364,
+   "offerings": [
+    {
+     "id": "off-r3455-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ〈香るエール〉",
+     "serving_type": "draft",
+     "price": 328,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（ミライザカ）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r3456",
+   "name": "ミライザカ 向ヶ丘遊園南口店",
+   "address": "神奈川県川崎市多摩区登戸2737-5 ワコー向ケ丘ビル4F、5F",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 35.616287,
+   "longitude": 139.56398,
+   "offerings": [
+    {
+     "id": "off-r3456-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ〈香るエール〉",
+     "serving_type": "draft",
+     "price": 328,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（ミライザカ）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r3457",
+   "name": "ミライザカ 相武台前店",
+   "address": "神奈川県座間市相武台1-34-8 スタープラザ相武台駅前1F",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 35.499687,
+   "longitude": 139.408035,
+   "offerings": [
+    {
+     "id": "off-r3457-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ〈香るエール〉",
+     "serving_type": "draft",
+     "price": 328,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（ミライザカ）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r3458",
+   "name": "ミライザカ 横浜西口鶴屋町前店",
+   "address": "神奈川県横浜市西区北幸1-1-2 INB横浜西口ビル5・6F",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 35.467625,
+   "longitude": 139.622284,
+   "offerings": [
+    {
+     "id": "off-r3458-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ〈香るエール〉",
+     "serving_type": "draft",
+     "price": 328,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（ミライザカ）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r3459",
+   "name": "ミライザカ JR横浜西口駅前店",
+   "address": "神奈川県横浜市西区北幸1-1-13 横浜駅前ビルディング3F",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 35.46727,
+   "longitude": 139.62117,
+   "offerings": [
+    {
+     "id": "off-r3459-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ〈香るエール〉",
+     "serving_type": "draft",
+     "price": 328,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（ミライザカ）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r3460",
+   "name": "ミライザカ 淵野辺北口駅前店",
+   "address": "神奈川県相模原市中央区淵野辺3-19-15 秀和ビル2F",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 35.569359,
+   "longitude": 139.39505,
+   "offerings": [
+    {
+     "id": "off-r3460-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ〈香るエール〉",
+     "serving_type": "draft",
+     "price": 328,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（ミライザカ）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r3461",
+   "name": "ミライザカ 久喜駅前店",
+   "address": "埼玉県久喜市久喜中央1-1-8 ゴガミビル2F",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 36.065983,
+   "longitude": 139.676102,
+   "offerings": [
+    {
+     "id": "off-r3461-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ〈香るエール〉",
+     "serving_type": "draft",
+     "price": 328,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（ミライザカ）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r3462",
+   "name": "ミライザカ 東川口駅前店",
+   "address": "埼玉県川口市戸塚2-22-33 エスポワールビル1F",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 35.875008,
+   "longitude": 139.745041,
+   "offerings": [
+    {
+     "id": "off-r3462-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ〈香るエール〉",
+     "serving_type": "draft",
+     "price": 328,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（ミライザカ）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r3463",
+   "name": "ミライザカ 大宮東口店",
+   "address": "埼玉県さいたま市大宮区大門町1-92-1 大宮大門安藤ビル 3階",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 35.906666,
+   "longitude": 139.625031,
+   "offerings": [
+    {
+     "id": "off-r3463-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ〈香るエール〉",
+     "serving_type": "draft",
+     "price": 328,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（ミライザカ）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r3464",
+   "name": "ミライザカ さいたま新都心東口駅前店",
+   "address": "埼玉県さいたま市大宮区吉敷町4-61-1 オクトビル2・3F",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 35.893475,
+   "longitude": 139.634506,
+   "offerings": [
+    {
+     "id": "off-r3464-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ〈香るエール〉",
+     "serving_type": "draft",
+     "price": 328,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（ミライザカ）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r3465",
+   "name": "ミライザカ 成田駅前店",
+   "address": "千葉県成田市花崎町816-2 若松ビルB1F",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 35.777283,
+   "longitude": 140.315475,
+   "offerings": [
+    {
+     "id": "off-r3465-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ〈香るエール〉",
+     "serving_type": "draft",
+     "price": 328,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（ミライザカ）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r3466",
+   "name": "ミライザカ 松戸西口駅前店",
+   "address": "千葉県松戸市本町18-6 壱番館ビル2階",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 35.784817,
+   "longitude": 139.899323,
+   "offerings": [
+    {
+     "id": "off-r3466-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ〈香るエール〉",
+     "serving_type": "draft",
+     "price": 328,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（ミライザカ）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r3467",
+   "name": "ミライザカ 勝田駅東口店",
+   "address": "茨城県ひたちなか市勝田中央7-7 コアビル2F",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 36.394569,
+   "longitude": 140.527451,
+   "offerings": [
+    {
+     "id": "off-r3467-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ〈香るエール〉",
+     "serving_type": "draft",
+     "price": 328,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（ミライザカ）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r3468",
+   "name": "ミライザカ 水戸OPA店",
+   "address": "茨城県水戸市宮町1-7-33 水戸サウスタワー10F",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 36.370007,
+   "longitude": 140.475922,
+   "offerings": [
+    {
+     "id": "off-r3468-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ〈香るエール〉",
+     "serving_type": "draft",
+     "price": 328,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（ミライザカ）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r3469",
+   "name": "ミライザカ 宇都宮駅西口店",
+   "address": "栃木県宇都宮市駅前通り1-4-6 西口ビル2F",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 36.55999,
+   "longitude": 139.897095,
+   "offerings": [
+    {
+     "id": "off-r3469-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ〈香るエール〉",
+     "serving_type": "draft",
+     "price": 328,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（ミライザカ）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r3470",
+   "name": "ミライザカ 小山東口店",
+   "address": "栃木県小山市駅東通り1-6-7 第二青木ビル1・2・3F",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 36.310581,
+   "longitude": 139.807449,
+   "offerings": [
+    {
+     "id": "off-r3470-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ〈香るエール〉",
+     "serving_type": "draft",
+     "price": 328,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（ミライザカ）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r3471",
+   "name": "ミライザカ 名駅4丁目店",
+   "address": "愛知県名古屋市中村区名駅四丁目4番34号 タクトビル3F",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 35.170815,
+   "longitude": 136.885834,
+   "offerings": [
+    {
+     "id": "off-r3471-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ〈香るエール〉",
+     "serving_type": "draft",
+     "price": 328,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（ミライザカ）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r3472",
+   "name": "ミライザカ 藤が丘駅前店",
+   "address": "愛知県名古屋市名東区藤見が丘9-2 アークビル1F",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 35.181675,
+   "longitude": 137.021744,
+   "offerings": [
+    {
+     "id": "off-r3472-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ〈香るエール〉",
+     "serving_type": "draft",
+     "price": 328,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（ミライザカ）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r3473",
+   "name": "ミライザカ 豊橋店",
+   "address": "愛知県豊橋市広小路1丁目37 マスヤビル1・2F",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 34.76413,
+   "longitude": 137.383682,
+   "offerings": [
+    {
+     "id": "off-r3473-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ〈香るエール〉",
+     "serving_type": "draft",
+     "price": 328,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（ミライザカ）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r3474",
+   "name": "ミライザカ 御殿場駅前店",
+   "address": "静岡県御殿場市新橋1898-3 アスティ御殿場1F",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 35.300591,
+   "longitude": 138.93454,
+   "offerings": [
+    {
+     "id": "off-r3474-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ〈香るエール〉",
+     "serving_type": "draft",
+     "price": 328,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（ミライザカ）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r3475",
+   "name": "ミライザカ 掛川北口駅前店",
+   "address": "静岡県掛川市駅前1-9 D-oneビル1F",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 34.770119,
+   "longitude": 138.013885,
+   "offerings": [
+    {
+     "id": "off-r3475-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ〈香るエール〉",
+     "serving_type": "draft",
+     "price": 328,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（ミライザカ）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r3476",
+   "name": "ミライザカ 淀屋橋店",
+   "address": "大阪府大阪市中央区北浜3-5-22 オリックス淀屋橋ビル1階",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 34.692043,
+   "longitude": 135.50177,
+   "offerings": [
+    {
+     "id": "off-r3476-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ〈香るエール〉",
+     "serving_type": "draft",
+     "price": 328,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（ミライザカ）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r3477",
+   "name": "ミライザカ 梅田お初天神通り店",
+   "address": "大阪府大阪市北区曽根崎2-15-20 SWINGうめだ2階",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 34.701878,
+   "longitude": 135.500809,
+   "offerings": [
+    {
+     "id": "off-r3477-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ〈香るエール〉",
+     "serving_type": "draft",
+     "price": 328,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（ミライザカ）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r3478",
+   "name": "ミライザカ 本町店",
+   "address": "大阪府大阪市中央区本町3-5-2 辰野本町ビルB1F",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 34.683857,
+   "longitude": 135.501526,
+   "offerings": [
+    {
+     "id": "off-r3478-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ〈香るエール〉",
+     "serving_type": "draft",
+     "price": 328,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（ミライザカ）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r3479",
+   "name": "ミライザカ 京橋OBPツイン21-1F店",
+   "address": "大阪府大阪市中央区城見2-1-61 ギャラリー・ツイン21 1階",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 34.692364,
+   "longitude": 135.530991,
+   "offerings": [
+    {
+     "id": "off-r3479-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ〈香るエール〉",
+     "serving_type": "draft",
+     "price": 328,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（ミライザカ）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r3480",
+   "name": "ミライザカ 谷町4丁目店",
+   "address": "大阪府大阪市中央区谷町3-5-5 谷三会館ビル2F",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 34.682961,
+   "longitude": 135.51709,
+   "offerings": [
+    {
+     "id": "off-r3480-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ〈香るエール〉",
+     "serving_type": "draft",
+     "price": 328,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（ミライザカ）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r3481",
+   "name": "ミライザカ 梅田茶屋町店",
+   "address": "大阪府大阪市北区茶屋町2-16 e-square chayamachi 3F",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 34.705742,
+   "longitude": 135.498993,
+   "offerings": [
+    {
+     "id": "off-r3481-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ〈香るエール〉",
+     "serving_type": "draft",
+     "price": 328,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（ミライザカ）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r3482",
+   "name": "ミライザカ 京阪京橋駅前店",
+   "address": "大阪府大阪市都島区東野田町2-3-25 坪井ビル",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 34.697113,
+   "longitude": 135.531448,
+   "offerings": [
+    {
+     "id": "off-r3482-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ〈香るエール〉",
+     "serving_type": "draft",
+     "price": 328,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（ミライザカ）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r3483",
+   "name": "ミライザカ 瀬田駅前店",
+   "address": "滋賀県大津市大萱1-13-11 スマイルホテル大津瀬田1F",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 34.985809,
+   "longitude": 135.925476,
+   "offerings": [
+    {
+     "id": "off-r3483-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ〈香るエール〉",
+     "serving_type": "draft",
+     "price": 328,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（ミライザカ）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r3484",
+   "name": "ミライザカ 草津東口店",
+   "address": "滋賀県草津市大路1-8-1 南洋軒ビルB1F",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 35.021156,
+   "longitude": 135.962006,
+   "offerings": [
+    {
+     "id": "off-r3484-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ〈香るエール〉",
+     "serving_type": "draft",
+     "price": 328,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（ミライザカ）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r3485",
+   "name": "ミライザカ 南草津駅前店",
+   "address": "滋賀県草津市野路1-14-47 南草津NTビル2F",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 35.003586,
+   "longitude": 135.948364,
+   "offerings": [
+    {
+     "id": "off-r3485-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ〈香るエール〉",
+     "serving_type": "draft",
+     "price": 328,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（ミライザカ）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r3486",
+   "name": "ミライザカ 三宮店",
+   "address": "兵庫県神戸市中央区琴ノ緒町5-1-408 1・2F",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 34.694775,
+   "longitude": 135.194626,
+   "offerings": [
+    {
+     "id": "off-r3486-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ〈香るエール〉",
+     "serving_type": "draft",
+     "price": 328,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（ミライザカ）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r3487",
+   "name": "ミライザカ JR和歌山駅前店",
+   "address": "和歌山県和歌山市美園町5-7-8 パーク美園ビルB1・1F",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 34.231174,
+   "longitude": 135.190399,
+   "offerings": [
+    {
+     "id": "off-r3487-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ〈香るエール〉",
+     "serving_type": "draft",
+     "price": 328,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（ミライザカ）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r3488",
+   "name": "ミライザカ 岡山錦町店",
+   "address": "岡山県岡山市北区錦町1-13-2 1・2F",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 34.663528,
+   "longitude": 133.920212,
+   "offerings": [
+    {
+     "id": "off-r3488-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ〈香るエール〉",
+     "serving_type": "draft",
+     "price": 328,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（ミライザカ）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r3489",
+   "name": "ミライザカ 呉中通り店",
+   "address": "広島県呉市中通3-7-4 新藤ビル1F・2F",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 34.245514,
+   "longitude": 132.565277,
+   "offerings": [
+    {
+     "id": "off-r3489-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ〈香るエール〉",
+     "serving_type": "draft",
+     "price": 328,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（ミライザカ）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r3490",
+   "name": "ミライザカ 広島ミライザカ 本通り店",
+   "address": "広島県広島市中区大手町1-5-8 マリーベルB1F",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 34.394016,
+   "longitude": 132.455811,
+   "offerings": [
+    {
+     "id": "off-r3490-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ〈香るエール〉",
+     "serving_type": "draft",
+     "price": 328,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（ミライザカ）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r3491",
+   "name": "ミライザカ 広島ミライザカ 八丁堀店",
+   "address": "広島県広島市中区堀川町5-16 胡町共同ビル2階",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 34.392975,
+   "longitude": 132.462631,
+   "offerings": [
+    {
+     "id": "off-r3491-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ〈香るエール〉",
+     "serving_type": "draft",
+     "price": 328,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（ミライザカ）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r3492",
+   "name": "ミライザカ 広島駅南口店",
+   "address": "広島県広島市南区松原町10-1 HIROSHIMAFULLFOCUS3F",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 34.39698,
+   "longitude": 132.473282,
+   "offerings": [
+    {
+     "id": "off-r3492-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ〈香るエール〉",
+     "serving_type": "draft",
+     "price": 328,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（ミライザカ）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r3493",
+   "name": "ミライザカ 広島西条駅前店",
+   "address": "広島県東広島市西条本町12-5 賀茂泉館2F",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 34.430462,
+   "longitude": 132.743484,
+   "offerings": [
+    {
+     "id": "off-r3493-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ〈香るエール〉",
+     "serving_type": "draft",
+     "price": 328,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（ミライザカ）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r3494",
+   "name": "ミライザカ 福山店",
+   "address": "広島県福山市元町12-7 福山会館ビル1F",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 34.487923,
+   "longitude": 133.365051,
+   "offerings": [
+    {
+     "id": "off-r3494-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ〈香るエール〉",
+     "serving_type": "draft",
+     "price": 328,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（ミライザカ）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r3495",
+   "name": "ミライザカ 湯田温泉店",
+   "address": "山口県山口市湯田温泉1-11-33 新興商会ビル1階",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 34.165192,
+   "longitude": 131.458084,
+   "offerings": [
+    {
+     "id": "off-r3495-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ〈香るエール〉",
+     "serving_type": "draft",
+     "price": 328,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（ミライザカ）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r3496",
+   "name": "ミライザカ ルルサス防府店",
+   "address": "山口県防府市栄町1-5-1 ルルサス防府1F",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 34.053509,
+   "longitude": 131.57045,
+   "offerings": [
+    {
+     "id": "off-r3496-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ〈香るエール〉",
+     "serving_type": "draft",
+     "price": 328,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（ミライザカ）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r3497",
+   "name": "ミライザカ 高松南新町店",
+   "address": "香川県高松市南新町12-5 タカラヤビル",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 34.341183,
+   "longitude": 134.049667,
+   "offerings": [
+    {
+     "id": "off-r3497-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ〈香るエール〉",
+     "serving_type": "draft",
+     "price": 328,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（ミライザカ）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r3498",
+   "name": "ミライザカ 松山大街道店",
+   "address": "愛媛県松山市大街道2-1-13 キスケ大街道ビル1階",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 33.838715,
+   "longitude": 132.770279,
+   "offerings": [
+    {
+     "id": "off-r3498-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ〈香るエール〉",
+     "serving_type": "draft",
+     "price": 328,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（ミライザカ）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r3499",
+   "name": "ミライザカ 西鉄久留米 ミライザカ",
+   "address": "福岡県久留米市東町33-5 ニューフタマタ第三ビル1階",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 33.312294,
+   "longitude": 130.518829,
+   "offerings": [
+    {
+     "id": "off-r3499-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ〈香るエール〉",
+     "serving_type": "draft",
+     "price": 328,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（ミライザカ）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r3500",
+   "name": "ミライザカ 薬院 ミライザカ",
+   "address": "福岡県福岡市中央区薬院3-3-1 1F",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 33.581383,
+   "longitude": 130.40094,
+   "offerings": [
+    {
+     "id": "off-r3500-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ〈香るエール〉",
+     "serving_type": "draft",
+     "price": 328,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（ミライザカ）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r3501",
+   "name": "ミライザカ 博多口駅前店",
+   "address": "福岡県福岡市博多区博多駅前3-26-1 紙与駅三ビル1F",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 33.589581,
+   "longitude": 130.416718,
+   "offerings": [
+    {
+     "id": "off-r3501-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ〈香るエール〉",
+     "serving_type": "draft",
+     "price": 328,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（ミライザカ）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r3502",
+   "name": "ミライザカ JR香椎駅前店",
+   "address": "福岡県福岡市東区香椎駅前一丁目13番25号 香椎ロイヤルビル 3階",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 33.661049,
+   "longitude": 130.44397,
+   "offerings": [
+    {
+     "id": "off-r3502-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ〈香るエール〉",
+     "serving_type": "draft",
+     "price": 328,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（ミライザカ）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r3503",
+   "name": "ミライザカ 九大学研都市駅前店",
+   "address": "福岡県福岡市西区西都1-6-1 TAKEOKAビル1F",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 33.578381,
+   "longitude": 130.260117,
+   "offerings": [
+    {
+     "id": "off-r3503-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ〈香るエール〉",
+     "serving_type": "draft",
+     "price": 328,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（ミライザカ）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r3504",
+   "name": "ミライザカ 佐賀南口駅前店",
+   "address": "佐賀県佐賀市駅前中央1-5-21 1F",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 33.262993,
+   "longitude": 130.298828,
+   "offerings": [
+    {
+     "id": "off-r3504-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ〈香るエール〉",
+     "serving_type": "draft",
+     "price": 328,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（ミライザカ）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r3505",
+   "name": "ミライザカ 八代店",
+   "address": "熊本県八代市本町1丁目3-24",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 32.504135,
+   "longitude": 130.604385,
+   "offerings": [
+    {
+     "id": "off-r3505-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ〈香るエール〉",
+     "serving_type": "draft",
+     "price": 328,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（ミライザカ）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r3506",
+   "name": "ミライザカ 熊本下通りアーケード街店",
+   "address": "熊本県熊本市中央区下通1-8-29 三国屋ビル2階",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 32.800976,
+   "longitude": 130.708511,
+   "offerings": [
+    {
+     "id": "off-r3506-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ〈香るエール〉",
+     "serving_type": "draft",
+     "price": 328,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（ミライザカ）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r3507",
+   "name": "ミライザカ 佐世保夜店公園店",
+   "address": "長崎県佐世保市山県町1-21 2・3F",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 33.168522,
+   "longitude": 129.722198,
+   "offerings": [
+    {
+     "id": "off-r3507-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ〈香るエール〉",
+     "serving_type": "draft",
+     "price": 328,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（ミライザカ）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r3508",
+   "name": "ミライザカ 長崎駅前店",
+   "address": "長崎県長崎市大黒町9-30 ティアンドジェイビル1・2F",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 32.751945,
+   "longitude": 129.872711,
+   "offerings": [
+    {
+     "id": "off-r3508-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ〈香るエール〉",
+     "serving_type": "draft",
+     "price": 328,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（ミライザカ）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r3509",
+   "name": "ミライザカ 長崎銅座 観光通り店",
+   "address": "長崎県長崎市銅座町14-21 堀川銅座ビル1・2F",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 32.743176,
+   "longitude": 129.87767,
+   "offerings": [
+    {
+     "id": "off-r3509-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ〈香るエール〉",
+     "serving_type": "draft",
+     "price": 328,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（ミライザカ）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r3510",
+   "name": "ミライザカ 久茂地 国際通り店",
+   "address": "沖縄県那覇市久茂地3丁目12-1 第一久茂地ビル2F",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 26.214964,
+   "longitude": 127.681595,
+   "offerings": [
+    {
+     "id": "off-r3510-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ〈香るエール〉",
+     "serving_type": "draft",
+     "price": 328,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（ミライザカ）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r3511",
+   "name": "ミライザカ 秋葉原駅前店",
+   "address": "東京都千代田区神田佐久間町1-8-7 東亜ビル1F",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 35.697304,
+   "longitude": 139.773041,
+   "offerings": [
+    {
+     "id": "off-r3511-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ〈香るエール〉",
+     "serving_type": "draft",
+     "price": 328,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（ミライザカ）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r3512",
+   "name": "ミライザカ 日比谷富国生命ビル店",
+   "address": "東京都千代田区内幸町2-2-2 富国生命ビル地下2階",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 35.670513,
+   "longitude": 139.754822,
+   "offerings": [
+    {
+     "id": "off-r3512-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ〈香るエール〉",
+     "serving_type": "draft",
+     "price": 328,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（ミライザカ）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r3513",
+   "name": "ミライザカ 神楽坂店",
+   "address": "東京都新宿区神楽坂2-10 神楽ヒルズ2F",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 35.701283,
+   "longitude": 139.742004,
+   "offerings": [
+    {
+     "id": "off-r3513-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ〈香るエール〉",
+     "serving_type": "draft",
+     "price": 328,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（ミライザカ）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r3514",
+   "name": "ミライザカ 新宿東口店",
+   "address": "東京都新宿区新宿3-20-5 ニューサンパークビル2F",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 35.693039,
+   "longitude": 139.702896,
+   "offerings": [
+    {
+     "id": "off-r3514-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ〈香るエール〉",
+     "serving_type": "draft",
+     "price": 328,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（ミライザカ）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r3515",
+   "name": "ミライザカ 高田馬場駅前店",
+   "address": "東京都新宿区高田馬場2-16-6 宇田川ビル1・2F",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 35.713787,
+   "longitude": 139.705231,
+   "offerings": [
+    {
+     "id": "off-r3515-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ〈香るエール〉",
+     "serving_type": "draft",
+     "price": 328,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（ミライザカ）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r3516",
+   "name": "ミライザカ JR新大久保駅前店",
+   "address": "東京都新宿区百人町2-4-2 やまきビル2F",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 35.701572,
+   "longitude": 139.699921,
+   "offerings": [
+    {
+     "id": "off-r3516-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ〈香るエール〉",
+     "serving_type": "draft",
+     "price": 328,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（ミライザカ）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r3517",
+   "name": "ミライザカ 渋谷道玄坂店",
+   "address": "東京都渋谷区道玄坂2-29-8 道玄坂センタービル5F",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 35.659164,
+   "longitude": 139.6978,
+   "offerings": [
+    {
+     "id": "off-r3517-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ〈香るエール〉",
+     "serving_type": "draft",
+     "price": 328,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（ミライザカ）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r3518",
+   "name": "ミライザカ 青山外苑前店",
+   "address": "東京都港区南青山2-27-27 マルハチ青山ビルB1・B2F",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 35.66872,
+   "longitude": 139.717163,
+   "offerings": [
+    {
+     "id": "off-r3518-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ〈香るエール〉",
+     "serving_type": "draft",
+     "price": 328,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（ミライザカ）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r3519",
+   "name": "ミライザカ 練馬店",
+   "address": "東京都練馬区豊玉北5-19-1 フジヤビル1・2F",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 35.736893,
+   "longitude": 139.653793,
+   "offerings": [
+    {
+     "id": "off-r3519-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ〈香るエール〉",
+     "serving_type": "draft",
+     "price": 328,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（ミライザカ）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r3520",
+   "name": "ミライザカ 駒込南口駅前店",
+   "address": "東京都豊島区駒込1-34-1 ヒルクレスト駒込2F",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 35.73632,
+   "longitude": 139.747589,
+   "offerings": [
+    {
+     "id": "off-r3520-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ〈香るエール〉",
+     "serving_type": "draft",
+     "price": 328,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（ミライザカ）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r3521",
+   "name": "ミライザカ 池袋西口ロマンス通り店",
+   "address": "東京都豊島区西池袋1-21-13 南蛮ビルB1・B2・B3F",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 35.731743,
+   "longitude": 139.709381,
+   "offerings": [
+    {
+     "id": "off-r3521-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ〈香るエール〉",
+     "serving_type": "draft",
+     "price": 328,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（ミライザカ）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r3522",
+   "name": "ミライザカ 板橋店",
+   "address": "東京都板橋区板橋1-55-16 板橋ビュークロッシング3F",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 35.746826,
+   "longitude": 139.720215,
+   "offerings": [
+    {
+     "id": "off-r3522-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ〈香るエール〉",
+     "serving_type": "draft",
+     "price": 328,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（ミライザカ）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r3523",
+   "name": "ミライザカ 銀座5丁目店",
+   "address": "東京都中央区銀座5-9-11 銀座ファゼンダビル2F",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 35.669769,
+   "longitude": 139.764984,
+   "offerings": [
+    {
+     "id": "off-r3523-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ〈香るエール〉",
+     "serving_type": "draft",
+     "price": 328,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（ミライザカ）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r3524",
+   "name": "ミライザカ 新橋銀座口ガード下店",
+   "address": "東京都港区新橋1-3-10 1F",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 35.668377,
+   "longitude": 139.758286,
+   "offerings": [
+    {
+     "id": "off-r3524-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ〈香るエール〉",
+     "serving_type": "draft",
+     "price": 328,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（ミライザカ）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r3525",
+   "name": "ミライザカ 西日暮里駅前店",
+   "address": "東京都荒川区西日暮里5-34-5 平松ビル2・3F",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 35.732746,
+   "longitude": 139.76741,
+   "offerings": [
+    {
+     "id": "off-r3525-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ〈香るエール〉",
+     "serving_type": "draft",
+     "price": 328,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（ミライザカ）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r3526",
+   "name": "ミライザカ 金町北口駅前店",
+   "address": "東京都葛飾区東金町1-43-1 常総金町ビル4F",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 35.770096,
+   "longitude": 139.870895,
+   "offerings": [
+    {
+     "id": "off-r3526-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ〈香るエール〉",
+     "serving_type": "draft",
+     "price": 328,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（ミライザカ）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r3527",
+   "name": "ミライザカ 北千住店",
+   "address": "東京都足立区千住3-74 第2白亜ビル3・4F",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 35.750767,
+   "longitude": 139.803574,
+   "offerings": [
+    {
+     "id": "off-r3527-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ〈香るエール〉",
+     "serving_type": "draft",
+     "price": 328,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（ミライザカ）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r3528",
+   "name": "ミライザカ 西新井西口駅前店",
+   "address": "東京都足立区西新井栄町2-2-3 牧野ビル",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 35.776241,
+   "longitude": 139.790375,
+   "offerings": [
+    {
+     "id": "off-r3528-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ〈香るエール〉",
+     "serving_type": "draft",
+     "price": 328,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（ミライザカ）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r3529",
+   "name": "ミライザカ 千歳烏山北口店",
+   "address": "東京都世田谷区南烏山4-12-4 ワールド物産ビル2階",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 35.668667,
+   "longitude": 139.601074,
+   "offerings": [
+    {
+     "id": "off-r3529-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ〈香るエール〉",
+     "serving_type": "draft",
+     "price": 328,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（ミライザカ）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r3530",
+   "name": "ミライザカ 府中並木通り店",
+   "address": "東京都府中市宮西町1-2 並木西ビル3F",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 35.672001,
+   "longitude": 139.478958,
+   "offerings": [
+    {
+     "id": "off-r3530-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ〈香るエール〉",
+     "serving_type": "draft",
+     "price": 328,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（ミライザカ）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r3531",
+   "name": "ミライザカ 高幡不動店",
+   "address": "東京都日野市高幡1008-9 グラシア高幡不動2F",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 35.661217,
+   "longitude": 139.413727,
+   "offerings": [
+    {
+     "id": "off-r3531-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ〈香るエール〉",
+     "serving_type": "draft",
+     "price": 328,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（ミライザカ）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r3532",
+   "name": "ミライザカ 吉祥寺南口店",
+   "address": "東京都武蔵野市吉祥寺南町1-1-3 イケダビルB1・1F",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 35.70277,
+   "longitude": 139.579086,
+   "offerings": [
+    {
+     "id": "off-r3532-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ〈香るエール〉",
+     "serving_type": "draft",
+     "price": 328,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（ミライザカ）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r3533",
+   "name": "ミライザカ 田無駅前店",
+   "address": "東京都西東京市田無町4-27-11 浜光ビル2・3F",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 35.728458,
+   "longitude": 139.539566,
+   "offerings": [
+    {
+     "id": "off-r3533-1",
+     "maker": "suntory",
+     "product_name": "ザ・プレミアム・モルツ〈香るエール〉",
+     "serving_type": "draft",
+     "price": 328,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（ミライザカ）",
      "verified_at": "2026-06-12",
      "source_type": "official",
      "corroboration_count": 1
