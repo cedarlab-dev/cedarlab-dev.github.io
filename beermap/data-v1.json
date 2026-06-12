@@ -1,7 +1,7 @@
 {
  "format_version": 1,
- "data_version": 12,
- "generated_at": "2026-06-12T11:48:10.404Z",
+ "data_version": 13,
+ "generated_at": "2026-06-12T11:51:00.771Z",
  "shops": [
   {
    "id": "shop-001",
@@ -111270,6 +111270,4836 @@
      "price": 638,
      "size": "中ジョッキ",
      "notes": "チェーン共通（牛角）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r4013",
+   "name": "しゃぶしゃぶ温野菜 三宿店",
+   "address": "東京都世田谷区池尻1-11-12パレ・ド・ジュネス1Ｆ",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 35.644487,
+   "longitude": 139.679626,
+   "offerings": [
+    {
+     "id": "off-r4013-1",
+     "maker": "asahi",
+     "product_name": "スーパードライ",
+     "serving_type": "draft",
+     "price": 638,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（しゃぶしゃぶ温野菜）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r4014",
+   "name": "しゃぶしゃぶ温野菜 二子玉川店",
+   "address": "東京都世田谷区玉川3-9-8和田ビルＢ1Ｆ",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 35.613182,
+   "longitude": 139.62591,
+   "offerings": [
+    {
+     "id": "off-r4014-1",
+     "maker": "asahi",
+     "product_name": "スーパードライ",
+     "serving_type": "draft",
+     "price": 638,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（しゃぶしゃぶ温野菜）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r4015",
+   "name": "しゃぶしゃぶ温野菜 狭山店",
+   "address": "埼玉県狭山市広瀬東2-27-6",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 35.860591,
+   "longitude": 139.400275,
+   "offerings": [
+    {
+     "id": "off-r4015-1",
+     "maker": "asahi",
+     "product_name": "スーパードライ",
+     "serving_type": "draft",
+     "price": 638,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（しゃぶしゃぶ温野菜）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r4016",
+   "name": "しゃぶしゃぶ温野菜 阿佐ヶ谷店",
+   "address": "東京都杉並区阿佐谷南2-15-2あ-1ビル7Ｆ",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 35.70441,
+   "longitude": 139.63686,
+   "offerings": [
+    {
+     "id": "off-r4016-1",
+     "maker": "asahi",
+     "product_name": "スーパードライ",
+     "serving_type": "draft",
+     "price": 638,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（しゃぶしゃぶ温野菜）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r4017",
+   "name": "しゃぶしゃぶ温野菜 東十条店",
+   "address": "東京都北区東十条4-4-17柏木ビル1Ｆ",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 35.766364,
+   "longitude": 139.727275,
+   "offerings": [
+    {
+     "id": "off-r4017-1",
+     "maker": "asahi",
+     "product_name": "スーパードライ",
+     "serving_type": "draft",
+     "price": 638,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（しゃぶしゃぶ温野菜）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r4018",
+   "name": "しゃぶしゃぶ温野菜 豊洲店",
+   "address": "東京都江東区豊洲3-3-9",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 35.655902,
+   "longitude": 139.79706,
+   "offerings": [
+    {
+     "id": "off-r4018-1",
+     "maker": "asahi",
+     "product_name": "スーパードライ",
+     "serving_type": "draft",
+     "price": 638,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（しゃぶしゃぶ温野菜）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r4019",
+   "name": "しゃぶしゃぶ温野菜 藤沢大庭店",
+   "address": "神奈川県藤沢市大庭5134",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 35.359383,
+   "longitude": 139.449448,
+   "offerings": [
+    {
+     "id": "off-r4019-1",
+     "maker": "asahi",
+     "product_name": "スーパードライ",
+     "serving_type": "draft",
+     "price": 638,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（しゃぶしゃぶ温野菜）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r4020",
+   "name": "しゃぶしゃぶ温野菜 馬込店",
+   "address": "東京都大田区中馬込2-8-1日経エスプラナ-ド2Ｆ",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 35.596894,
+   "longitude": 139.708525,
+   "offerings": [
+    {
+     "id": "off-r4020-1",
+     "maker": "asahi",
+     "product_name": "スーパードライ",
+     "serving_type": "draft",
+     "price": 638,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（しゃぶしゃぶ温野菜）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r4021",
+   "name": "しゃぶしゃぶ温野菜 心斎橋店",
+   "address": "大阪府大阪市中央区心斎橋筋1-3-29ミヤプラザ心斎橋3Ｆ",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 34.674215,
+   "longitude": 135.501916,
+   "offerings": [
+    {
+     "id": "off-r4021-1",
+     "maker": "asahi",
+     "product_name": "スーパードライ",
+     "serving_type": "draft",
+     "price": 638,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（しゃぶしゃぶ温野菜）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r4022",
+   "name": "しゃぶしゃぶ温野菜 新橋店",
+   "address": "東京都港区新橋2-14-6H・Ｔ新橋ビルＢ1Ｆ",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 35.666723,
+   "longitude": 139.755435,
+   "offerings": [
+    {
+     "id": "off-r4022-1",
+     "maker": "asahi",
+     "product_name": "スーパードライ",
+     "serving_type": "draft",
+     "price": 638,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（しゃぶしゃぶ温野菜）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r4023",
+   "name": "しゃぶしゃぶ温野菜 市川鬼高店",
+   "address": "千葉県市川市鬼高3-28-16市川ショッピングプラザ2F",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 35.709033,
+   "longitude": 139.936688,
+   "offerings": [
+    {
+     "id": "off-r4023-1",
+     "maker": "asahi",
+     "product_name": "スーパードライ",
+     "serving_type": "draft",
+     "price": 638,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（しゃぶしゃぶ温野菜）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r4024",
+   "name": "しゃぶしゃぶ温野菜 池袋サンシャイン通り店",
+   "address": "東京都豊島区東池袋1-21-13Aune池袋12Ｆ",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 35.730446,
+   "longitude": 139.715632,
+   "offerings": [
+    {
+     "id": "off-r4024-1",
+     "maker": "asahi",
+     "product_name": "スーパードライ",
+     "serving_type": "draft",
+     "price": 638,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（しゃぶしゃぶ温野菜）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r4025",
+   "name": "しゃぶしゃぶ温野菜 綾瀬店",
+   "address": "東京都足立区綾瀬3-2-8シティ-プレイス1Ｆ",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 35.762486,
+   "longitude": 139.824308,
+   "offerings": [
+    {
+     "id": "off-r4025-1",
+     "maker": "asahi",
+     "product_name": "スーパードライ",
+     "serving_type": "draft",
+     "price": 638,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（しゃぶしゃぶ温野菜）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r4026",
+   "name": "しゃぶしゃぶ温野菜 浅草店",
+   "address": "東京都台東区浅草1-32-11九十一ビル2Ｆ",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 35.712246,
+   "longitude": 139.797001,
+   "offerings": [
+    {
+     "id": "off-r4026-1",
+     "maker": "asahi",
+     "product_name": "スーパードライ",
+     "serving_type": "draft",
+     "price": 638,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（しゃぶしゃぶ温野菜）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r4027",
+   "name": "しゃぶしゃぶ温野菜 新高円寺店",
+   "address": "東京都杉並区高円寺南3-1-4キングスコ-ト2Ｆ",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 35.697955,
+   "longitude": 139.646929,
+   "offerings": [
+    {
+     "id": "off-r4027-1",
+     "maker": "asahi",
+     "product_name": "スーパードライ",
+     "serving_type": "draft",
+     "price": 638,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（しゃぶしゃぶ温野菜）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r4028",
+   "name": "しゃぶしゃぶ温野菜 入間藤沢店",
+   "address": "埼玉県入間市下藤沢1276-3",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 35.824173,
+   "longitude": 139.400146,
+   "offerings": [
+    {
+     "id": "off-r4028-1",
+     "maker": "asahi",
+     "product_name": "スーパードライ",
+     "serving_type": "draft",
+     "price": 638,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（しゃぶしゃぶ温野菜）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r4029",
+   "name": "しゃぶしゃぶ温野菜 千葉中央店",
+   "address": "千葉県千葉市中央区中央2-2-8秀和ビル6Ｆ",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 35.609632,
+   "longitude": 140.12125,
+   "offerings": [
+    {
+     "id": "off-r4029-1",
+     "maker": "asahi",
+     "product_name": "スーパードライ",
+     "serving_type": "draft",
+     "price": 638,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（しゃぶしゃぶ温野菜）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r4030",
+   "name": "しゃぶしゃぶ温野菜 経堂店",
+   "address": "東京都世田谷区経堂1-22-21和田ビル1Ｆ",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 35.650849,
+   "longitude": 139.636235,
+   "offerings": [
+    {
+     "id": "off-r4030-1",
+     "maker": "asahi",
+     "product_name": "スーパードライ",
+     "serving_type": "draft",
+     "price": 638,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（しゃぶしゃぶ温野菜）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r4031",
+   "name": "しゃぶしゃぶ温野菜 伊勢佐木モ-ル店",
+   "address": "神奈川県横浜市中区吉田町1-1",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 35.445505,
+   "longitude": 139.633515,
+   "offerings": [
+    {
+     "id": "off-r4031-1",
+     "maker": "asahi",
+     "product_name": "スーパードライ",
+     "serving_type": "draft",
+     "price": 638,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（しゃぶしゃぶ温野菜）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r4032",
+   "name": "しゃぶしゃぶ温野菜 中山店",
+   "address": "神奈川県横浜市緑区中山3-36-5",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 35.515343,
+   "longitude": 139.54298,
+   "offerings": [
+    {
+     "id": "off-r4032-1",
+     "maker": "asahi",
+     "product_name": "スーパードライ",
+     "serving_type": "draft",
+     "price": 638,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（しゃぶしゃぶ温野菜）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r4033",
+   "name": "しゃぶしゃぶ温野菜 八王子店",
+   "address": "東京都八王子市三崎町4-13八百富ビル 2Ｆ",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 35.657505,
+   "longitude": 139.337343,
+   "offerings": [
+    {
+     "id": "off-r4033-1",
+     "maker": "asahi",
+     "product_name": "スーパードライ",
+     "serving_type": "draft",
+     "price": 638,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（しゃぶしゃぶ温野菜）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r4034",
+   "name": "しゃぶしゃぶ温野菜 上野駅前店",
+   "address": "東京都台東区上野6-13-5カプセルエイトビル2Ｆ",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 35.710676,
+   "longitude": 139.77519,
+   "offerings": [
+    {
+     "id": "off-r4034-1",
+     "maker": "asahi",
+     "product_name": "スーパードライ",
+     "serving_type": "draft",
+     "price": 638,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（しゃぶしゃぶ温野菜）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r4035",
+   "name": "しゃぶしゃぶ温野菜 仙川店",
+   "address": "東京都調布市仙川町1-47-11パ-ル仙川2Ｆ",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 35.661685,
+   "longitude": 139.585591,
+   "offerings": [
+    {
+     "id": "off-r4035-1",
+     "maker": "asahi",
+     "product_name": "スーパードライ",
+     "serving_type": "draft",
+     "price": 638,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（しゃぶしゃぶ温野菜）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r4036",
+   "name": "しゃぶしゃぶ温野菜 六本木店",
+   "address": "東京都港区六本木7-13-6コンドウビル2・3Ｆ",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 35.664062,
+   "longitude": 139.730743,
+   "offerings": [
+    {
+     "id": "off-r4036-1",
+     "maker": "asahi",
+     "product_name": "スーパードライ",
+     "serving_type": "draft",
+     "price": 638,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（しゃぶしゃぶ温野菜）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r4037",
+   "name": "しゃぶしゃぶ温野菜 富里店",
+   "address": "千葉県富里市七栄525-195",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 35.747565,
+   "longitude": 140.312036,
+   "offerings": [
+    {
+     "id": "off-r4037-1",
+     "maker": "asahi",
+     "product_name": "スーパードライ",
+     "serving_type": "draft",
+     "price": 638,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（しゃぶしゃぶ温野菜）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r4038",
+   "name": "しゃぶしゃぶ温野菜 上本町店",
+   "address": "大阪府大阪市中央区東平2-5-7上六ビルＢ1Ｆ",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 34.66671,
+   "longitude": 135.517764,
+   "offerings": [
+    {
+     "id": "off-r4038-1",
+     "maker": "asahi",
+     "product_name": "スーパードライ",
+     "serving_type": "draft",
+     "price": 638,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（しゃぶしゃぶ温野菜）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r4039",
+   "name": "しゃぶしゃぶ温野菜 元住吉店",
+   "address": "神奈川県川崎市中原区木月1-36-12元住吉駅ビル2Ｆ",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 35.564601,
+   "longitude": 139.653713,
+   "offerings": [
+    {
+     "id": "off-r4039-1",
+     "maker": "asahi",
+     "product_name": "スーパードライ",
+     "serving_type": "draft",
+     "price": 638,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（しゃぶしゃぶ温野菜）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r4040",
+   "name": "しゃぶしゃぶ温野菜 大井町店",
+   "address": "東京都品川区大井1-11-3ＹＫ-6ビル4Ｆ",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 35.607532,
+   "longitude": 139.732397,
+   "offerings": [
+    {
+     "id": "off-r4040-1",
+     "maker": "asahi",
+     "product_name": "スーパードライ",
+     "serving_type": "draft",
+     "price": 638,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（しゃぶしゃぶ温野菜）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r4041",
+   "name": "しゃぶしゃぶ温野菜 八王子大和田店",
+   "address": "東京都八王子市大和田町5-31-242Ｆ",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 35.666382,
+   "longitude": 139.353588,
+   "offerings": [
+    {
+     "id": "off-r4041-1",
+     "maker": "asahi",
+     "product_name": "スーパードライ",
+     "serving_type": "draft",
+     "price": 638,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（しゃぶしゃぶ温野菜）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r4042",
+   "name": "しゃぶしゃぶ温野菜 調布店",
+   "address": "東京都調布市布田1-39-1いちご調布駅前ビルＢ1Ｆ",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 35.652606,
+   "longitude": 139.544288,
+   "offerings": [
+    {
+     "id": "off-r4042-1",
+     "maker": "asahi",
+     "product_name": "スーパードライ",
+     "serving_type": "draft",
+     "price": 638,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（しゃぶしゃぶ温野菜）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r4043",
+   "name": "しゃぶしゃぶ温野菜 五反田店別館",
+   "address": "東京都品川区西五反田1-5-2トラヤビル8Ｆ",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 35.625502,
+   "longitude": 139.723533,
+   "offerings": [
+    {
+     "id": "off-r4043-1",
+     "maker": "asahi",
+     "product_name": "スーパードライ",
+     "serving_type": "draft",
+     "price": 638,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（しゃぶしゃぶ温野菜）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r4044",
+   "name": "しゃぶしゃぶ温野菜 田町三田口店",
+   "address": "東京都港区芝5-31-24勝文館ビル7Ｆ",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 35.646722,
+   "longitude": 139.745695,
+   "offerings": [
+    {
+     "id": "off-r4044-1",
+     "maker": "asahi",
+     "product_name": "スーパードライ",
+     "serving_type": "draft",
+     "price": 638,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（しゃぶしゃぶ温野菜）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r4045",
+   "name": "しゃぶしゃぶ温野菜 桜新町店",
+   "address": "東京都世田谷区桜新町1-15-19リッキ-ビル1Ｆ",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 35.629985,
+   "longitude": 139.64384,
+   "offerings": [
+    {
+     "id": "off-r4045-1",
+     "maker": "asahi",
+     "product_name": "スーパードライ",
+     "serving_type": "draft",
+     "price": 638,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（しゃぶしゃぶ温野菜）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r4046",
+   "name": "しゃぶしゃぶ温野菜 高田馬場店",
+   "address": "東京都新宿区高田馬場3-1-6宝来ビル2F",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 35.714646,
+   "longitude": 139.703482,
+   "offerings": [
+    {
+     "id": "off-r4046-1",
+     "maker": "asahi",
+     "product_name": "スーパードライ",
+     "serving_type": "draft",
+     "price": 638,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（しゃぶしゃぶ温野菜）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r4047",
+   "name": "しゃぶしゃぶ温野菜 国分寺店",
+   "address": "東京都国分寺市本町3-6-2飯田ビル1Ｆ",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 35.701586,
+   "longitude": 139.479557,
+   "offerings": [
+    {
+     "id": "off-r4047-1",
+     "maker": "asahi",
+     "product_name": "スーパードライ",
+     "serving_type": "draft",
+     "price": 638,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（しゃぶしゃぶ温野菜）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r4048",
+   "name": "しゃぶしゃぶ温野菜 ときわ台店",
+   "address": "東京都板橋区常盤台2-6-3いづみ屋ビル2F",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 35.759446,
+   "longitude": 139.689651,
+   "offerings": [
+    {
+     "id": "off-r4048-1",
+     "maker": "asahi",
+     "product_name": "スーパードライ",
+     "serving_type": "draft",
+     "price": 638,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（しゃぶしゃぶ温野菜）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r4049",
+   "name": "しゃぶしゃぶ温野菜 とんかつかつ慶 草加店",
+   "address": "埼玉県草加市草加2-8-1トクホンプラザ内1Ｆ",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 35.833034,
+   "longitude": 139.799416,
+   "offerings": [
+    {
+     "id": "off-r4049-1",
+     "maker": "asahi",
+     "product_name": "スーパードライ",
+     "serving_type": "draft",
+     "price": 638,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（しゃぶしゃぶ温野菜）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r4050",
+   "name": "しゃぶしゃぶ温野菜 三宮店",
+   "address": "兵庫県神戸市中央区北長狭通1-10-6ム-ンライトビル 3Ｆ",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 34.693247,
+   "longitude": 135.191445,
+   "offerings": [
+    {
+     "id": "off-r4050-1",
+     "maker": "asahi",
+     "product_name": "スーパードライ",
+     "serving_type": "draft",
+     "price": 638,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（しゃぶしゃぶ温野菜）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r4051",
+   "name": "しゃぶしゃぶ温野菜 八潮店",
+   "address": "埼玉県八潮市大字大瀬710-1ＢｉＶｉ八潮2Ｆ",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 35.806811,
+   "longitude": 139.844933,
+   "offerings": [
+    {
+     "id": "off-r4051-1",
+     "maker": "asahi",
+     "product_name": "スーパードライ",
+     "serving_type": "draft",
+     "price": 638,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（しゃぶしゃぶ温野菜）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r4052",
+   "name": "しゃぶしゃぶ温野菜 梅田HEP通り店",
+   "address": "大阪府大阪市北区角田町6-3北大阪振興角田町ビル2Ｆ",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 34.70362,
+   "longitude": 135.500693,
+   "offerings": [
+    {
+     "id": "off-r4052-1",
+     "maker": "asahi",
+     "product_name": "スーパードライ",
+     "serving_type": "draft",
+     "price": 638,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（しゃぶしゃぶ温野菜）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r4053",
+   "name": "しゃぶしゃぶ温野菜 袖ヶ浦店",
+   "address": "千葉県袖ケ浦市蔵波台5-19-1",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 35.439055,
+   "longitude": 139.997484,
+   "offerings": [
+    {
+     "id": "off-r4053-1",
+     "maker": "asahi",
+     "product_name": "スーパードライ",
+     "serving_type": "draft",
+     "price": 638,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（しゃぶしゃぶ温野菜）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r4054",
+   "name": "しゃぶしゃぶ温野菜 青葉台店",
+   "address": "神奈川県横浜市青葉区青葉台2-6-4ユ-タカラヤ青葉台ビル2Ｆ",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 35.543183,
+   "longitude": 139.514943,
+   "offerings": [
+    {
+     "id": "off-r4054-1",
+     "maker": "asahi",
+     "product_name": "スーパードライ",
+     "serving_type": "draft",
+     "price": 638,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（しゃぶしゃぶ温野菜）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r4055",
+   "name": "しゃぶしゃぶ温野菜 川越西口店",
+   "address": "埼玉県川越市脇田本町1-9ＴＲＮ川越西口2F",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 35.906353,
+   "longitude": 139.482816,
+   "offerings": [
+    {
+     "id": "off-r4055-1",
+     "maker": "asahi",
+     "product_name": "スーパードライ",
+     "serving_type": "draft",
+     "price": 638,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（しゃぶしゃぶ温野菜）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r4056",
+   "name": "しゃぶしゃぶ温野菜 銀座5丁目店",
+   "address": "東京都中央区銀座5-9-12ダイヤモンドビルＢ2Ｆ",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 35.669914,
+   "longitude": 139.765009,
+   "offerings": [
+    {
+     "id": "off-r4056-1",
+     "maker": "asahi",
+     "product_name": "スーパードライ",
+     "serving_type": "draft",
+     "price": 638,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（しゃぶしゃぶ温野菜）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r4057",
+   "name": "しゃぶしゃぶ温野菜 中目黒店",
+   "address": "東京都目黒区上目黒2-12-11ＦＤビル2Ｆ",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 35.642638,
+   "longitude": 139.698443,
+   "offerings": [
+    {
+     "id": "off-r4057-1",
+     "maker": "asahi",
+     "product_name": "スーパードライ",
+     "serving_type": "draft",
+     "price": 638,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（しゃぶしゃぶ温野菜）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r4058",
+   "name": "しゃぶしゃぶ温野菜 東浦和店",
+   "address": "埼玉県さいたま市緑区大間木436-1",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 35.874878,
+   "longitude": 139.69691,
+   "offerings": [
+    {
+     "id": "off-r4058-1",
+     "maker": "asahi",
+     "product_name": "スーパードライ",
+     "serving_type": "draft",
+     "price": 638,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（しゃぶしゃぶ温野菜）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r4059",
+   "name": "しゃぶしゃぶ温野菜 新宿店",
+   "address": "東京都新宿区新宿3-20-8ＷａＭａｌｌ6Ｆ",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 35.692862,
+   "longitude": 139.703038,
+   "offerings": [
+    {
+     "id": "off-r4059-1",
+     "maker": "asahi",
+     "product_name": "スーパードライ",
+     "serving_type": "draft",
+     "price": 638,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（しゃぶしゃぶ温野菜）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r4060",
+   "name": "しゃぶしゃぶ温野菜 田無店",
+   "address": "東京都西東京市田無町4-28-14田無第2マ-ブルビル2Ｆ",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 35.728973,
+   "longitude": 139.539655,
+   "offerings": [
+    {
+     "id": "off-r4060-1",
+     "maker": "asahi",
+     "product_name": "スーパードライ",
+     "serving_type": "draft",
+     "price": 638,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（しゃぶしゃぶ温野菜）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r4061",
+   "name": "しゃぶしゃぶ温野菜 亀有店",
+   "address": "東京都葛飾区亀有3-32-8亀有3丁目ビル2Ｆ",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 35.766032,
+   "longitude": 139.849396,
+   "offerings": [
+    {
+     "id": "off-r4061-1",
+     "maker": "asahi",
+     "product_name": "スーパードライ",
+     "serving_type": "draft",
+     "price": 638,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（しゃぶしゃぶ温野菜）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r4062",
+   "name": "しゃぶしゃぶ温野菜 大浦街道店",
+   "address": "和歌山県和歌山市砂山南４丁目２-５７４-１",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 34.215054,
+   "longitude": 135.15979,
+   "offerings": [
+    {
+     "id": "off-r4062-1",
+     "maker": "asahi",
+     "product_name": "スーパードライ",
+     "serving_type": "draft",
+     "price": 638,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（しゃぶしゃぶ温野菜）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r4063",
+   "name": "しゃぶしゃぶ温野菜 大森店",
+   "address": "東京都品川区南大井6-17-12WARM LIGHT BLD. B1F",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 35.589653,
+   "longitude": 139.729598,
+   "offerings": [
+    {
+     "id": "off-r4063-1",
+     "maker": "asahi",
+     "product_name": "スーパードライ",
+     "serving_type": "draft",
+     "price": 638,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（しゃぶしゃぶ温野菜）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r4064",
+   "name": "しゃぶしゃぶ温野菜 西葛西店",
+   "address": "東京都江戸川区西葛西5-1-1第20山秀ビル2Ｆ",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 35.665306,
+   "longitude": 139.859131,
+   "offerings": [
+    {
+     "id": "off-r4064-1",
+     "maker": "asahi",
+     "product_name": "スーパードライ",
+     "serving_type": "draft",
+     "price": 638,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（しゃぶしゃぶ温野菜）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r4065",
+   "name": "しゃぶしゃぶ温野菜 松戸北小金ボウル店",
+   "address": "千葉県松戸市根木内249-7北小金ボウル1Ｆ",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 35.8306,
+   "longitude": 139.938772,
+   "offerings": [
+    {
+     "id": "off-r4065-1",
+     "maker": "asahi",
+     "product_name": "スーパードライ",
+     "serving_type": "draft",
+     "price": 638,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（しゃぶしゃぶ温野菜）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r4066",
+   "name": "しゃぶしゃぶ温野菜 稲毛山王店",
+   "address": "千葉県千葉市稲毛区山王町307-1",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 35.659733,
+   "longitude": 140.138622,
+   "offerings": [
+    {
+     "id": "off-r4066-1",
+     "maker": "asahi",
+     "product_name": "スーパードライ",
+     "serving_type": "draft",
+     "price": 638,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（しゃぶしゃぶ温野菜）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r4067",
+   "name": "しゃぶしゃぶ温野菜 本八幡店",
+   "address": "千葉県市川市八幡2-15-10パティオ6Ｆ",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 35.721448,
+   "longitude": 139.927552,
+   "offerings": [
+    {
+     "id": "off-r4067-1",
+     "maker": "asahi",
+     "product_name": "スーパードライ",
+     "serving_type": "draft",
+     "price": 638,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（しゃぶしゃぶ温野菜）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r4068",
+   "name": "しゃぶしゃぶ温野菜 とんかつかつ慶 秋田仁井田店",
+   "address": "秋田県秋田市仁井田本町4-15-16",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 39.677539,
+   "longitude": 140.127375,
+   "offerings": [
+    {
+     "id": "off-r4068-1",
+     "maker": "asahi",
+     "product_name": "スーパードライ",
+     "serving_type": "draft",
+     "price": 638,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（しゃぶしゃぶ温野菜）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r4069",
+   "name": "しゃぶしゃぶ温野菜 センタ-北店",
+   "address": "神奈川県横浜市都筑区中川中央1-1-3ショッピングタウンあいたい3階",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 35.553411,
+   "longitude": 139.577954,
+   "offerings": [
+    {
+     "id": "off-r4069-1",
+     "maker": "asahi",
+     "product_name": "スーパードライ",
+     "serving_type": "draft",
+     "price": 638,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（しゃぶしゃぶ温野菜）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r4070",
+   "name": "しゃぶしゃぶ温野菜 北千住店",
+   "address": "東京都足立区千住2-61ビックリヤビル2Ｆ",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 35.749808,
+   "longitude": 139.804136,
+   "offerings": [
+    {
+     "id": "off-r4070-1",
+     "maker": "asahi",
+     "product_name": "スーパードライ",
+     "serving_type": "draft",
+     "price": 638,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（しゃぶしゃぶ温野菜）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r4071",
+   "name": "しゃぶしゃぶ温野菜 佐久平店",
+   "address": "長野県佐久市岩村田1452-9",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 36.272666,
+   "longitude": 138.465317,
+   "offerings": [
+    {
+     "id": "off-r4071-1",
+     "maker": "asahi",
+     "product_name": "スーパードライ",
+     "serving_type": "draft",
+     "price": 638,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（しゃぶしゃぶ温野菜）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r4072",
+   "name": "しゃぶしゃぶ温野菜 上野広小路店",
+   "address": "東京都台東区上野2-1-9Ｋ-ＰＬＡＺＡビル2Ｆ",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 35.708241,
+   "longitude": 139.772763,
+   "offerings": [
+    {
+     "id": "off-r4072-1",
+     "maker": "asahi",
+     "product_name": "スーパードライ",
+     "serving_type": "draft",
+     "price": 638,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（しゃぶしゃぶ温野菜）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r4073",
+   "name": "しゃぶしゃぶ温野菜 池袋西武口店",
+   "address": "東京都豊島区南池袋1-23-1富士ビル4F",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 35.728828,
+   "longitude": 139.712536,
+   "offerings": [
+    {
+     "id": "off-r4073-1",
+     "maker": "asahi",
+     "product_name": "スーパードライ",
+     "serving_type": "draft",
+     "price": 638,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（しゃぶしゃぶ温野菜）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r4074",
+   "name": "しゃぶしゃぶ温野菜 亀戸店",
+   "address": "東京都江東区亀戸5-6-21ＵＩＷ9ＢＬＤＧ1Ｆ 102号室",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 35.698314,
+   "longitude": 139.827656,
+   "offerings": [
+    {
+     "id": "off-r4074-1",
+     "maker": "asahi",
+     "product_name": "スーパードライ",
+     "serving_type": "draft",
+     "price": 638,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（しゃぶしゃぶ温野菜）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r4075",
+   "name": "しゃぶしゃぶ温野菜 門前仲町店",
+   "address": "東京都江東区門前仲町2-3-8常陸屋ビル2Ｆ",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 35.671818,
+   "longitude": 139.795679,
+   "offerings": [
+    {
+     "id": "off-r4075-1",
+     "maker": "asahi",
+     "product_name": "スーパードライ",
+     "serving_type": "draft",
+     "price": 638,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（しゃぶしゃぶ温野菜）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r4076",
+   "name": "しゃぶしゃぶ温野菜 宮野木店",
+   "address": "千葉県千葉市稲毛区園生町237-7",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 35.650949,
+   "longitude": 140.101592,
+   "offerings": [
+    {
+     "id": "off-r4076-1",
+     "maker": "asahi",
+     "product_name": "スーパードライ",
+     "serving_type": "draft",
+     "price": 638,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（しゃぶしゃぶ温野菜）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r4077",
+   "name": "しゃぶしゃぶ温野菜 つくば松代店",
+   "address": "茨城県つくば市松代1-7-9",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 36.07191,
+   "longitude": 140.093502,
+   "offerings": [
+    {
+     "id": "off-r4077-1",
+     "maker": "asahi",
+     "product_name": "スーパードライ",
+     "serving_type": "draft",
+     "price": 638,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（しゃぶしゃぶ温野菜）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r4078",
+   "name": "しゃぶしゃぶ温野菜 池袋西口公園前店",
+   "address": "東京都豊島区西池袋1-13-5シ-ガルハウス6F",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 35.729929,
+   "longitude": 139.709531,
+   "offerings": [
+    {
+     "id": "off-r4078-1",
+     "maker": "asahi",
+     "product_name": "スーパードライ",
+     "serving_type": "draft",
+     "price": 638,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（しゃぶしゃぶ温野菜）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r4079",
+   "name": "しゃぶしゃぶ温野菜 宇都宮泉が丘店",
+   "address": "栃木県宇都宮市泉が丘5-8-7",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 36.570274,
+   "longitude": 139.917517,
+   "offerings": [
+    {
+     "id": "off-r4079-1",
+     "maker": "asahi",
+     "product_name": "スーパードライ",
+     "serving_type": "draft",
+     "price": 638,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（しゃぶしゃぶ温野菜）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r4080",
+   "name": "しゃぶしゃぶ温野菜 辻堂店",
+   "address": "神奈川県藤沢市辻堂神台1-2-12Ｌｕｚ湘南辻堂6Ｆ",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 35.338319,
+   "longitude": 139.447934,
+   "offerings": [
+    {
+     "id": "off-r4080-1",
+     "maker": "asahi",
+     "product_name": "スーパードライ",
+     "serving_type": "draft",
+     "price": 638,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（しゃぶしゃぶ温野菜）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r4081",
+   "name": "しゃぶしゃぶ温野菜 那珂店",
+   "address": "茨城県那珂市菅谷1591-1",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 36.429707,
+   "longitude": 140.514868,
+   "offerings": [
+    {
+     "id": "off-r4081-1",
+     "maker": "asahi",
+     "product_name": "スーパードライ",
+     "serving_type": "draft",
+     "price": 638,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（しゃぶしゃぶ温野菜）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r4082",
+   "name": "しゃぶしゃぶ温野菜 プレナ幕張店",
+   "address": "千葉県千葉市美浜区ひび野2-4プレナ幕張4Ｆ",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 35.647765,
+   "longitude": 140.040398,
+   "offerings": [
+    {
+     "id": "off-r4082-1",
+     "maker": "asahi",
+     "product_name": "スーパードライ",
+     "serving_type": "draft",
+     "price": 638,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（しゃぶしゃぶ温野菜）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r4083",
+   "name": "しゃぶしゃぶ温野菜 白石店",
+   "address": "北海道札幌市白石区南郷通一丁目北5-1海洋ビル1Ｆ",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 43.045773,
+   "longitude": 141.398415,
+   "offerings": [
+    {
+     "id": "off-r4083-1",
+     "maker": "asahi",
+     "product_name": "スーパードライ",
+     "serving_type": "draft",
+     "price": 638,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（しゃぶしゃぶ温野菜）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r4084",
+   "name": "しゃぶしゃぶ温野菜 青森中央インタ-店",
+   "address": "青森県青森市第二問屋町2-3-5",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 40.794536,
+   "longitude": 140.760284,
+   "offerings": [
+    {
+     "id": "off-r4084-1",
+     "maker": "asahi",
+     "product_name": "スーパードライ",
+     "serving_type": "draft",
+     "price": 638,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（しゃぶしゃぶ温野菜）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r4085",
+   "name": "しゃぶしゃぶ温野菜 伊那店",
+   "address": "長野県伊那市荒井3500-1いなっせ1F",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 35.839727,
+   "longitude": 137.958577,
+   "offerings": [
+    {
+     "id": "off-r4085-1",
+     "maker": "asahi",
+     "product_name": "スーパードライ",
+     "serving_type": "draft",
+     "price": 638,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（しゃぶしゃぶ温野菜）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r4086",
+   "name": "【6月12日リニュ-アルオ-プン】しゃぶしゃぶ温野菜 水戸河和田店",
+   "address": "茨城県水戸市河和田町3841-1",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 36.361855,
+   "longitude": 140.414146,
+   "offerings": [
+    {
+     "id": "off-r4086-1",
+     "maker": "asahi",
+     "product_name": "スーパードライ",
+     "serving_type": "draft",
+     "price": 638,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（しゃぶしゃぶ温野菜）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r4087",
+   "name": "しゃぶしゃぶ温野菜 横須賀モア-ズシティ店",
+   "address": "神奈川県横須賀市若松町2-30横須賀モア-ズシティ9F",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 35.278044,
+   "longitude": 139.670534,
+   "offerings": [
+    {
+     "id": "off-r4087-1",
+     "maker": "asahi",
+     "product_name": "スーパードライ",
+     "serving_type": "draft",
+     "price": 638,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（しゃぶしゃぶ温野菜）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r4088",
+   "name": "しゃぶしゃぶ温野菜 大宮西口店",
+   "address": "埼玉県さいたま市大宮区桜木町1-1-10ＯＺ ＳＡＫＵＲＡ 5Ｆ",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 35.90552,
+   "longitude": 139.621782,
+   "offerings": [
+    {
+     "id": "off-r4088-1",
+     "maker": "asahi",
+     "product_name": "スーパードライ",
+     "serving_type": "draft",
+     "price": 638,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（しゃぶしゃぶ温野菜）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r4089",
+   "name": "しゃぶしゃぶ温野菜 新小岩店",
+   "address": "東京都葛飾区新小岩1-44-2クッタ-ナ新小岩8Ｆ",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 35.716555,
+   "longitude": 139.857961,
+   "offerings": [
+    {
+     "id": "off-r4089-1",
+     "maker": "asahi",
+     "product_name": "スーパードライ",
+     "serving_type": "draft",
+     "price": 638,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（しゃぶしゃぶ温野菜）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r4090",
+   "name": "しゃぶしゃぶ温野菜 魚津店",
+   "address": "富山県魚津市吉島258-1",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 36.825829,
+   "longitude": 137.418925,
+   "offerings": [
+    {
+     "id": "off-r4090-1",
+     "maker": "asahi",
+     "product_name": "スーパードライ",
+     "serving_type": "draft",
+     "price": 638,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（しゃぶしゃぶ温野菜）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r4091",
+   "name": "しゃぶしゃぶ温野菜 金沢駅ビル店",
+   "address": "石川県金沢市木ノ新保町１丁目７ 金沢百番街あんと西 ３Ｆ",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 36.578654,
+   "longitude": 136.647718,
+   "offerings": [
+    {
+     "id": "off-r4091-1",
+     "maker": "asahi",
+     "product_name": "スーパードライ",
+     "serving_type": "draft",
+     "price": 638,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（しゃぶしゃぶ温野菜）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r4092",
+   "name": "しゃぶしゃぶ温野菜 宇都宮インタ-パ-ク店",
+   "address": "栃木県宇都宮市ｲﾝﾀ-ﾊﾟ-ｸ5-2-1",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 36.488079,
+   "longitude": 139.904575,
+   "offerings": [
+    {
+     "id": "off-r4092-1",
+     "maker": "asahi",
+     "product_name": "スーパードライ",
+     "serving_type": "draft",
+     "price": 638,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（しゃぶしゃぶ温野菜）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r4093",
+   "name": "しゃぶしゃぶ温野菜 仙台一番町店",
+   "address": "宮城県仙台市青葉区一番町4-2-4オ-シャンビル4Ｆ",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 38.262832,
+   "longitude": 140.871797,
+   "offerings": [
+    {
+     "id": "off-r4093-1",
+     "maker": "asahi",
+     "product_name": "スーパードライ",
+     "serving_type": "draft",
+     "price": 638,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（しゃぶしゃぶ温野菜）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r4094",
+   "name": "しゃぶしゃぶ温野菜 京都河原町蛸薬師店",
+   "address": "京都府京都市中京区河原町通蛸薬師下ﾙ塩屋町324古城ビル地下1Ｆ",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 35.00581,
+   "longitude": 135.769499,
+   "offerings": [
+    {
+     "id": "off-r4094-1",
+     "maker": "asahi",
+     "product_name": "スーパードライ",
+     "serving_type": "draft",
+     "price": 638,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（しゃぶしゃぶ温野菜）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r4095",
+   "name": "【6月1日リニュ-アルオ-プン】しゃぶしゃぶ温野菜 LABI千里中央店",
+   "address": "大阪府豊中市新千里東町1-2-20ヤマダ電機ＬＡＢＩ千里中央店4Ｆ",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 34.812003,
+   "longitude": 135.494998,
+   "offerings": [
+    {
+     "id": "off-r4095-1",
+     "maker": "asahi",
+     "product_name": "スーパードライ",
+     "serving_type": "draft",
+     "price": 638,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（しゃぶしゃぶ温野菜）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r4096",
+   "name": "しゃぶしゃぶ温野菜 錦糸町北口店",
+   "address": "東京都墨田区錦糸3-4-4サガラビル2Ｆ",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 35.698145,
+   "longitude": 139.814449,
+   "offerings": [
+    {
+     "id": "off-r4096-1",
+     "maker": "asahi",
+     "product_name": "スーパードライ",
+     "serving_type": "draft",
+     "price": 638,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（しゃぶしゃぶ温野菜）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r4097",
+   "name": "しゃぶしゃぶ温野菜 目黒店",
+   "address": "東京都品川区上大崎2-16-5ＭＳＳビル2Ｆ",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 35.634681,
+   "longitude": 139.715964,
+   "offerings": [
+    {
+     "id": "off-r4097-1",
+     "maker": "asahi",
+     "product_name": "スーパードライ",
+     "serving_type": "draft",
+     "price": 638,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（しゃぶしゃぶ温野菜）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r4098",
+   "name": "しゃぶしゃぶ温野菜 松本平田店",
+   "address": "長野県松本市平田東2-9-4",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 36.196023,
+   "longitude": 137.966689,
+   "offerings": [
+    {
+     "id": "off-r4098-1",
+     "maker": "asahi",
+     "product_name": "スーパードライ",
+     "serving_type": "draft",
+     "price": 638,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（しゃぶしゃぶ温野菜）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r4099",
+   "name": "しゃぶしゃぶ温野菜 新宿西口店",
+   "address": "東京都新宿区西新宿1-15-2第5オムニクスビル2Ｆ",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 35.689146,
+   "longitude": 139.69735,
+   "offerings": [
+    {
+     "id": "off-r4099-1",
+     "maker": "asahi",
+     "product_name": "スーパードライ",
+     "serving_type": "draft",
+     "price": 638,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（しゃぶしゃぶ温野菜）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r4100",
+   "name": "しゃぶしゃぶ温野菜 京急川崎駅前店",
+   "address": "神奈川県川崎市川崎区駅前本町10-5クリエ川崎ビル2Ｆ",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 35.531953,
+   "longitude": 139.699432,
+   "offerings": [
+    {
+     "id": "off-r4100-1",
+     "maker": "asahi",
+     "product_name": "スーパードライ",
+     "serving_type": "draft",
+     "price": 638,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（しゃぶしゃぶ温野菜）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r4101",
+   "name": "しゃぶしゃぶ温野菜 赤羽店",
+   "address": "東京都北区赤羽1-21-3メゾン・ド・ジュエルＢ1Ｆ",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 35.780289,
+   "longitude": 139.720614,
+   "offerings": [
+    {
+     "id": "off-r4101-1",
+     "maker": "asahi",
+     "product_name": "スーパードライ",
+     "serving_type": "draft",
+     "price": 638,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（しゃぶしゃぶ温野菜）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r4102",
+   "name": "しゃぶしゃぶ温野菜 春日井店",
+   "address": "愛知県春日井市南下原町4-8-5",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 35.270185,
+   "longitude": 136.972795,
+   "offerings": [
+    {
+     "id": "off-r4102-1",
+     "maker": "asahi",
+     "product_name": "スーパードライ",
+     "serving_type": "draft",
+     "price": 638,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（しゃぶしゃぶ温野菜）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r4103",
+   "name": "しゃぶしゃぶ温野菜 池上店",
+   "address": "東京都大田区池上7-7-11メゾンプルミエ-ル1Ｆ",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 35.571861,
+   "longitude": 139.701747,
+   "offerings": [
+    {
+     "id": "off-r4103-1",
+     "maker": "asahi",
+     "product_name": "スーパードライ",
+     "serving_type": "draft",
+     "price": 638,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（しゃぶしゃぶ温野菜）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r4104",
+   "name": "しゃぶしゃぶ温野菜 恵比寿店",
+   "address": "東京都渋谷区恵比寿西1-8-3クオリア恵比寿ウエストB1F",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 35.64756,
+   "longitude": 139.708373,
+   "offerings": [
+    {
+     "id": "off-r4104-1",
+     "maker": "asahi",
+     "product_name": "スーパードライ",
+     "serving_type": "draft",
+     "price": 638,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（しゃぶしゃぶ温野菜）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r4105",
+   "name": "しゃぶしゃぶ温野菜 秋葉原昭和通り口店",
+   "address": "東京都千代田区神田佐久間町1-15川初ビル3階",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 35.697739,
+   "longitude": 139.774502,
+   "offerings": [
+    {
+     "id": "off-r4105-1",
+     "maker": "asahi",
+     "product_name": "スーパードライ",
+     "serving_type": "draft",
+     "price": 638,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（しゃぶしゃぶ温野菜）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r4106",
+   "name": "しゃぶしゃぶ温野菜 荻窪店",
+   "address": "東京都杉並区上荻1-13-10共栄ビルＢ1Ｆ",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 35.70514,
+   "longitude": 139.618102,
+   "offerings": [
+    {
+     "id": "off-r4106-1",
+     "maker": "asahi",
+     "product_name": "スーパードライ",
+     "serving_type": "draft",
+     "price": 638,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（しゃぶしゃぶ温野菜）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r4107",
+   "name": "しゃぶしゃぶ温野菜 新百合ヶ丘店",
+   "address": "神奈川県川崎市麻生区万福寺1-1-2シティモ-ル3Ｆ",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 35.603569,
+   "longitude": 139.506286,
+   "offerings": [
+    {
+     "id": "off-r4107-1",
+     "maker": "asahi",
+     "product_name": "スーパードライ",
+     "serving_type": "draft",
+     "price": 638,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（しゃぶしゃぶ温野菜）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r4108",
+   "name": "しゃぶしゃぶ温野菜 泡瀬ベイストリ-ト店",
+   "address": "沖縄県沖縄市泡瀬4-12-5",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 26.319165,
+   "longitude": 127.831329,
+   "offerings": [
+    {
+     "id": "off-r4108-1",
+     "maker": "asahi",
+     "product_name": "スーパードライ",
+     "serving_type": "draft",
+     "price": 638,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（しゃぶしゃぶ温野菜）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r4109",
+   "name": "しゃぶしゃぶ温野菜 木更津店",
+   "address": "千葉県木更津市請西南4-2-6",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 35.357469,
+   "longitude": 139.941206,
+   "offerings": [
+    {
+     "id": "off-r4109-1",
+     "maker": "asahi",
+     "product_name": "スーパードライ",
+     "serving_type": "draft",
+     "price": 638,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（しゃぶしゃぶ温野菜）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r4110",
+   "name": "しゃぶしゃぶ温野菜 渋谷1st店",
+   "address": "東京都渋谷区神南1-22-9サンクスビルＢ2Ｆ",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 35.661308,
+   "longitude": 139.701045,
+   "offerings": [
+    {
+     "id": "off-r4110-1",
+     "maker": "asahi",
+     "product_name": "スーパードライ",
+     "serving_type": "draft",
+     "price": 638,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（しゃぶしゃぶ温野菜）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r4111",
+   "name": "しゃぶしゃぶ温野菜 岡崎柱店",
+   "address": "愛知県岡崎市柱曙1-11-3",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 34.924209,
+   "longitude": 137.166309,
+   "offerings": [
+    {
+     "id": "off-r4111-1",
+     "maker": "asahi",
+     "product_name": "スーパードライ",
+     "serving_type": "draft",
+     "price": 638,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（しゃぶしゃぶ温野菜）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r4112",
+   "name": "しゃぶしゃぶ温野菜 八戸店",
+   "address": "青森県八戸市沼館4-1-23",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 40.526921,
+   "longitude": 141.4928,
+   "offerings": [
+    {
+     "id": "off-r4112-1",
+     "maker": "asahi",
+     "product_name": "スーパードライ",
+     "serving_type": "draft",
+     "price": 638,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（しゃぶしゃぶ温野菜）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r4113",
+   "name": "しゃぶしゃぶ温野菜 松江上乃木店",
+   "address": "島根県松江市上乃木4-32-19",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 35.44321,
+   "longitude": 133.059686,
+   "offerings": [
+    {
+     "id": "off-r4113-1",
+     "maker": "asahi",
+     "product_name": "スーパードライ",
+     "serving_type": "draft",
+     "price": 638,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（しゃぶしゃぶ温野菜）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r4114",
+   "name": "しゃぶしゃぶ温野菜 名古屋北店",
+   "address": "愛知県西春日井郡豊山町大字豊場字八反17168",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 35.240742,
+   "longitude": 136.90806,
+   "offerings": [
+    {
+     "id": "off-r4114-1",
+     "maker": "asahi",
+     "product_name": "スーパードライ",
+     "serving_type": "draft",
+     "price": 638,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（しゃぶしゃぶ温野菜）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r4115",
+   "name": "しゃぶしゃぶ温野菜 八丁堀店",
+   "address": "東京都中央区八丁堀4-10-2八丁堀ビル1Ｆ",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 35.674442,
+   "longitude": 139.778,
+   "offerings": [
+    {
+     "id": "off-r4115-1",
+     "maker": "asahi",
+     "product_name": "スーパードライ",
+     "serving_type": "draft",
+     "price": 638,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（しゃぶしゃぶ温野菜）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r4116",
+   "name": "しゃぶしゃぶ温野菜 今池駅前店",
+   "address": "愛知県名古屋市千種区今池1-9-19",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 35.168608,
+   "longitude": 136.936126,
+   "offerings": [
+    {
+     "id": "off-r4116-1",
+     "maker": "asahi",
+     "product_name": "スーパードライ",
+     "serving_type": "draft",
+     "price": 638,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（しゃぶしゃぶ温野菜）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r4117",
+   "name": "しゃぶしゃぶ温野菜 飯田橋店",
+   "address": "東京都千代田区飯田橋4-7-8第3山商ビルｉタワ-2Ｆ",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 35.700954,
+   "longitude": 139.74622,
+   "offerings": [
+    {
+     "id": "off-r4117-1",
+     "maker": "asahi",
+     "product_name": "スーパードライ",
+     "serving_type": "draft",
+     "price": 638,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（しゃぶしゃぶ温野菜）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r4118",
+   "name": "しゃぶしゃぶ温野菜 岡山駅前店",
+   "address": "岡山県岡山市北区錦町6-17アウルスタイル錦町2 3Ｆ",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 34.662858,
+   "longitude": 133.919896,
+   "offerings": [
+    {
+     "id": "off-r4118-1",
+     "maker": "asahi",
+     "product_name": "スーパードライ",
+     "serving_type": "draft",
+     "price": 638,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（しゃぶしゃぶ温野菜）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r4119",
+   "name": "しゃぶしゃぶ温野菜 呉店",
+   "address": "広島県呉市中通2-5-7-201I・Dビル2F",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 34.244512,
+   "longitude": 132.564669,
+   "offerings": [
+    {
+     "id": "off-r4119-1",
+     "maker": "asahi",
+     "product_name": "スーパードライ",
+     "serving_type": "draft",
+     "price": 638,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（しゃぶしゃぶ温野菜）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r4120",
+   "name": "しゃぶしゃぶ温野菜 防府店",
+   "address": "山口県防府市栄町2-3-48",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 34.056848,
+   "longitude": 131.572081,
+   "offerings": [
+    {
+     "id": "off-r4120-1",
+     "maker": "asahi",
+     "product_name": "スーパードライ",
+     "serving_type": "draft",
+     "price": 638,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（しゃぶしゃぶ温野菜）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r4121",
+   "name": "しゃぶしゃぶ温野菜 石和店",
+   "address": "山梨県笛吹市石和町四日市場1751",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 35.644066,
+   "longitude": 138.626009,
+   "offerings": [
+    {
+     "id": "off-r4121-1",
+     "maker": "asahi",
+     "product_name": "スーパードライ",
+     "serving_type": "draft",
+     "price": 638,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（しゃぶしゃぶ温野菜）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r4122",
+   "name": "【6月18日リニュ-アルオ-プン】しゃぶしゃぶ温野菜 鶴ヶ島店",
+   "address": "埼玉県鶴ケ島市脚折町4-15-18",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 35.944433,
+   "longitude": 139.391365,
+   "offerings": [
+    {
+     "id": "off-r4122-1",
+     "maker": "asahi",
+     "product_name": "スーパードライ",
+     "serving_type": "draft",
+     "price": 638,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（しゃぶしゃぶ温野菜）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r4123",
+   "name": "しゃぶしゃぶ温野菜 高松レインボ-通り店",
+   "address": "香川県高松市松縄町1003-7レインボ-タウン2Ｆ",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 34.320648,
+   "longitude": 134.062566,
+   "offerings": [
+    {
+     "id": "off-r4123-1",
+     "maker": "asahi",
+     "product_name": "スーパードライ",
+     "serving_type": "draft",
+     "price": 638,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（しゃぶしゃぶ温野菜）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r4124",
+   "name": "しゃぶしゃぶ温野菜 岐阜茜部店",
+   "address": "岐阜県岐阜市茜部菱野1-7",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 35.388,
+   "longitude": 136.753759,
+   "offerings": [
+    {
+     "id": "off-r4124-1",
+     "maker": "asahi",
+     "product_name": "スーパードライ",
+     "serving_type": "draft",
+     "price": 638,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（しゃぶしゃぶ温野菜）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r4125",
+   "name": "しゃぶしゃぶ温野菜 総社井手店",
+   "address": "岡山県総社市井手1059-2",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 34.676818,
+   "longitude": 133.764177,
+   "offerings": [
+    {
+     "id": "off-r4125-1",
+     "maker": "asahi",
+     "product_name": "スーパードライ",
+     "serving_type": "draft",
+     "price": 638,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（しゃぶしゃぶ温野菜）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r4126",
+   "name": "しゃぶしゃぶ温野菜 三条鴨川店",
+   "address": "京都府京都市東山区大橋町115尚美ビル3Ｆ",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 35.009423,
+   "longitude": 135.772857,
+   "offerings": [
+    {
+     "id": "off-r4126-1",
+     "maker": "asahi",
+     "product_name": "スーパードライ",
+     "serving_type": "draft",
+     "price": 638,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（しゃぶしゃぶ温野菜）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r4127",
+   "name": "しゃぶしゃぶ温野菜 敦賀店",
+   "address": "福井県敦賀市若葉町1-1555",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 35.634656,
+   "longitude": 136.049192,
+   "offerings": [
+    {
+     "id": "off-r4127-1",
+     "maker": "asahi",
+     "product_name": "スーパードライ",
+     "serving_type": "draft",
+     "price": 638,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（しゃぶしゃぶ温野菜）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r4128",
+   "name": "しゃぶしゃぶ温野菜 岡山今店",
+   "address": "岡山県岡山市北区辰巳2-105",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 34.640638,
+   "longitude": 133.891067,
+   "offerings": [
+    {
+     "id": "off-r4128-1",
+     "maker": "asahi",
+     "product_name": "スーパードライ",
+     "serving_type": "draft",
+     "price": 638,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（しゃぶしゃぶ温野菜）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r4129",
+   "name": "しゃぶしゃぶ温野菜 盛岡南店",
+   "address": "岩手県盛岡市向中野5-28-8",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 39.677003,
+   "longitude": 141.142522,
+   "offerings": [
+    {
+     "id": "off-r4129-1",
+     "maker": "asahi",
+     "product_name": "スーパードライ",
+     "serving_type": "draft",
+     "price": 638,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（しゃぶしゃぶ温野菜）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r4130",
+   "name": "しゃぶしゃぶ温野菜 八熊通店",
+   "address": "愛知県名古屋市中川区富川町5-1-1",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 35.141031,
+   "longitude": 136.87736,
+   "offerings": [
+    {
+     "id": "off-r4130-1",
+     "maker": "asahi",
+     "product_name": "スーパードライ",
+     "serving_type": "draft",
+     "price": 638,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（しゃぶしゃぶ温野菜）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r4131",
+   "name": "しゃぶしゃぶ温野菜 倉敷北畝店",
+   "address": "岡山県倉敷市北畝6-11-35",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 34.541331,
+   "longitude": 133.752148,
+   "offerings": [
+    {
+     "id": "off-r4131-1",
+     "maker": "asahi",
+     "product_name": "スーパードライ",
+     "serving_type": "draft",
+     "price": 638,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（しゃぶしゃぶ温野菜）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r4132",
+   "name": "しゃぶしゃぶ温野菜 新宿東口駅前店",
+   "address": "東京都新宿区新宿3-36-15新宿内野ビル3Ｆ",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 35.690274,
+   "longitude": 139.702005,
+   "offerings": [
+    {
+     "id": "off-r4132-1",
+     "maker": "asahi",
+     "product_name": "スーパードライ",
+     "serving_type": "draft",
+     "price": 638,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（しゃぶしゃぶ温野菜）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r4133",
+   "name": "しゃぶしゃぶ温野菜 二口店",
+   "address": "富山県富山市二口町5-10-2-2",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 36.668919,
+   "longitude": 137.202063,
+   "offerings": [
+    {
+     "id": "off-r4133-1",
+     "maker": "asahi",
+     "product_name": "スーパードライ",
+     "serving_type": "draft",
+     "price": 638,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（しゃぶしゃぶ温野菜）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r4134",
+   "name": "しゃぶしゃぶ温野菜 那覇天久店",
+   "address": "沖縄県那覇市天久2-28-9ＲＹＵ’Ｓビル2Ｆ",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 26.234585,
+   "longitude": 127.689388,
+   "offerings": [
+    {
+     "id": "off-r4134-1",
+     "maker": "asahi",
+     "product_name": "スーパードライ",
+     "serving_type": "draft",
+     "price": 638,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（しゃぶしゃぶ温野菜）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r4135",
+   "name": "しゃぶしゃぶ温野菜 奈良葛城店",
+   "address": "奈良県葛城市東室155-1",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 34.495919,
+   "longitude": 135.733779,
+   "offerings": [
+    {
+     "id": "off-r4135-1",
+     "maker": "asahi",
+     "product_name": "スーパードライ",
+     "serving_type": "draft",
+     "price": 638,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（しゃぶしゃぶ温野菜）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r4136",
+   "name": "しゃぶしゃぶ温野菜 尾張旭店",
+   "address": "愛知県尾張旭市南本地ｹ原町2-120",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 35.196271,
+   "longitude": 137.032824,
+   "offerings": [
+    {
+     "id": "off-r4136-1",
+     "maker": "asahi",
+     "product_name": "スーパードライ",
+     "serving_type": "draft",
+     "price": 638,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（しゃぶしゃぶ温野菜）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r4137",
+   "name": "しゃぶしゃぶ温野菜 津山店",
+   "address": "岡山県津山市林田155-2",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 35.073199,
+   "longitude": 134.016786,
+   "offerings": [
+    {
+     "id": "off-r4137-1",
+     "maker": "asahi",
+     "product_name": "スーパードライ",
+     "serving_type": "draft",
+     "price": 638,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（しゃぶしゃぶ温野菜）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r4138",
+   "name": "しゃぶしゃぶ温野菜 八幡東田店",
+   "address": "福岡県北九州市八幡東区東田1-7-7ＨＯＴＥＬ ＡＺ 1Ｆ",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 33.87096,
+   "longitude": 130.794107,
+   "offerings": [
+    {
+     "id": "off-r4138-1",
+     "maker": "asahi",
+     "product_name": "スーパードライ",
+     "serving_type": "draft",
+     "price": 638,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（しゃぶしゃぶ温野菜）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r4139",
+   "name": "しゃぶしゃぶ温野菜 長崎花丘店",
+   "address": "長崎県長崎市花丘町20-3",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 32.791387,
+   "longitude": 129.865525,
+   "offerings": [
+    {
+     "id": "off-r4139-1",
+     "maker": "asahi",
+     "product_name": "スーパードライ",
+     "serving_type": "draft",
+     "price": 638,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（しゃぶしゃぶ温野菜）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r4140",
+   "name": "しゃぶしゃぶ温野菜 長崎思案橋店",
+   "address": "長崎県長崎市鍛冶屋町1-13",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 32.743797,
+   "longitude": 129.880489,
+   "offerings": [
+    {
+     "id": "off-r4140-1",
+     "maker": "asahi",
+     "product_name": "スーパードライ",
+     "serving_type": "draft",
+     "price": 638,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（しゃぶしゃぶ温野菜）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r4141",
+   "name": "しゃぶしゃぶ温野菜 福岡和白店",
+   "address": "福岡県福岡市東区和白丘2-3-1HOTEL AZ敷地内",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 33.691585,
+   "longitude": 130.432287,
+   "offerings": [
+    {
+     "id": "off-r4141-1",
+     "maker": "asahi",
+     "product_name": "スーパードライ",
+     "serving_type": "draft",
+     "price": 638,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（しゃぶしゃぶ温野菜）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r4142",
+   "name": "しゃぶしゃぶ温野菜 松山新空港通り店",
+   "address": "愛媛県松山市南江戸4-3-22",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 33.837228,
+   "longitude": 132.739756,
+   "offerings": [
+    {
+     "id": "off-r4142-1",
+     "maker": "asahi",
+     "product_name": "スーパードライ",
+     "serving_type": "draft",
+     "price": 638,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（しゃぶしゃぶ温野菜）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r4143",
+   "name": "しゃぶしゃぶ温野菜 田富リバ-サイド店",
+   "address": "山梨県中巨摩郡昭和町河西1233-3",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 35.615271,
+   "longitude": 138.518327,
+   "offerings": [
+    {
+     "id": "off-r4143-1",
+     "maker": "asahi",
+     "product_name": "スーパードライ",
+     "serving_type": "draft",
+     "price": 638,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（しゃぶしゃぶ温野菜）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r4144",
+   "name": "しゃぶしゃぶ温野菜 大分津久見店",
+   "address": "大分県津久見市中央町760-120HOTEL AZ 1F",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 35.388245,
+   "longitude": 136.75378,
+   "offerings": [
+    {
+     "id": "off-r4144-1",
+     "maker": "asahi",
+     "product_name": "スーパードライ",
+     "serving_type": "draft",
+     "price": 638,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（しゃぶしゃぶ温野菜）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r4145",
+   "name": "しゃぶしゃぶ温野菜 大分安心院店",
+   "address": "大分県宇佐市安心院町下毛1046-1ＨＯＴＥＬＡＺ大分安心院店1Ｆ",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 33.444705,
+   "longitude": 131.348226,
+   "offerings": [
+    {
+     "id": "off-r4145-1",
+     "maker": "asahi",
+     "product_name": "スーパードライ",
+     "serving_type": "draft",
+     "price": 638,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（しゃぶしゃぶ温野菜）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r4146",
+   "name": "しゃぶしゃぶ温野菜 那覇小禄店",
+   "address": "沖縄県那覇市鏡原町10-11",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 26.201136,
+   "longitude": 127.677777,
+   "offerings": [
+    {
+     "id": "off-r4146-1",
+     "maker": "asahi",
+     "product_name": "スーパードライ",
+     "serving_type": "draft",
+     "price": 638,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（しゃぶしゃぶ温野菜）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r4147",
+   "name": "しゃぶしゃぶ温野菜 中津口店",
+   "address": "福岡県北九州市小倉北区中津口2-2-16",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 33.877237,
+   "longitude": 130.887084,
+   "offerings": [
+    {
+     "id": "off-r4147-1",
+     "maker": "asahi",
+     "product_name": "スーパードライ",
+     "serving_type": "draft",
+     "price": 638,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（しゃぶしゃぶ温野菜）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r4148",
+   "name": "しゃぶしゃぶ温野菜 いわき泉店",
+   "address": "福島県いわき市泉滝尻3-19-28",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 36.952328,
+   "longitude": 140.864074,
+   "offerings": [
+    {
+     "id": "off-r4148-1",
+     "maker": "asahi",
+     "product_name": "スーパードライ",
+     "serving_type": "draft",
+     "price": 638,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（しゃぶしゃぶ温野菜）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r4149",
+   "name": "しゃぶしゃぶ温野菜 東刈谷店",
+   "address": "愛知県刈谷市末広町1-20-10",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 34.97443,
+   "longitude": 137.044492,
+   "offerings": [
+    {
+     "id": "off-r4149-1",
+     "maker": "asahi",
+     "product_name": "スーパードライ",
+     "serving_type": "draft",
+     "price": 638,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（しゃぶしゃぶ温野菜）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r4150",
+   "name": "しゃぶしゃぶ温野菜 宇部厚南店",
+   "address": "山口県宇部市大字妻崎開作845-1",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 33.977393,
+   "longitude": 131.2105,
+   "offerings": [
+    {
+     "id": "off-r4150-1",
+     "maker": "asahi",
+     "product_name": "スーパードライ",
+     "serving_type": "draft",
+     "price": 638,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（しゃぶしゃぶ温野菜）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r4151",
+   "name": "しゃぶしゃぶ温野菜 天神西通り店",
+   "address": "福岡県福岡市中央区天神2-6-23ワイ・エス・ケイ・天神3・4Ｆ",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 33.58936,
+   "longitude": 130.396344,
+   "offerings": [
+    {
+     "id": "off-r4151-1",
+     "maker": "asahi",
+     "product_name": "スーパードライ",
+     "serving_type": "draft",
+     "price": 638,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（しゃぶしゃぶ温野菜）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r4152",
+   "name": "しゃぶしゃぶ温野菜 宜野湾店",
+   "address": "沖縄県宜野湾市愛知1-5-3",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 26.269472,
+   "longitude": 127.768372,
+   "offerings": [
+    {
+     "id": "off-r4152-1",
+     "maker": "asahi",
+     "product_name": "スーパードライ",
+     "serving_type": "draft",
+     "price": 638,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（しゃぶしゃぶ温野菜）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r4153",
+   "name": "しゃぶしゃぶ温野菜 一宮店",
+   "address": "愛知県一宮市東島町1-5-3",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 35.317081,
+   "longitude": 136.812226,
+   "offerings": [
+    {
+     "id": "off-r4153-1",
+     "maker": "asahi",
+     "product_name": "スーパードライ",
+     "serving_type": "draft",
+     "price": 638,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（しゃぶしゃぶ温野菜）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r4154",
+   "name": "しゃぶしゃぶ温野菜 下松店",
+   "address": "山口県下松市望町1-8-10",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 34.027885,
+   "longitude": 131.861998,
+   "offerings": [
+    {
+     "id": "off-r4154-1",
+     "maker": "asahi",
+     "product_name": "スーパードライ",
+     "serving_type": "draft",
+     "price": 638,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（しゃぶしゃぶ温野菜）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r4155",
+   "name": "しゃぶしゃぶ温野菜 倉吉店",
+   "address": "鳥取県倉吉市清谷町2-67",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 35.473914,
+   "longitude": 133.847264,
+   "offerings": [
+    {
+     "id": "off-r4155-1",
+     "maker": "asahi",
+     "product_name": "スーパードライ",
+     "serving_type": "draft",
+     "price": 638,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（しゃぶしゃぶ温野菜）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r4156",
+   "name": "しゃぶしゃぶ温野菜 北谷店",
+   "address": "沖縄県中頭郡北谷町伊平14-238 ２Ｆ",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 26.320367,
+   "longitude": 127.759854,
+   "offerings": [
+    {
+     "id": "off-r4156-1",
+     "maker": "asahi",
+     "product_name": "スーパードライ",
+     "serving_type": "draft",
+     "price": 638,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（しゃぶしゃぶ温野菜）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r4157",
+   "name": "しゃぶしゃぶ温野菜 倉敷平田店",
+   "address": "岡山県倉敷市平田281-1",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 34.617133,
+   "longitude": 133.778336,
+   "offerings": [
+    {
+     "id": "off-r4157-1",
+     "maker": "asahi",
+     "product_name": "スーパードライ",
+     "serving_type": "draft",
+     "price": 638,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（しゃぶしゃぶ温野菜）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r4158",
+   "name": "しゃぶしゃぶ温野菜 今治店",
+   "address": "愛媛県今治市衣干町2-2-31",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 34.049426,
+   "longitude": 133.017715,
+   "offerings": [
+    {
+     "id": "off-r4158-1",
+     "maker": "asahi",
+     "product_name": "スーパードライ",
+     "serving_type": "draft",
+     "price": 638,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（しゃぶしゃぶ温野菜）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r4159",
+   "name": "しゃぶしゃぶ温野菜 岡山平井店",
+   "address": "岡山県岡山市中区平井7-18-869-1",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 34.634393,
+   "longitude": 133.950146,
+   "offerings": [
+    {
+     "id": "off-r4159-1",
+     "maker": "asahi",
+     "product_name": "スーパードライ",
+     "serving_type": "draft",
+     "price": 638,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（しゃぶしゃぶ温野菜）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r4160",
+   "name": "しゃぶしゃぶ温野菜 宇和島店",
+   "address": "愛媛県宇和島市伊吹町甲1522-2",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 33.237136,
+   "longitude": 132.567332,
+   "offerings": [
+    {
+     "id": "off-r4160-1",
+     "maker": "asahi",
+     "product_name": "スーパードライ",
+     "serving_type": "draft",
+     "price": 638,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（しゃぶしゃぶ温野菜）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r4161",
+   "name": "しゃぶしゃぶ温野菜 松阪店",
+   "address": "三重県松阪市川井町834-18",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 34.581012,
+   "longitude": 136.519873,
+   "offerings": [
+    {
+     "id": "off-r4161-1",
+     "maker": "asahi",
+     "product_name": "スーパードライ",
+     "serving_type": "draft",
+     "price": 638,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（しゃぶしゃぶ温野菜）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r4162",
+   "name": "しゃぶしゃぶ温野菜 ザ・フォレストモ-ル名護店",
+   "address": "沖縄県名護市名護4513ザ・フォレストモ-ル名護",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 26.608171,
+   "longitude": 127.990615,
+   "offerings": [
+    {
+     "id": "off-r4162-1",
+     "maker": "asahi",
+     "product_name": "スーパードライ",
+     "serving_type": "draft",
+     "price": 638,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（しゃぶしゃぶ温野菜）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r4163",
+   "name": "しゃぶしゃぶ温野菜 西条店",
+   "address": "広島県東広島市西条御条町1-22",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 34.425292,
+   "longitude": 132.745701,
+   "offerings": [
+    {
+     "id": "off-r4163-1",
+     "maker": "asahi",
+     "product_name": "スーパードライ",
+     "serving_type": "draft",
+     "price": 638,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（しゃぶしゃぶ温野菜）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r4164",
+   "name": "しゃぶしゃぶ温野菜 熊本健軍店",
+   "address": "熊本県熊本市東区花立5-9-13",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 32.788286,
+   "longitude": 130.772504,
+   "offerings": [
+    {
+     "id": "off-r4164-1",
+     "maker": "asahi",
+     "product_name": "スーパードライ",
+     "serving_type": "draft",
+     "price": 638,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（しゃぶしゃぶ温野菜）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r4165",
+   "name": "しゃぶしゃぶ温野菜 高知鴨部店",
+   "address": "高知県高知市鴨部高町5-31",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 33.55232,
+   "longitude": 133.495181,
+   "offerings": [
+    {
+     "id": "off-r4165-1",
+     "maker": "asahi",
+     "product_name": "スーパードライ",
+     "serving_type": "draft",
+     "price": 638,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（しゃぶしゃぶ温野菜）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r4166",
+   "name": "しゃぶしゃぶ温野菜 観音寺店",
+   "address": "香川県観音寺市吉岡町932-1",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 34.132469,
+   "longitude": 133.686815,
+   "offerings": [
+    {
+     "id": "off-r4166-1",
+     "maker": "asahi",
+     "product_name": "スーパードライ",
+     "serving_type": "draft",
+     "price": 638,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（しゃぶしゃぶ温野菜）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r4167",
+   "name": "しゃぶしゃぶ温野菜 八幡穴生店",
+   "address": "福岡県北九州市八幡西区鷹の巣1-8-24",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 33.857143,
+   "longitude": 130.746281,
+   "offerings": [
+    {
+     "id": "off-r4167-1",
+     "maker": "asahi",
+     "product_name": "スーパードライ",
+     "serving_type": "draft",
+     "price": 638,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（しゃぶしゃぶ温野菜）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r4168",
+   "name": "しゃぶしゃぶ温野菜 丸亀田村店",
+   "address": "香川県丸亀市田村町1267",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 34.269642,
+   "longitude": 133.792135,
+   "offerings": [
+    {
+     "id": "off-r4168-1",
+     "maker": "asahi",
+     "product_name": "スーパードライ",
+     "serving_type": "draft",
+     "price": 638,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（しゃぶしゃぶ温野菜）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r4169",
+   "name": "しゃぶしゃぶ温野菜 米子店",
+   "address": "鳥取県米子市久米町146",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 35.425808,
+   "longitude": 133.327706,
+   "offerings": [
+    {
+     "id": "off-r4169-1",
+     "maker": "asahi",
+     "product_name": "スーパードライ",
+     "serving_type": "draft",
+     "price": 638,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（しゃぶしゃぶ温野菜）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r4170",
+   "name": "しゃぶしゃぶ温野菜 松山小坂店",
+   "address": "愛媛県松山市小坂4-9-4",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 33.828281,
+   "longitude": 132.782354,
+   "offerings": [
+    {
+     "id": "off-r4170-1",
+     "maker": "asahi",
+     "product_name": "スーパードライ",
+     "serving_type": "draft",
+     "price": 638,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（しゃぶしゃぶ温野菜）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r4171",
+   "name": "しゃぶしゃぶ温野菜 豊崎店",
+   "address": "沖縄県豊見城市字与根南浜崎原513-4",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 26.160922,
+   "longitude": 127.662988,
+   "offerings": [
+    {
+     "id": "off-r4171-1",
+     "maker": "asahi",
+     "product_name": "スーパードライ",
+     "serving_type": "draft",
+     "price": 638,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（しゃぶしゃぶ温野菜）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r4172",
+   "name": "しゃぶしゃぶ温野菜 二又瀬店",
+   "address": "福岡県福岡市東区二又瀬15-16",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 33.60749,
+   "longitude": 130.442129,
+   "offerings": [
+    {
+     "id": "off-r4172-1",
+     "maker": "asahi",
+     "product_name": "スーパードライ",
+     "serving_type": "draft",
+     "price": 638,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（しゃぶしゃぶ温野菜）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r4173",
+   "name": "しゃぶしゃぶ温野菜 神辺店",
+   "address": "広島県福山市神辺町新道上2-10-26フジグラン神辺内",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 34.545479,
+   "longitude": 133.357064,
+   "offerings": [
+    {
+     "id": "off-r4173-1",
+     "maker": "asahi",
+     "product_name": "スーパードライ",
+     "serving_type": "draft",
+     "price": 638,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（しゃぶしゃぶ温野菜）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r4174",
+   "name": "しゃぶしゃぶ温野菜 豊田下市場店",
+   "address": "愛知県豊田市前田町5-6-3",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 35.062916,
+   "longitude": 137.15986,
+   "offerings": [
+    {
+     "id": "off-r4174-1",
+     "maker": "asahi",
+     "product_name": "スーパードライ",
+     "serving_type": "draft",
+     "price": 638,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（しゃぶしゃぶ温野菜）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r4175",
+   "name": "しゃぶしゃぶ温野菜 小倉西港店",
+   "address": "福岡県北九州市小倉北区西港町30-7HOTEL AZ敷地内",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 33.898465,
+   "longitude": 130.855417,
+   "offerings": [
+    {
+     "id": "off-r4175-1",
+     "maker": "asahi",
+     "product_name": "スーパードライ",
+     "serving_type": "draft",
+     "price": 638,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（しゃぶしゃぶ温野菜）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r4176",
+   "name": "しゃぶしゃぶ温野菜 浦添ピ-ズスクエア店",
+   "address": "沖縄県浦添市西原2-4-1",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 26.256802,
+   "longitude": 127.740191,
+   "offerings": [
+    {
+     "id": "off-r4176-1",
+     "maker": "asahi",
+     "product_name": "スーパードライ",
+     "serving_type": "draft",
+     "price": 638,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（しゃぶしゃぶ温野菜）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r4177",
+   "name": "しゃぶしゃぶ温野菜 宗像王丸店",
+   "address": "福岡県宗像市王丸503-1",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 33.784323,
+   "longitude": 130.547654,
+   "offerings": [
+    {
+     "id": "off-r4177-1",
+     "maker": "asahi",
+     "product_name": "スーパードライ",
+     "serving_type": "draft",
+     "price": 638,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（しゃぶしゃぶ温野菜）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r4178",
+   "name": "しゃぶしゃぶ温野菜 熊本大津店",
+   "address": "熊本県菊池郡大津町引水810-1ＨＯＴＥＬ ＡＺ 1Ｆ",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 32.879935,
+   "longitude": 130.893449,
+   "offerings": [
+    {
+     "id": "off-r4178-1",
+     "maker": "asahi",
+     "product_name": "スーパードライ",
+     "serving_type": "draft",
+     "price": 638,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（しゃぶしゃぶ温野菜）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r4179",
+   "name": "しゃぶしゃぶ温野菜 浜松有玉店",
+   "address": "静岡県浜松市中央区有玉北町760-1",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 34.76661,
+   "longitude": 137.756615,
+   "offerings": [
+    {
+     "id": "off-r4179-1",
+     "maker": "asahi",
+     "product_name": "スーパードライ",
+     "serving_type": "draft",
+     "price": 638,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（しゃぶしゃぶ温野菜）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r4180",
+   "name": "しゃぶしゃぶ温野菜 多賀城店",
+   "address": "宮城県多賀城市八幡1-2-35アクロスプラザＢ棟",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 38.284262,
+   "longitude": 140.99371,
+   "offerings": [
+    {
+     "id": "off-r4180-1",
+     "maker": "asahi",
+     "product_name": "スーパードライ",
+     "serving_type": "draft",
+     "price": 638,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（しゃぶしゃぶ温野菜）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r4181",
+   "name": "しゃぶしゃぶ温野菜 秋田本荘店",
+   "address": "秋田県由利本荘市表尾崎町20-21",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 39.386821,
+   "longitude": 140.049427,
+   "offerings": [
+    {
+     "id": "off-r4181-1",
+     "maker": "asahi",
+     "product_name": "スーパードライ",
+     "serving_type": "draft",
+     "price": 638,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（しゃぶしゃぶ温野菜）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r4182",
+   "name": "しゃぶしゃぶ温野菜 飯塚店",
+   "address": "福岡県飯塚市枝国680-2",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 33.636125,
+   "longitude": 130.675752,
+   "offerings": [
+    {
+     "id": "off-r4182-1",
+     "maker": "asahi",
+     "product_name": "スーパードライ",
+     "serving_type": "draft",
+     "price": 638,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（しゃぶしゃぶ温野菜）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r4183",
+   "name": "しゃぶしゃぶ温野菜 福岡金の隈店",
+   "address": "福岡県福岡市博多区金の隈3-14-25HOTEL AZ 1F",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 33.552988,
+   "longitude": 130.478102,
+   "offerings": [
+    {
+     "id": "off-r4183-1",
+     "maker": "asahi",
+     "product_name": "スーパードライ",
+     "serving_type": "draft",
+     "price": 638,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（しゃぶしゃぶ温野菜）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r4184",
+   "name": "しゃぶしゃぶ温野菜 岡山福浜店",
+   "address": "岡山県岡山市南区福成3-5-14",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 34.613137,
+   "longitude": 133.939204,
+   "offerings": [
+    {
+     "id": "off-r4184-1",
+     "maker": "asahi",
+     "product_name": "スーパードライ",
+     "serving_type": "draft",
+     "price": 638,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（しゃぶしゃぶ温野菜）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r4185",
+   "name": "しゃぶしゃぶ温野菜 豊橋藤沢店",
+   "address": "愛知県豊橋市神ﾉ輪町60",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 34.742249,
+   "longitude": 137.368061,
+   "offerings": [
+    {
+     "id": "off-r4185-1",
+     "maker": "asahi",
+     "product_name": "スーパードライ",
+     "serving_type": "draft",
+     "price": 638,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（しゃぶしゃぶ温野菜）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r4186",
+   "name": "しゃぶしゃぶ温野菜 鈴鹿中央通店",
+   "address": "三重県鈴鹿市西條町字東澤430-1セントレイクタウン内",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 34.875405,
+   "longitude": 136.571164,
+   "offerings": [
+    {
+     "id": "off-r4186-1",
+     "maker": "asahi",
+     "product_name": "スーパードライ",
+     "serving_type": "draft",
+     "price": 638,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（しゃぶしゃぶ温野菜）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r4187",
+   "name": "しゃぶしゃぶ温野菜 パルティフジ坂店",
+   "address": "広島県安芸郡坂町平成ｹ浜3-2-11",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 34.340187,
+   "longitude": 132.509406,
+   "offerings": [
+    {
+     "id": "off-r4187-1",
+     "maker": "asahi",
+     "product_name": "スーパードライ",
+     "serving_type": "draft",
+     "price": 638,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（しゃぶしゃぶ温野菜）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r4188",
+   "name": "しゃぶしゃぶ温野菜 名古屋栄店",
+   "address": "愛知県名古屋市中区錦3-17-15ドン・キホ-テ名古屋栄店6Ｆ",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 35.170215,
+   "longitude": 136.906409,
+   "offerings": [
+    {
+     "id": "off-r4188-1",
+     "maker": "asahi",
+     "product_name": "スーパードライ",
+     "serving_type": "draft",
+     "price": 638,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（しゃぶしゃぶ温野菜）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r4189",
+   "name": "しゃぶしゃぶ温野菜 四日市市立病院前店",
+   "address": "三重県四日市市久保田1-4-32",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 34.973718,
+   "longitude": 136.609405,
+   "offerings": [
+    {
+     "id": "off-r4189-1",
+     "maker": "asahi",
+     "product_name": "スーパードライ",
+     "serving_type": "draft",
+     "price": 638,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（しゃぶしゃぶ温野菜）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r4190",
+   "name": "しゃぶしゃぶ温野菜 福岡橋本店",
+   "address": "福岡県福岡市西区橋本1-8-19",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 33.559152,
+   "longitude": 130.319864,
+   "offerings": [
+    {
+     "id": "off-r4190-1",
+     "maker": "asahi",
+     "product_name": "スーパードライ",
+     "serving_type": "draft",
+     "price": 638,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（しゃぶしゃぶ温野菜）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r4191",
+   "name": "しゃぶしゃぶ温野菜 大分高城店",
+   "address": "大分県大分市萩原3-20-33",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 33.242575,
+   "longitude": 131.645572,
+   "offerings": [
+    {
+     "id": "off-r4191-1",
+     "maker": "asahi",
+     "product_name": "スーパードライ",
+     "serving_type": "draft",
+     "price": 638,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（しゃぶしゃぶ温野菜）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r4192",
+   "name": "しゃぶしゃぶ温野菜 イオンモ-ル桑名店",
+   "address": "三重県桑名市新西方1-4-1",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 35.074409,
+   "longitude": 136.66198,
+   "offerings": [
+    {
+     "id": "off-r4192-1",
+     "maker": "asahi",
+     "product_name": "スーパードライ",
+     "serving_type": "draft",
+     "price": 638,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（しゃぶしゃぶ温野菜）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r4193",
+   "name": "しゃぶしゃぶ温野菜 金山駅前店",
+   "address": "愛知県名古屋市熱田区波寄町23-15",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 35.14259,
+   "longitude": 136.903524,
+   "offerings": [
+    {
+     "id": "off-r4193-1",
+     "maker": "asahi",
+     "product_name": "スーパードライ",
+     "serving_type": "draft",
+     "price": 638,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（しゃぶしゃぶ温野菜）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r4194",
+   "name": "しゃぶしゃぶ温野菜 久留米上津バイパス店",
+   "address": "福岡県久留米市野伏間1-7-26",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 33.285837,
+   "longitude": 130.511081,
+   "offerings": [
+    {
+     "id": "off-r4194-1",
+     "maker": "asahi",
+     "product_name": "スーパードライ",
+     "serving_type": "draft",
+     "price": 638,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（しゃぶしゃぶ温野菜）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r4195",
+   "name": "しゃぶしゃぶ温野菜 瑞江店",
+   "address": "東京都江戸川区瑞江2-1-9キ-ストンビル1Ｆ",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 35.693185,
+   "longitude": 139.896855,
+   "offerings": [
+    {
+     "id": "off-r4195-1",
+     "maker": "asahi",
+     "product_name": "スーパードライ",
+     "serving_type": "draft",
+     "price": 638,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（しゃぶしゃぶ温野菜）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r4196",
+   "name": "しゃぶしゃぶ温野菜 千葉ニュ-タウン店",
+   "address": "千葉県印西市中央南1-1-2-2",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 35.799881,
+   "longitude": 140.118051,
+   "offerings": [
+    {
+     "id": "off-r4196-1",
+     "maker": "asahi",
+     "product_name": "スーパードライ",
+     "serving_type": "draft",
+     "price": 638,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（しゃぶしゃぶ温野菜）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r4197",
+   "name": "しゃぶしゃぶ温野菜 新居浜店",
+   "address": "愛媛県新居浜市新須賀町2-10-7フジグラン新居浜 別棟",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 33.967643,
+   "longitude": 133.283551,
+   "offerings": [
+    {
+     "id": "off-r4197-1",
+     "maker": "asahi",
+     "product_name": "スーパードライ",
+     "serving_type": "draft",
+     "price": 638,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（しゃぶしゃぶ温野菜）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r4198",
+   "name": "しゃぶしゃぶ温野菜 すすきの南4条店",
+   "address": "北海道札幌市中央区南四条西3-3-1第1Gビル2Ｆ",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 43.055133,
+   "longitude": 141.353787,
+   "offerings": [
+    {
+     "id": "off-r4198-1",
+     "maker": "asahi",
+     "product_name": "スーパードライ",
+     "serving_type": "draft",
+     "price": 638,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（しゃぶしゃぶ温野菜）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r4199",
+   "name": "しゃぶしゃぶ温野菜 札幌駅前店",
+   "address": "北海道札幌市中央区北四条西5-1-4大樹生命札幌共同ビル1F",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 43.065667,
+   "longitude": 141.348908,
+   "offerings": [
+    {
+     "id": "off-r4199-1",
+     "maker": "asahi",
+     "product_name": "スーパードライ",
+     "serving_type": "draft",
+     "price": 638,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（しゃぶしゃぶ温野菜）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r4200",
+   "name": "しゃぶしゃぶ温野菜 北24条店",
+   "address": "北海道札幌市北区北二十三条西4-2-39北２４条スガイビル２Ｆ",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 43.090003,
+   "longitude": 141.344249,
+   "offerings": [
+    {
+     "id": "off-r4200-1",
+     "maker": "asahi",
+     "product_name": "スーパードライ",
+     "serving_type": "draft",
+     "price": 638,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（しゃぶしゃぶ温野菜）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r4201",
+   "name": "しゃぶしゃぶ温野菜 とんかつかつ慶 長束店",
+   "address": "広島県広島市安佐南区長束2-1-18",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 34.431511,
+   "longitude": 132.46227,
+   "offerings": [
+    {
+     "id": "off-r4201-1",
+     "maker": "asahi",
+     "product_name": "スーパードライ",
+     "serving_type": "draft",
+     "price": 638,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（しゃぶしゃぶ温野菜）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r4202",
+   "name": "しゃぶしゃぶ温野菜 柏店",
+   "address": "千葉県柏市柏1-5-20プ-ル・ドゥビル4Ｆ",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 35.860947,
+   "longitude": 139.972751,
+   "offerings": [
+    {
+     "id": "off-r4202-1",
+     "maker": "asahi",
+     "product_name": "スーパードライ",
+     "serving_type": "draft",
+     "price": 638,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（しゃぶしゃぶ温野菜）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r4203",
+   "name": "しゃぶしゃぶ温野菜 蒲田西口店",
+   "address": "東京都大田区西蒲田7-4-6シティ蒲田1Ｆ",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 35.56395,
+   "longitude": 139.715983,
+   "offerings": [
+    {
+     "id": "off-r4203-1",
+     "maker": "asahi",
+     "product_name": "スーパードライ",
+     "serving_type": "draft",
+     "price": 638,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（しゃぶしゃぶ温野菜）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r4204",
+   "name": "しゃぶしゃぶ温野菜 淵野辺店",
+   "address": "神奈川県相模原市中央区共和4-7-10",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 35.564061,
+   "longitude": 139.393761,
+   "offerings": [
+    {
+     "id": "off-r4204-1",
+     "maker": "asahi",
+     "product_name": "スーパードライ",
+     "serving_type": "draft",
+     "price": 638,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（しゃぶしゃぶ温野菜）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r4205",
+   "name": "しゃぶしゃぶ温野菜 自由が丘店",
+   "address": "東京都目黒区自由が丘2-11-8キネスビルＢ1Ｆ",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 35.607324,
+   "longitude": 139.667733,
+   "offerings": [
+    {
+     "id": "off-r4205-1",
+     "maker": "asahi",
+     "product_name": "スーパードライ",
+     "serving_type": "draft",
+     "price": 638,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（しゃぶしゃぶ温野菜）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r4206",
+   "name": "しゃぶしゃぶ温野菜 横浜西口鶴屋町店",
+   "address": "神奈川県横浜市西区北幸1-1-2ＩＮＢ横浜西口ビル7Ｆ",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 35.467616,
+   "longitude": 139.622161,
+   "offerings": [
+    {
+     "id": "off-r4206-1",
+     "maker": "asahi",
+     "product_name": "スーパードライ",
+     "serving_type": "draft",
+     "price": 638,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（しゃぶしゃぶ温野菜）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r4207",
+   "name": "しゃぶしゃぶ温野菜 海老名店",
+   "address": "神奈川県海老名市扇町6-7NAVEL HOUSE 1F",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 35.456272,
+   "longitude": 139.388124,
+   "offerings": [
+    {
+     "id": "off-r4207-1",
+     "maker": "asahi",
+     "product_name": "スーパードライ",
+     "serving_type": "draft",
+     "price": 638,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（しゃぶしゃぶ温野菜）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r4208",
+   "name": "しゃぶしゃぶ温野菜 千日前店",
+   "address": "大阪府大阪市中央区難波3-4-13味わいばしビル2Ｆ",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 34.666802,
+   "longitude": 135.501672,
+   "offerings": [
+    {
+     "id": "off-r4208-1",
+     "maker": "asahi",
+     "product_name": "スーパードライ",
+     "serving_type": "draft",
+     "price": 638,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（しゃぶしゃぶ温野菜）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r4209",
+   "name": "しゃぶしゃぶ温野菜 道頓堀店",
+   "address": "大阪府大阪市中央区宗右衛門町7-6菱富ビル4Ｆ",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 34.66932,
+   "longitude": 135.501895,
+   "offerings": [
+    {
+     "id": "off-r4209-1",
+     "maker": "asahi",
+     "product_name": "スーパードライ",
+     "serving_type": "draft",
+     "price": 638,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（しゃぶしゃぶ温野菜）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r4210",
+   "name": "しゃぶしゃぶ温野菜 ゆめタウン福山店",
+   "address": "広島県福山市入船町3-1-60",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 34.487134,
+   "longitude": 133.378685,
+   "offerings": [
+    {
+     "id": "off-r4210-1",
+     "maker": "asahi",
+     "product_name": "スーパードライ",
+     "serving_type": "draft",
+     "price": 638,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（しゃぶしゃぶ温野菜）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r4211",
+   "name": "しゃぶしゃぶ温野菜 松江駅前店",
+   "address": "島根県松江市御手船場町566ワンダ-ビル4Ｆ",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 35.465774,
+   "longitude": 133.062843,
+   "offerings": [
+    {
+     "id": "off-r4211-1",
+     "maker": "asahi",
+     "product_name": "スーパードライ",
+     "serving_type": "draft",
+     "price": 638,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（しゃぶしゃぶ温野菜）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r4212",
+   "name": "しゃぶしゃぶ温野菜 岡山津島店",
+   "address": "岡山県岡山市北区伊島北町21-1",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 34.6799,
+   "longitude": 133.903689,
+   "offerings": [
+    {
+     "id": "off-r4212-1",
+     "maker": "asahi",
+     "product_name": "スーパードライ",
+     "serving_type": "draft",
+     "price": 638,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（しゃぶしゃぶ温野菜）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r4213",
+   "name": "しゃぶしゃぶ温野菜 庚午店",
+   "address": "広島県広島市西区庚午中4-5-25",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 34.382862,
+   "longitude": 132.41449,
+   "offerings": [
+    {
+     "id": "off-r4213-1",
+     "maker": "asahi",
+     "product_name": "スーパードライ",
+     "serving_type": "draft",
+     "price": 638,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（しゃぶしゃぶ温野菜）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r4214",
+   "name": "しゃぶしゃぶ温野菜 西武新宿駅前店",
+   "address": "東京都新宿区歌舞伎町1-25-3西武新宿駅前ビル 2F",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 35.694653,
+   "longitude": 139.700595,
+   "offerings": [
+    {
+     "id": "off-r4214-1",
+     "maker": "asahi",
+     "product_name": "スーパードライ",
+     "serving_type": "draft",
+     "price": 638,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（しゃぶしゃぶ温野菜）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r4215",
+   "name": "しゃぶしゃぶ温野菜 渋谷文化村通り店",
+   "address": "東京都渋谷区宇田川町26-2サンルイビル6F",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 35.659976,
+   "longitude": 139.699062,
+   "offerings": [
+    {
+     "id": "off-r4215-1",
+     "maker": "asahi",
+     "product_name": "スーパードライ",
+     "serving_type": "draft",
+     "price": 638,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（しゃぶしゃぶ温野菜）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r4216",
+   "name": "しゃぶしゃぶ温野菜 藤沢駅前店",
+   "address": "神奈川県藤沢市南藤沢3-4SKK南藤沢ビル ２Ｆ",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 35.338001,
+   "longitude": 139.488914,
+   "offerings": [
+    {
+     "id": "off-r4216-1",
+     "maker": "asahi",
+     "product_name": "スーパードライ",
+     "serving_type": "draft",
+     "price": 638,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（しゃぶしゃぶ温野菜）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r4217",
+   "name": "しゃぶしゃぶ温野菜 横浜西口北幸店",
+   "address": "神奈川県横浜市西区北幸1-8-6横浜三栄ビル２Ｆ",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 35.465893,
+   "longitude": 139.618815,
+   "offerings": [
+    {
+     "id": "off-r4217-1",
+     "maker": "asahi",
+     "product_name": "スーパードライ",
+     "serving_type": "draft",
+     "price": 638,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（しゃぶしゃぶ温野菜）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r4218",
+   "name": "しゃぶしゃぶ温野菜 立川店",
+   "address": "東京都立川市柴崎町3-3-7山三電機ビル５Ｆ",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 35.69679,
+   "longitude": 139.41421,
+   "offerings": [
+    {
+     "id": "off-r4218-1",
+     "maker": "asahi",
+     "product_name": "スーパードライ",
+     "serving_type": "draft",
+     "price": 638,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（しゃぶしゃぶ温野菜）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r4219",
+   "name": "しゃぶしゃぶ温野菜 昭島モリタウン店",
+   "address": "東京都昭島市代官山2-3-1モリタウン１Ｆ",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 35.713635,
+   "longitude": 139.361752,
+   "offerings": [
+    {
+     "id": "off-r4219-1",
+     "maker": "asahi",
+     "product_name": "スーパードライ",
+     "serving_type": "draft",
+     "price": 638,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（しゃぶしゃぶ温野菜）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r4220",
+   "name": "しゃぶしゃぶ温野菜 弘前土手町店",
+   "address": "青森県弘前市土手町135",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 40.597994,
+   "longitude": 140.475731,
+   "offerings": [
+    {
+     "id": "off-r4220-1",
+     "maker": "asahi",
+     "product_name": "スーパードライ",
+     "serving_type": "draft",
+     "price": 638,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（しゃぶしゃぶ温野菜）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r4221",
+   "name": "しゃぶしゃぶ温野菜 キュエル姫路店",
+   "address": "兵庫県姫路市西駅前町1-4キュエル姫路５Ｆ",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 34.828298,
+   "longitude": 134.689266,
+   "offerings": [
+    {
+     "id": "off-r4221-1",
+     "maker": "asahi",
+     "product_name": "スーパードライ",
+     "serving_type": "draft",
+     "price": 638,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（しゃぶしゃぶ温野菜）",
+     "verified_at": "2026-06-12",
+     "source_type": "official",
+     "corroboration_count": 1
+    }
+   ]
+  },
+  {
+   "id": "shop-r4222",
+   "name": "しゃぶしゃぶ温野菜 豊科店",
+   "address": "長野県安曇野市豊科南穂高578-1",
+   "area": null,
+   "nearest_station": null,
+   "latitude": 36.302222,
+   "longitude": 137.912771,
+   "offerings": [
+    {
+     "id": "off-r4222-1",
+     "maker": "asahi",
+     "product_name": "スーパードライ",
+     "serving_type": "draft",
+     "price": 638,
+     "size": "中ジョッキ",
+     "notes": "チェーン共通（しゃぶしゃぶ温野菜）",
      "verified_at": "2026-06-12",
      "source_type": "official",
      "corroboration_count": 1
