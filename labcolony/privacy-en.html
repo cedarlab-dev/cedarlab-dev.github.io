@@ -1,0 +1,247 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Privacy Policy - LabColony</title>
+  <link rel="stylesheet" href="../style.css">
+</head>
+<body>
+  <main>
+    <p class="lang-switch"><a href="./privacy-ja.html">日本語</a></p>
+
+    <header>
+      <h1>Privacy Policy</h1>
+      <p class="meta">LabColony / Last updated: July 7, 2026</p>
+    </header>
+
+    <p>
+      "LabColony" ("the App") respects your privacy. This policy explains
+      what information the App handles and how it is used.
+    </p>
+
+    <h2>Developer Information</h2>
+    <ul>
+      <li>Developer: Akira Sugiyama (Cedarlab)</li>
+      <li>Location: Japan. As this is an individual developer, detailed address information will be disclosed without delay through the contact email when legally required or reasonably requested.</li>
+      <li>App: LabColony</li>
+      <li>Contact: <a href="mailto:legal@cedarlab.dev">legal@cedarlab.dev</a></li>
+    </ul>
+
+    <h2>1. Information Handled on Your Device</h2>
+    <p>
+      If cloud sync is not enabled, the App's record data is stored
+      <strong>only on your device</strong>. The iOS app uses SQLite.
+      Main data includes:
+    </p>
+    <ul>
+      <li>Room, rack, and cage information, including names, layouts, status, and notes</li>
+      <li>Animal information, including animal code, species, strain, genotype, sex, date of birth, and status</li>
+      <li>Animal cage membership history and move history</li>
+      <li>Breeding records and death/euthanasia records</li>
+      <li>Administration records, procedure records, and body weight records</li>
+      <li>Identification data such as ear punches, tail marks, body marks, and tattoos</li>
+      <li>Routine tasks, master data, species-specific settings, and display settings</li>
+      <li>Local data required for backup and restore</li>
+    </ul>
+    <p>
+      This information is used for recording, viewing, summarizing, CSV export,
+      backup, and restore of research animal colony records. Unless cloud sync is enabled,
+      it is not sent to the developer's servers.
+    </p>
+    <p>
+      <strong>Information you enter about third parties:</strong>
+      If you enter personal or confidential information in animal codes, strains, genotypes,
+      procedure details, staff names, notes, or similar fields, please follow your institution's
+      rules and enter only the minimum information required for management.
+    </p>
+
+    <h2>2. Information Handled by Cloud Sync</h2>
+    <p>
+      When cloud sync is enabled, the App sends sync-target record data to a Supabase
+      cloud environment. This may include the room, rack, cage, animal, breeding,
+      administration, procedure, death, body weight, routine task, master data,
+      and settings information described in Section 1.
+    </p>
+    <p>
+      Cloud sync is used to share data across multiple devices using the same account
+      or, in the future, through shared lab features. Sync requires a Supabase Auth account.
+      Email address, authentication tokens, user ID, registered device ID, sync status,
+      and entitlement information may also be handled.
+    </p>
+    <p>
+      Sync data is managed with Supabase Row Level Security, authentication, and sync RPC
+      authorization checks so that it is used only by the logged-in user or shared lab members.
+      If you enable cloud sync, please also follow the data-management rules of your institution
+      or lab.
+    </p>
+
+    <h2>3. Account Information</h2>
+    <p>
+      Login is required for purchase restore, cloud sync, registered device management,
+      and future lab sharing features. The App uses Supabase Auth and handles email address,
+      authentication tokens, user ID, and related information. You can change your email address
+      or delete your account from the app settings.
+    </p>
+    <p>
+      When account deletion is performed, the App deletes cloud account-related data
+      and local data on this device. If a network error prevents cloud-side deletion,
+      run account deletion again while online.
+    </p>
+
+    <h2>4. Information Handled by Third-Party Services</h2>
+
+    <h3>4.1 Google AdMob (Advertising)</h3>
+    <p>
+      The free plan displays ads through Google AdMob. AdMob may handle the following
+      information for ad delivery:
+    </p>
+    <ul>
+      <li>Identifiers - advertising identifier (IDFA), only when allowed by App Tracking Transparency (ATT)</li>
+      <li>Usage data - ad requests, ad impressions, and interactions with the ad SDK</li>
+      <li>Location - country or region-level approximate location inferred from IP address</li>
+      <li>Diagnostics - crash data, performance data, and technical SDK diagnostics</li>
+    </ul>
+    <p>
+      The App uses the ad SDK according to Google User Messaging Platform (UMP) consent
+      management and the iOS App Tracking Transparency (ATT) permission status.
+      If ATT is not allowed, IDFA cannot be used. In applicable regions, a UMP consent
+      form may be displayed. Paid plans do not display ads.
+    </p>
+    <p>
+      Google's privacy policy: <a href="https://policies.google.com/privacy">https://policies.google.com/privacy</a>
+      <br>
+      Ad personalization settings / opt-out: <a href="https://adssettings.google.com/">https://adssettings.google.com/</a>
+    </p>
+
+    <h3>4.2 Apple App Store / StoreKit</h3>
+    <p>
+      In-app purchases are processed through Apple App Store / StoreKit.
+      The developer does not have access to payment information such as credit card numbers.
+      Refunds are handled by Apple under Apple's policies.
+    </p>
+    <p>
+      Apple's privacy policy: <a href="https://www.apple.com/legal/privacy/">https://www.apple.com/legal/privacy/</a>
+    </p>
+
+    <h3>4.3 RevenueCat</h3>
+    <p>
+      The App uses RevenueCat for checking in-app purchase status, restoring purchases,
+      and managing subscription entitlements. RevenueCat handles purchase status,
+      app user ID, product IDs, subscription status, and related information.
+      To associate purchases with the correct account, the App uses the logged-in
+      Supabase user ID as the RevenueCat app user ID.
+    </p>
+    <p>
+      RevenueCat's privacy policy: <a href="https://www.revenuecat.com/privacy/">https://www.revenuecat.com/privacy/</a>
+    </p>
+
+    <h3>4.4 Supabase</h3>
+    <p>
+      The App uses Supabase for account authentication, cloud sync, entitlement information,
+      registered device management, and future lab sharing features. When cloud sync is enabled,
+      sync-target data and account-related information are processed on Supabase.
+    </p>
+    <p>
+      Supabase privacy policy: <a href="https://supabase.com/privacy">https://supabase.com/privacy</a>
+    </p>
+
+    <h2>5. Information the App Itself Does Not Collect</h2>
+    <p>
+      The App itself does not collect the following for unrelated purposes
+      (except for cloud sync described in Section 2, third-party services described in Section 4,
+      and information voluntarily provided by email described in Section 6):
+    </p>
+    <ul>
+      <li>Device GPS location</li>
+      <li>Contacts, photos, calendar, or microphone data</li>
+      <li>Patient information for medical or clinical purposes</li>
+      <li>Payment information such as credit card numbers</li>
+    </ul>
+
+    <h2>6. Email Support</h2>
+    <p>
+      If you contact
+      <a href="mailto:legal@cedarlab.dev">legal@cedarlab.dev</a> or
+      <a href="mailto:support@cedarlab.dev">support@cedarlab.dev</a>,
+      the following information may be obtained and processed:
+    </p>
+    <ul>
+      <li>Sender email address</li>
+      <li>Name, organization, or similar information included in the sender field or signature</li>
+      <li>Email body, environment information, and attachments such as bug report screenshots</li>
+    </ul>
+    <p>
+      <strong>Purpose:</strong> replying to inquiries, investigating bugs, and handling privacy-rights requests.
+    </p>
+    <p>
+      <strong>Retention:</strong> Support and privacy correspondence is retained for up to 12 months
+      after the inquiry is resolved, then deleted. You may request deletion at any time by replying
+      to the thread or contacting
+      <a href="mailto:legal@cedarlab.dev">legal@cedarlab.dev</a>.
+    </p>
+
+    <h2>7. Children's Privacy</h2>
+    <p>
+      The App is not directed to children under 13. We do not knowingly collect
+      personal information from children under 13.
+    </p>
+
+    <h2>8. Data Storage and Deletion</h2>
+    <p>
+      Local data is retained while the app remains installed on your device.
+      Deleting the app deletes the App-related local data on the device.
+      Individual records can also be deleted within the App.
+    </p>
+    <p>
+      If cloud sync is enabled, cloud sync data is retained as necessary to provide
+      the account and sync features. Account deletion can request deletion of
+      cloud account-related data.
+    </p>
+    <p>
+      Information held by Google AdMob, Apple, RevenueCat, and Supabase is managed
+      according to each provider's policy. Please refer to each provider's privacy policy
+      for data deletion and restriction options.
+    </p>
+
+    <h2>9. Rights of Residents in the EEA / UK (GDPR)</h2>
+    <p>
+      The current version of the App is distributed primarily in Japan. This section applies
+      if distribution is expanded to the EEA / UK in the future or if applicable law requires it.
+    </p>
+    <p>
+      The data controller for the App is Akira Sugiyama (Cedarlab), an individual developer
+      residing in Japan. To the extent applicable, you may have rights to access, rectify,
+      erase, restrict processing of, object to processing of, or port your personal data,
+      withdraw consent, and lodge a complaint with a supervisory authority.
+      To exercise these rights, please contact the email address in Section 12.
+    </p>
+
+    <h2>10. Changes to This Privacy Policy</h2>
+    <p>
+      If this policy is updated, the "Last updated" date on this page will be changed.
+      Material changes may also be announced within the App.
+    </p>
+
+    <h2>11. Governing Law</h2>
+    <p>
+      This policy is governed by the laws of Japan.
+    </p>
+
+    <h2>12. Contact</h2>
+    <p>
+      Questions about this policy, data deletion requests, or reports of inappropriate ads
+      displayed in the App should be sent to
+      <a href="mailto:legal@cedarlab.dev">legal@cedarlab.dev</a>.
+    </p>
+
+    <footer>
+      &copy; Cedarlab / LabColony
+      <br>
+      <small>
+        LabColony is developed and provided by Akira Sugiyama (Cedarlab), an individual developer.
+      </small>
+    </footer>
+  </main>
+</body>
+</html>
