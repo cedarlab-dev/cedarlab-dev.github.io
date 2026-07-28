@@ -1,0 +1,50 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="SakuCAD privacy policy.">
+  <meta http-equiv="Content-Security-Policy" content="default-src 'self'; img-src 'self'; style-src 'self'; base-uri 'none'; form-action 'none'; object-src 'none'">
+  <title>Privacy Policy — SakuCAD</title>
+  <link rel="icon" href="assets/icon.png">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header><nav class="shell nav" aria-label="Main navigation"><a class="brand" href="./"><img src="assets/icon.png" alt=""><span>SakuCAD</span></a><div class="nav-links"><a href="support.html">Support</a><a lang="ja" href="privacy-ja.html">日本語</a></div></nav></header>
+  <main class="shell"><article class="prose">
+    <p class="language-note"><a lang="ja" href="privacy-ja.html">日本語のプライバシーポリシー</a></p>
+    <div class="eyebrow">SakuCAD</div>
+    <h1>Privacy Policy</h1>
+    <p class="meta">Effective date: July 15, 2026</p>
+    <p>SakuCAD is a local-first CAD application provided by Cedarlab. This policy explains what stays on your device, what may leave it when you choose an AI connection, and the controls available to you.</p>
+
+    <h2>1. Core CAD data stays local</h2>
+    <p>Creating and editing geometry, printability checks, project save/open, and 3MF, STL, or STEP export run on your device. These functions do not require a SakuCAD account or Cedarlab cloud service. Project files, part names, dimensions, printer profiles, application settings, autosave data, and security-scoped file bookmarks remain on your device unless you choose to move or share them.</p>
+
+    <h2>2. Optional AI features</h2>
+    <p>AI assistance is optional and is not needed for core CAD work.</p>
+    <h3>Direct remote providers</h3>
+    <p>If you choose a remote AI provider and confirm a request, SakuCAD sends your prompt and a shape summary—including part names, dimensions, and feature information—to the endpoint shown in the confirmation screen. Built-in requests do not send the full model mesh. The provider processes and may retain this content under its own terms, privacy policy, and your provider account settings. Cedarlab does not receive a server-side copy through SakuCAD.</p>
+    <h3>Local Ollama</h3>
+    <p>The default Ollama endpoint is localhost. If you change it to a remote address, confirmed prompts and shape summaries leave your device for that address. You are responsible for the endpoint you configure.</p>
+    <h3>Plan import and local MCP</h3>
+    <p>Pasting or opening a structured plan is local. The SakuCAD MCP bridge uses local stdio and local application-support queues. A connected AI client may use its own online service, so that client's privacy terms also apply. Every imported or connected proposal is validated, shown for review, and requires your approval before it can change the project.</p>
+
+    <h2>3. API credentials</h2>
+    <p>Optional direct-provider credentials are stored through the desktop operating system’s credential store. The verified macOS build uses macOS Keychain; the Windows release candidate will be rechecked on Windows before Microsoft Store submission. Credentials are not written to a SakuCAD project or application log. A credential is sent only to its configured provider as authentication for a request you confirm. You can remove stored credentials from AI provider settings.</p>
+
+    <h2>4. Analytics, advertising, and tracking</h2>
+    <p>SakuCAD contains no Cedarlab account system, advertising SDK, analytics SDK, or cross-app tracking. The app does not sell personal information. This static support site contains no analytics or advertising scripts; the hosting provider may retain standard security and access logs under its own operational policy.</p>
+
+    <h2>5. Retention and deletion</h2>
+    <p>Local projects and exported files remain until you delete them. Application settings, autosave data, file-access bookmarks, AI proposal queues, and credentials in the operating system’s credential store remain locally until removed or the relevant application data is deleted. Data sent to a provider is governed by that provider's retention controls. Cedarlab has no SakuCAD cloud copy to delete.</p>
+
+    <h2>6. Children and sensitive information</h2>
+    <p>SakuCAD is a general-purpose design tool and is not directed to children. Do not place personal, confidential, regulated, or secret information in a prompt or part name sent to a remote provider unless you have determined that provider is appropriate for the data.</p>
+
+    <h2>7. Changes and contact</h2>
+    <p>We will update the effective date when this policy materially changes. Questions about privacy can be sent to <a href="mailto:support@cedarlab.dev">support@cedarlab.dev</a>.</p>
+  </article></main>
+  <footer><div class="shell footer-row"><span>© 2026 Cedarlab</span><div class="footer-links"><a href="./">Home</a><a href="support.html">Support</a></div></div></footer>
+</body>
+</html>
