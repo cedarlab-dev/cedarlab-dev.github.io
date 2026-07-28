@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="SakuCADのサポートとよくある質問。">
+  <meta http-equiv="Content-Security-Policy" content="default-src 'self'; img-src 'self'; style-src 'self'; base-uri 'none'; form-action 'none'; object-src 'none'">
+  <title>サポート — SakuCAD</title>
+  <link rel="icon" href="assets/icon.png">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header><nav class="shell nav" aria-label="メインナビゲーション"><a class="brand" href="index-ja.html"><img src="assets/icon.png" alt=""><span>SakuCAD</span></a><div class="nav-links"><a href="privacy-ja.html">プライバシー</a><a lang="en" href="support.html">English</a></div></nav></header>
+  <main class="shell"><article class="prose">
+    <p class="language-note"><a lang="en" href="support.html">Support in English</a></p>
+    <div class="eyebrow">SakuCAD</div>
+    <h1>サポート</h1>
+    <p class="lead">SakuCADは、家庭用3Dプリンター向けの設計、印刷しやすさのチェック、ファイル書き出しを支援します。</p>
+
+    <h2>問い合わせ</h2>
+    <p><a href="mailto:support@cedarlab.dev">support@cedarlab.dev</a> へ、SakuCADのバージョン、OSバージョン、期待した動作、問題が起きるまでの正確な手順をお送りください。画面画像を添える場合は、APIキー、個人名、非公開のパス、機密の設計内容を除いてください。</p>
+
+    <h2>よくある質問</h2>
+    <h3>SakuCADからプリンターを操作できますか？</h3>
+    <p>できません。SakuCADはスライス、G-code生成、印刷ジョブ送信、プリンター制御を行いません。3MFまたはSTLを書き出し、スライサーで以降の作業を行ってください。CAD交換用のSTEP書き出しにも対応します。</p>
+
+    <h3>アカウントやインターネット接続は必要ですか？</h3>
+    <p>通常のCAD、保存・読込、チェック、書き出しには不要です。外部AIへ明示的に接続する場合だけインターネット接続が必要です。</p>
+
+    <h3>どのファイルを開けますか？</h3>
+    <p>SakuCADのプロジェクトファイルを開けます。バージョン1.0では、SVGまたはASCII DXFの輪郭をスケッチへ取り込み、PNG・JPEG画像を寸法校正した下絵として配置し、STL・3MFメッシュを独立形状または参照形状として取り込めます。取り込んだメッシュから編集可能なB-Rep履歴、寸法、スケッチ拘束は復元されません。STEPは書き出しのみで、取り込みには対応していません。</p>
+
+    <h3>印刷チェックが問題なしなら必ず印刷できますか？</h3>
+    <p>保証はできません。チェックは現在のプロファイルに対して一部の形状上のリスクを示すものです。スライサー設定、材料状態、実機の補正、向き、現実の失敗要因をすべて判断するものではありません。スライサーと対象プリンターで最終確認してください。</p>
+
+    <h3>AIは必須ですか？</h3>
+    <p>必須ではありません。外部AIへの依頼では送信内容を表示し、確認を求めます。返された提案は検証され、SakuCAD内で承認するまで設計を変更しません。</p>
+
+    <h3>ライセンスとバージョンはどこで確認できますか？</h3>
+    <p>ホームまたはワークスペースからAboutを開いてください。バージョン、安全範囲、第三者ライセンスを確認できます。</p>
+
+    <h2>配布状況</h2>
+    <p>各リリース候補がストア固有の実機gateを通過した後、このページへ正式なストアリンクと動作条件を追加します。未検証のWindows版や署名sandbox版が公開済みであることを示すものではありません。</p>
+  </article></main>
+  <footer><div class="shell footer-row"><span>© 2026 Cedarlab</span><div class="footer-links"><a href="index-ja.html">ホーム</a><a href="privacy-ja.html">プライバシー</a></div></div></footer>
+</body>
+</html>
